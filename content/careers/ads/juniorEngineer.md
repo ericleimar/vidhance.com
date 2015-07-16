@@ -6,7 +6,6 @@ menu:
   main:
     name: "Junior Engineer"
     parent: "Careers"
-    url: "/ads/juniorEngineer"
 ---
 # Uppsala, Sweden
 
@@ -22,11 +21,11 @@ Vi är mjukvaruexperter och algoritmutvecklare. Vi bygger innovativ teknik inom 
 
 Vi har en entreprenörskultur. Det innebär att de som är initiativrika och självgående problemlösare trivs bäst hos oss. Vi uppskattar ärlighet och ansvarstagande, och förmågan att både vara kreativ och kunna planera och genomföra. Det skall vara både krävande och roligt att jobba hos oss, och våra internationella kunder och partner har höga förväntningar. Det är viktigare med vad du tillför i idéer och handlingar, än din bakgrund och dina formella meriter. För att kunna leverera bra resultat krävs balans i livet. Tid måste finnas för annat än jobb för att kreativitet och passion skall få uthålligt utrymme. Vi har en kultur av ömsesidighet, där vi ger bra förutsättningar att få ihop både arbets- och familjeliv. Vi uppskattar olikheter; i bakgrund, erfarenheter och åsikter.
 
-# Job definition:
+# Job beskrivning:
 
 Hos Imint finns inga tydliga avdelningar och hårt ritade gränser. Vår uppgift är att omsätta innovativa idéer och forskningsnära kunskap till riktiga funktioner i var mans hand, och på kort tid. Denna roll har fokus på levererbara produkter och kundintegration. Imints mjukvara Vidhance Mobile integreras som mjukvarukomponenter direkt i kundens produkt (som till exempel en smartphone), och som en utökning till operativsystemets abstraktionslager för kamerahårdvara. I dagsläget stöds Android, men andra operativsystem kan komma. För denna roll värdesätts kvalitetsmedvetenhet, bra kommunikationsförmåga, och ett intresse av att stödja ingenjörer hos några av världens mest kända smartphonetillverkare i integrationsarbetet av vår mjukvara i deras telefoner.
 
-# Qualifications:
+# Kvalifikationer:
 # Generella kvalifikationer- ingenjör hos Imint
 
 Följande lista är generella önskemål för alla ingenjörstjänster hos oss:
@@ -61,13 +60,13 @@ I listan nedan anger vi några punkter där sökande kan hitta en "spets", och r
 - Personligt intresse av fotografi/videografi, datorgrafik, optik/kamerateknik, eller liknande
 - Kvalitetsmedveten och med bra prioriteringsförmåga under stressiga perioder, och som skapar förtroende hos medarbetare och kunder.
 
-# Terms:
+# Villkor:
 
 Imint erbjuder rätt sökande en marknadsmässig lön, med kollektivavtalshärmande villkor. Vi tillämpar flexibel arbetstid inom ramen för kärntid.
 
 Den här tjänsten inleds om vi inte kommer överens om annat med en provanställning enligt lagen om anställningsskydd.
 
-# Process:
+# Processen:
 
 I den tillväxtfas som Imint är inne i, sker rekrytering löpande. Vi uppmanar dock att söka tjänsten senast den 30 augusti 2015.
 
