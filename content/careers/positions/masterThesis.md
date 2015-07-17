@@ -1,12 +1,11 @@
 ---
 title: "Master Thesis within Video Software and Editing Algorithms (20w)"
 weight: 100
-isad: "yes"
+isposition: "yes"
 menu:
   main:
     name: "Master thesis"
     parent: "Careers"
-    url: "/ads/masterThesis"
 ---
 # Uppsala, Sweden
 

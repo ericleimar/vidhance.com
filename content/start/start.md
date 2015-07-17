@@ -1,5 +1,5 @@
 ---
-title: "Welcome"
+title: ""
 weight: 5
 menu:
   main:

@@ -1,4 +1,3 @@
-
 body > header,
 body > footer {
 	width: 100%;
@@ -7,18 +6,17 @@ body > footer {
 	color: white;
 	margin: auto;
 }
-body > header > a > img {
-	max-width: 85%;
+body > header > img {
 	width: 8em;
-	padding: 1em;
+	padding: 2em;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 body > footer > p {
 	padding: 1em;
 	font-size: 0.8em;
 	margin-bottom: 0;
-}
-body > main > section > header {
-	display: none;
 }
 body > main > section > article {
 	margin-left: auto;
@@ -38,9 +36,6 @@ body > main > section > article[style] {
 	color: white;
 	padding-top: 0;
 	padding-bottom: 0;
-}
-body > main > section > article[style] > main {
-	display: none;
 }
 body > main > section > article[style] > header {
 	padding-top: 6em;
@@ -81,7 +76,6 @@ body > main.nav > section > article {
 }
 article.entrypoints {
 	padding: 0;
-	max-width: 50em;
 }
 @media only screen and (min-width: 50em) {
 	body > main > section > article.figure:nth-child(odd) > figure,
