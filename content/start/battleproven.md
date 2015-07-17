@@ -1,7 +1,7 @@
 ---
 title : "Battle-proven"
-image : "index/battleproven/battleproven.png"
-weight : 65
+image : "start/battleproven/battleproven.png"
+weight : 20
 ---
 # Defense technology retargeted
 
