@@ -22,7 +22,7 @@ Vi är mjukvaruexperter och algoritmutvecklare. Vi bygger innovativ teknik inom 
 
 Vi har en entreprenörskultur. Det innebär att de som är initiativrika och självgående problemlösare trivs bäst hos oss. Vi uppskattar ärlighet och ansvarstagande, och förmågan att både vara kreativ och kunna planera och genomföra. Det skall vara både krävande och roligt att jobba hos oss, och våra internationella kunder och partner har höga förväntningar. Det är viktigare med vad du tillför i idéer och handlingar, än din bakgrund och dina formella meriter. För att kunna leverera bra resultat krävs balans i livet. Tid måste finnas för annat än jobb för att kreativitet och passion skall få uthålligt utrymme. Vi har en kultur av ömsesidighet, där vi ger bra förutsättningar att få ihop både arbets- och familjeliv. Vi uppskattar olikheter; i bakgrund, erfarenheter och åsikter.
 
-# Job beskrivning:
+# Arbetsbeskrivning:
 
 Hos Imint finns inga tydliga avdelningar och hårt ritade gränser. Vår uppgift är att omsätta innovativa idéer och forskningsnära kunskap till riktiga funktioner i var mans hand, och på kort tid. Denna roll har fokus på levererbara produkter och kundintegration. Imints mjukvara Vidhance Mobile integreras som mjukvarukomponenter direkt i kundens produkt (som till exempel en smartphone), och som en utökning till operativsystemets abstraktionslager för kamerahårdvara. I dagsläget stöds Android, men andra operativsystem kan komma. För denna roll värdesätts kvalitetsmedvetenhet, bra kommunikationsförmåga, och ett intresse av att stödja ingenjörer hos några av världens mest kända smartphonetillverkare i integrationsarbetet av vår mjukvara i deras telefoner.
 
