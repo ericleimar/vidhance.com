@@ -1,10 +1,11 @@
 ---
-title: "About"
-weight: 20
+title: ""
+weight: 10
 menu:
   main:
     name: "About"
     url: "/info"
+    weight: 30
 ---
 
 # From Eyes in the Sky
@@ -17,16 +18,12 @@ Today, Imint is serving a broader range of customers in a variety of fields, wit
 
 Whenever time critical decisions are made, based on video sources, Imint has the software technology fit for the purpose.
 
-# Contact
+# [Contact](/info/contact)
 ### Address
 S:t Larsgatan 5  
 753 11 Uppsala  
 Sweden
-
 ### Phone
 +46 18 4749990
-
 ### E-Mail
 info@imint.se
-
-<iframe height="616" allowTransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none"  src="https://vidhance.wufoo.com/embed/z1agutxw0hidw3u/"><a href="https://vidhance.wufoo.com/forms/z1agutxw0hidw3u/">Fill out my Wufoo form!</a></iframe>

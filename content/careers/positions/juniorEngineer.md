@@ -1,7 +1,8 @@
 ---
 title: "Junior mjukvaruutvecklare/ produktintegratör"
 weight: 110
-isposition: "yes"
+ischildpage: "true"
+showsummary: "true"
 menu:
   main:
     name: "Junior Engineer"

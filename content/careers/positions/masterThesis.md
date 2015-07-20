@@ -1,7 +1,8 @@
 ---
 title: "Master Thesis within Video Software and Editing Algorithms (20w)"
 weight: 100
-isposition: "yes"
+ischildpage: "true"
+showsummary: "true"
 menu:
   main:
     name: "Master thesis"
