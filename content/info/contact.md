@@ -1,8 +1,9 @@
 ---
-title: ""
+title: "Contact"
 weight: 20
 ischildpage: "true"
 showsummary: "false"
+showtitle: "false"
 menu:
   main:
     name: "Contact"

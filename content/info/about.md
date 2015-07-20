@@ -1,10 +1,11 @@
 ---
-title: ""
+title: "About"
 weight: 10
+showtitle: "false"
 menu:
   main:
     name: "About"
-    url: "/info"
+    URL: "/info"
     weight: 30
 ---
 
@@ -26,4 +27,4 @@ Sweden
 ### Phone
 +46 18 4749990
 ### E-Mail
-info@imint.se
+[info@imint.se](mailto:info@imint.se)

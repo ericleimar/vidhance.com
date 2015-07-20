@@ -1,12 +1,12 @@
-baseurl: "http://vidhance.com"
+BaseURL: "http://vidhance.com"
 languageCode: "en-us"
 title: "Vidhance"
 
 menu:
   footer:
     - name: "Imint"
-      url: "http://www.imint.se"
+      URL: "http://www.imint.se"
     - name: "Vidhance"
-      url: "http://www.vidhance.com"
+      URL: "http://www.vidhance.com"
     - name: "Vidhance mobile"
-      url: "http://www.vidhancemobile.com"
+      URL: "http://www.vidhancemobile.com"

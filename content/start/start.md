@@ -1,10 +1,11 @@
 ---
-title: ""
+title: "Start"
 weight: 5
+showtitle: "false"
 menu:
   main:
     name: "Start"
-    url: "/"
+    URL: "/"
     weight: 10
 ---
 Vidhance provides software solutions for real-time video enhancement and analysis, supporting human perception of time critical events.

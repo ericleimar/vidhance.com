@@ -1,10 +1,11 @@
 ---
 title: "Careers"
 weight: 10
+showtitle: "false"
 menu:
   main:
     name: "Careers"
-    url: "/careers"
+    URL: "/careers"
     weight: 20
 ---
 # About Imint

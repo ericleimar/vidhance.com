@@ -8,25 +8,8 @@
 		<section>
 			{{ range .Data.Pages.ByWeight }}
 				{{ if or (eq .Params.showsummary "true") (not (isset .Params "ischildpage"))}}
-					<article{{ with .Params.image}} class="figure"{{ end }}{{ with .Params.background }} style="background-image: url(/img/{{ . }})"{{ end }}>
-						<header>
-					 		<h1>{{ .Title }}</h1>
-						</header>
-						{{ with .Params.image}}
-						<figure>
-							<img src="/img/{{.}}">
-						</figure>
-						{{ end }}
-						<main>
-							{{ if isset .Params "ischildpage" }}
-								{{ .Summary }}
-								<a href="{{ .RelPermalink }}">Read More</a>
-							{{ else }}
-								{{ .Content}}
-						  {{ end}}
-						</main>
-						<footer>{{ with .Params.backgroundcopyright }}<p>{{ . }}</p>{{ end }}</footer>
-					</article>
+					{{ .Scratch.Add "pagetype" "list" }}
+					{{ template "partials/article.html" . }}
 				{{ end }}
 			{{ end }}
 		</section>
