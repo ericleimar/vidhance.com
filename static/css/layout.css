@@ -50,13 +50,14 @@ body > main > section > article[style] > footer > p {
 body > main > section > article > header {
 	text-align: center;
 }
-body > main > section > article > main > video {
+body > main > section > article > video {
 	width: 100%;
 	height: auto;
 }
-body > main > section > article > figure {
+body > main > section > article > figure,
+body > main > section > article > video {
 	margin: 0;
-	max-width: 25em;
+	max-width: 26em;
 	margin: auto;
 }
 body > main > section > article > figure > img,
@@ -74,22 +75,29 @@ body > main.nav > section > article {
 .hide {
 	display: none;
 }
-article.entrypoints {
-	padding: 0;
+article.onlygraphic, article.entrypoints {
+	padding: 0em;
+	max-width: 52em;
 }
-@media only screen and (min-width: 50em) {
-	body > main > section > article.figure:nth-child(odd) > figure,
+article.onlygraphic > video,
+article.onlygraphic > figure {
+	max-width: 52em;
+}
+@media only screen and (min-width: 52em) {
+	body > main > section > article.graphic:nth-child(odd) > figure,
+	body > main > section > article.graphic:nth-child(odd) > video,
 	body > main > section > article.entrypoints > figure:nth-child(odd) {
 		float: right;
 	}
-	body > main > section > article.figure:nth-child(odd) > *:not(header):not(footer):not(figure) {
+	body > main > section > article.graphic:nth-child(odd) > *:not(header):not(footer):not(figure):not(video) {
 		margin-right: 27em;
 	}
-	body > main > section > article.figure:nth-child(even) > figure,
+	body > main > section > article.graphic:nth-child(even) > figure,
+	body > main > section > article.graphic:nth-child(even) > video,
 	body > main > section > article.entrypoints > figure:nth-child(even) {
 		float: left;
 	}
-	body > main > section > article.figure:nth-child(even) > *:not(header):not(footer):not(figure) {
+	body > main > section > article.graphic:nth-child(even) > *:not(header):not(footer):not(figure):not(video) {
 		margin-left: 27em;
 	}
 	body > main > footer,
@@ -98,5 +106,4 @@ article.entrypoints {
 	body > main > section {
 		clear: both;
 	}
-
 }
