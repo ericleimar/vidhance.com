@@ -57,7 +57,7 @@ body > main > section > article > video {
 body > main > section > article > figure,
 body > main > section > article > video {
 	margin: 0;
-	max-width: 26em;
+	max-width: 25em;
 	margin: auto;
 }
 body > main > section > article > figure > img,
@@ -77,13 +77,13 @@ body > main.nav > section > article {
 }
 article.onlygraphic, article.entrypoints {
 	padding: 0em;
-	max-width: 52em;
+	max-width: 50em;
 }
 article.onlygraphic > video,
 article.onlygraphic > figure {
-	max-width: 52em;
+	max-width: 50em;
 }
-@media only screen and (min-width: 52em) {
+@media only screen and (min-width: 50em) {
 	body > main > section > article.graphic:nth-child(odd) > figure,
 	body > main > section > article.graphic:nth-child(odd) > video,
 	body > main > section > article.entrypoints > figure:nth-child(odd) {

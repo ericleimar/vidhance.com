@@ -37,6 +37,12 @@
 {
   float: left;
 }
+nav > ul > li:nth-child(1),
+nav > ul > li:nth-child(1) > a
+{
+  border-left-width: 0;
+  padding-left: 0;
+}
  nav > ul li
 {
   list-style-type: none;
