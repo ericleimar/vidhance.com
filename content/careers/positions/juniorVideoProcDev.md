@@ -1,5 +1,6 @@
 ---
 title: "Video Processing Software Developer"
+date: 2015-07-21
 weight: 160
 ischildpage: "true"
 showsummary: "true"

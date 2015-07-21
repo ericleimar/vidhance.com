@@ -1,5 +1,6 @@
 ---
 title: "Master Thesis within Video Software and Editing Algorithms (20w)"
+date: 2015-07-21
 weight: 151
 ischildpage: "true"
 showsummary: "true"

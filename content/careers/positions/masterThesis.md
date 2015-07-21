@@ -1,5 +1,6 @@
 ---
 title: "Master Thesis within video processing and analysis"
+date: 2015-07-21
 weight: 150
 ischildpage: "true"
 showsummary: "true"

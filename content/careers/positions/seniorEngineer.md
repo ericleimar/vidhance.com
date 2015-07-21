@@ -1,5 +1,6 @@
 ---
 title: "Senior utvecklare/produktledare inom video"
+date: 2015-07-21
 weight: 110
 ischildpage: "true"
 showsummary: "true"

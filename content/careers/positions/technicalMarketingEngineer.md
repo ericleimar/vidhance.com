@@ -1,5 +1,6 @@
 ---
 title: "Teknisk marknadsförare (Technical Marketing Engineer)"
+date: 2015-07-21
 weight: 120
 ischildpage: "true"
 showsummary: "true"
