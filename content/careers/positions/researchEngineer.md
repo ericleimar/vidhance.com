@@ -1,13 +1,13 @@
 ---
-title: "Junior mjukvaruutvecklare/ produktintegratör"
-weight: 130
+title: "Forskningsingenjör inom video och signalanalys"
+weight: 140
 ischildpage: "true"
 showsummary: "true"
 menu:
   main:
-    name: "Junior utvecklare"
+    name: "Forskningsingenjör"
     parent: "Careers"
-    weight: 30
+    weight: 40
 ---
 # Uppsala, Sweden
 
@@ -25,10 +25,10 @@ Vi har en entreprenörskultur. Det innebär att de som är initiativrika och sj�
 
 # Arbetsbeskrivning:
 
-Hos Imint finns inga tydliga avdelningar och hårt ritade gränser. Vår uppgift är att omsätta innovativa idéer och forskningsnära kunskap till riktiga funktioner i var mans hand, och på kort tid. Denna roll har fokus på levererbara produkter och kundintegration. Imints mjukvara Vidhance Mobile integreras som mjukvarukomponenter direkt i kundens produkt (som till exempel en smartphone), och som en utökning till operativsystemets abstraktionslager för kamerahårdvara. I dagsläget stöds Android, men andra operativsystem kan komma. För denna roll värdesätts kvalitetsmedvetenhet, bra kommunikationsförmåga, och ett intresse av att stödja ingenjörer hos några av världens mest kända smartphonetillverkare i integrationsarbetet av vår mjukvara i deras telefoner.
+Hos Imint finns inga tydliga avdelningar och hårt ritade gränser. Vår uppgift är att omsätta innovativa idéer och forskningsnära kunskap till riktiga funktioner i var mans hand, och på kort tid. Denna roll har dock fokus på den mer långsiktiga utvecklingen, där tidiga idéer provas ut och undersöks. Erfarenhet av både forskningens innehåll inom bild/videobehandling och forskningens metodik är därför värdefull. Önskade erfarenheter listas nedan.
 
 # Kvalifikationer:
-## Generella kvalifikationer- ingenjör hos Imint
+## Generella meriter - ingenjör hos Imint
 
 Förutom specifika krav på enskilda tjänster, så söker vi huvudsakligen de med följande meriter.
 
@@ -37,35 +37,31 @@ Förutom specifika krav på enskilda tjänster, så söker vi huvudsakligen de m
 - Lagspelare som uppskattar att vara involverad i all vår verksamhet.
 - Kundinriktad, uppskattar att kommunicera med kunder och partners, och ibland resa utomlands.
 - Utbildningsnivå civilingenjör eller motsvarande.
-- Talar flytande och skriver god engelska. Funktionell nivå på svenska. Ytterligare språkkunskaper är meriterande, till exempel östasiatiska språk.
+-Talar flytande och skriver god engelska. Funktionell nivå på svenska. Ytterligare språkkunskaper är meriterande, till exempel östasiatiska språk.
 
 ## Rollen
 
-Vi söker en en junior mjukvaruutvecklare och produktintegratör med  förmåga att ge tekniskt stöd åt våra internationella kunder, med följande kvalifikationer:
+Vi söker en forskningsingenjör inom bild- och videoanalys eller signalanalysinrikting, med följande kvalifikationer:
 
-- 2+ års arbetserfarenhet, inom kommersiell mjukvaruutveckling och produkthantering, eller kvalificerad teknisk support.
-- Stor skicklighet i att programmera i  C, C# eller Java.
-- Erfarenhet av modern test- och utvecklingsmetodik inom mjukvara.
-- Erfarenhet av att förtroendefullt arbeta med kunder i en produkt-, support- eller leveransorganisation.
+- 3+ års relevant arbetserfarenhet, eller motsvarande erfarenhet efter disputering eller forskning inom relevant område
+- Erfarenhet av programutveckling och algoritmutveckling i  C, C++, C# eller Java.
+- Gedigen kunskap om metoder och metodutveckling inom bild- och videoanalys, med erfarenhet av verktyg som till exempel OpenCV.
+- Goda inom datorvetenskap och datorarkitektur.
+- Mycket goda färdigheter i algoritmutveckling, signalanalys och optimeringar inom området.
 
 ## Ytterligare meriter
 
-I listan nedan anger vi några punkter där sökande kan hitta en "spets", och rekommenderas att lyfta fram sådant i en ansökan. Punkterna utgör dock inte hårda krav.
+I listan nedan anger vi några punkter där sökande kan hitta en "spets", och rekommenderas att lyfta fram sådant i en ansökan. Punkterna utgör dock inte hårda krav för tjänsten.
 
-- Erfarenhet av mjukvara för videotillämpningar, tex. erfarenhet av DirectShow, GStreamer eller Media Foundation.
-- Erfarenhet och intresse av bildbehandling eller videoanalys, med erfarenhet av verktyg som till exempel OpenCV.
-- Erfarenhet av OpenGL och/eller OpenGL-ES och utveckling och optimering av shaders.
-- Goda kunskaper inom datorvetenskap och datorarkitektur.
-- Erfarenhet av att utveckla på Android, på operativsystems- eller drivrutinsnivå, och erfarenhet av att utveckla på inbyggnadsdatorer med hög prestanda, som till exempel ARM.
-- Bra förståelse för digital kamerateknik och Image Signal Processesing (ISP).
-- Personligt intresse av fotografi/videografi, datorgrafik, optik/kamerateknik, eller liknande
-- Kvalitetsmedveten och med bra prioriteringsförmåga under stressiga perioder, och som skapar förtroende hos medarbetare och kunder.
+- Erfarenhet av mjukvara för videotillämpningar, tex. erfarenhet av DirectShow och GStreamer.
+- Bra förståelse för digital kamerateknik och Image Signal Processesing (ISP)
+- Goda kunskaper om matematiska metoder inom optik, linjär algebra, geometri, statistisk analys, transformteori/signalbehandling, mm.
+- Erfarenhet av att utveckla algoritmer i mjukvara med hårda realtidskrav
+- Personligt intesse av fotografi/videografi, datorgrafik, optik/kamerateknik, eller liknande.
 
 # Villkor:
 
 Imint erbjuder rätt sökande en marknadsmässig lön, med kollektivavtalshärmande villkor. Vi tillämpar flexibel arbetstid inom ramen för kärntid.
-
-Den här tjänsten inleds om vi inte kommer överens om annat med en provanställning enligt lagen om anställningsskydd.
 
 # Processen:
 
