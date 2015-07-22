@@ -21,7 +21,7 @@
   margin-right: auto;
 }
  nav > ul {
-  padding: 0;
+  padding: 0em 1em;
   margin: 0 auto;
   overflow: hidden;
   width: 50em;

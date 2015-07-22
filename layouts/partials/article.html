@@ -33,6 +33,9 @@
     {{ else }}
       {{ .Content}}
     {{ end}}
+    {{ if eq .Title "Contact" }}
+      {{ template "partials/form.html" . }}
+    {{ end }}
   </main>
   <footer>{{ with .Params.backgroundcopyright }}<p>{{ . }}</p>{{ end }}</footer>
 </article>
