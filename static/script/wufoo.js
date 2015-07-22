@@ -1,5 +1,6 @@
 // Original file from wofuu
 // Added removeHighlight 					jonathan udd 2015-07-22
+// Added javascript validation		jonathan udd 2015-07-22
 
 addEvent(window, 'load', initForm);
 
@@ -8,9 +9,24 @@ var highlight_array = new Array();
 function initForm(){
 	initializeFocus();
 	var activeForm = document.getElementsByTagName('form')[0];
-	addEvent(activeForm, 'submit', disableSubmitButton);
+	//addEvent(activeForm, 'submit', disableSubmitButton);
 	ifInstructs();
 	showRangeCounters();
+
+	$('form').validate({
+		rules: {
+			Field6: {
+					required: true,
+					email: true
+			}
+		},
+		messages: {
+			Field6: "Please enter a valid email address"
+		},
+		submitHandler: function(form){
+			$(form).submit();
+		}
+	});
 }
 
 function disableSubmitButton() {
