@@ -73,7 +73,7 @@ body > main.nav > section > article {
 	padding-right: 1em;
 }
 .hide {
-	display: none;
+	display: none !important;
 }
 article.onlygraphic, article.entrypoints {
 	padding: 0em 1em;
@@ -93,6 +93,12 @@ div#c-forms-form, div.c-dropdown {
 }
 div.c-dropdown-button {
 	display: none;
+}
+img#loadinggif {
+	margin-left: auto;
+	margin-right: auto;
+	vertical-align: middle;
+	display: block;
 }
 @media only screen and (min-width: 52em) {
 	body > main > section > article.graphic:nth-child(odd) > figure,
