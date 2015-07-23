@@ -5,6 +5,7 @@ weight: 20
 ischildpage: "true"
 showsummary: "false"
 showtitle: "false"
+form: 3
 menu:
   main:
     name: "Contact"

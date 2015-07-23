@@ -88,6 +88,12 @@ body > main > section > article > main > iframe {
 	height: 720px;
 	border: none;
 }
+div#c-forms-form, div.c-dropdown {
+  position: static !important;
+}
+div.c-dropdown-button {
+	display: none;
+}
 @media only screen and (min-width: 52em) {
 	body > main > section > article.graphic:nth-child(odd) > figure,
 	body > main > section > article.graphic:nth-child(odd) > video,

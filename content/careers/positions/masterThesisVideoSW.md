@@ -50,7 +50,7 @@ The thesis work will not be remunerated as such, but a successful completion bon
 
 # Process:
 
-Please send your application by filling out the [job application form](http://imint.se/about/careers/apply).
+Please send your application by filling out the [job application form](/careers/jobApplication/).
 
 We anticipate the thesis work to be completed by spring of 2016.
 

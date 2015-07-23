@@ -33,8 +33,9 @@
     {{ else }}
       {{ .Content}}
     {{ end}}
-    {{ if eq .Title "Contact" }}
-      {{ template "partials/form.html" . }}
+    {{ if isset .Params "form" }}
+      <div class="cognito">
+      </div>
     {{ end }}
   </main>
   <footer>{{ with .Params.backgroundcopyright }}<p>{{ . }}</p>{{ end }}</footer>
