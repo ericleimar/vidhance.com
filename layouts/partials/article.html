@@ -1,21 +1,42 @@
-<article{{ with .Params.image}} class="figure"{{ end }}{{ with .Params.background }} style="background-image: url(/img/{{ . }})"{{ end }}>
+<article
+      {{ if or (isset .Params "image") (isset .Params "video") }}
+        {{ if .Content }}
+          class="graphic"
+        {{ else }}
+          class="onlygraphic"
+        {{ end }}
+      {{ end }}
+      {{ if isset .Params "background" }}
+        style="background-image: url(/img/{{ . }})"
+      {{ end }}>
   {{ if not (eq .Params.showtitle "false") }}
     <header>
       <h1>{{ .Title }}</h1>
     </header>
   {{ end }}
-  {{ with .Params.image}}
-  <figure>
-    <img src="{{.}}">
-  </figure>
+  {{ with .Params.image }}
+    <figure>
+      <img src="{{.}}">
+    </figure>
+  {{ end }}
+  {{ with .Params.video }}
+    <video controls="">
+      <source src="{{.}}" type="video/mp4">
+    </video>
   {{ end }}
   <main>
     {{ if and (isset .Params "ischildpage") (eq (.Scratch.Get "pagetype") "list") }}
       {{ .Summary }}
-      <a href="{{ .RelPermalink }}">Read More</a>
+      {{ if .Truncated }}
+        <a href="{{ .RelPermalink }}">Read More</a>
+      {{ end }}
     {{ else }}
       {{ .Content}}
     {{ end}}
+    {{ if isset .Params "form" }}
+      <div class="cognito">
+      </div>
+    {{ end }}
   </main>
   <footer>{{ with .Params.backgroundcopyright }}<p>{{ . }}</p>{{ end }}</footer>
 </article>

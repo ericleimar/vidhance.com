@@ -21,7 +21,7 @@
   margin-right: auto;
 }
  nav > ul {
-  padding: 0;
+  padding: 0em 1em;
   margin: 0 auto;
   overflow: hidden;
   width: 50em;
@@ -36,6 +36,12 @@
  nav > ul > li
 {
   float: left;
+}
+nav > ul > li:nth-child(1),
+nav > ul > li:nth-child(1) > a
+{
+  border-left-width: 0;
+  padding-left: 0;
 }
  nav > ul li
 {

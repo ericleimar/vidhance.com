@@ -1,5 +1,6 @@
 ---
 title : "Battle-proven"
+date: 2015-07-21
 image : "start/battleproven/battleproven.png"
 weight : 20
 ---

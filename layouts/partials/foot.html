@@ -1,0 +1,9 @@
+{{ if isset .Params "form" }}
+  <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+  <script src="https://services.cognitoforms.com/s/0UaHaqFaiUmXjjCMvn0-dA"></script>
+  <script>
+    $(document).ready(function() {
+      Cognito.load("forms", { id: "{{ .Params.form }}" });
+    })
+  </script>
+{{ end }}
