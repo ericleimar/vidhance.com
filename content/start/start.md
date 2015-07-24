@@ -15,6 +15,6 @@ Our products use the efficient Vidhance live video enhancement technology, with 
 
 - Rotational and planar video stabilization
 - Scene adaptive contrast optimization
-- Real-time image mosaicing
+- Real-time image mosaicking
 - Object tracking
 - Colorization
