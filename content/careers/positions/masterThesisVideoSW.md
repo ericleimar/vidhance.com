@@ -20,7 +20,7 @@ More videos than ever before are recorded by amateurs, thanks to the proliferati
 
 The phone's camera, however, is a good measuring device, with the recorded video as data set. This data can be used to determine camera motion patterns and extrapolate user intent with the video clip. Imint is currently conducting research in this domain, with ongoing master thesis projects. This position will take these findings further, by using such motion data, and finding heuristic methods to automatically suggest segmentation of a recorded video clip, available to the user shortly after recording is completed.
 
-# Job definition:
+# Job Definition:
 
 This thesis work will build on Imint's current technologies on motion estimation, and ongoing research on mapping quality metrics to motion patterns. The project will develop an algorithmic model for automatic segmentation of a video clip from a hand-held moving camera. Initial investigation into current research and industry method for the problem domain should be done.
 
