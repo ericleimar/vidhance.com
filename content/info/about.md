@@ -22,8 +22,8 @@ Whenever time critical decisions are made, based on video sources, Imint has the
 
 # [Contact](/info/contact)
 ### Address
-S:t Larsgatan 5  
-753 11 Uppsala  
+S:t Larsgatan 5
+753 11 Uppsala
 Sweden
 ### Phone
 +46 18 4749990
