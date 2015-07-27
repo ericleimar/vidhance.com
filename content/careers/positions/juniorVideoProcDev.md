@@ -19,7 +19,7 @@ Since Imint is an entrepreneurial and fast growing technology company, we apprec
 
 Our international customers and partners put high expectations on us and our capabilities. To thrive with us, you should feel energized by such demands. If you feel this to be a good fit with your own goals, we hope to see your application shortly. Recruitment is ongoing, but as we hope to have new members signed up by end of  2014, so we encourage you to apply as soon as possible.
 
-# Job definition:
+# Job Definition:
 
 Full-time software development
 

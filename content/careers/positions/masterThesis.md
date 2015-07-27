@@ -14,7 +14,7 @@ menu:
 
 We are looking for skilled and bright master thesis students in software engineering, with prior experience in programming, and preferably also image analysis and algorithm development. We appreciate dynamic, self-propelled and all-round students with good social and communication skills, who would thrive in a start-up entrepreneurial corporate culture.
 
-# Job definition:
+# Job Definition:
 
 Based on applicants experience and interest, relevant topics can be discussed.
 
