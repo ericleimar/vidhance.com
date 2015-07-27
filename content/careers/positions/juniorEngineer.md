@@ -29,7 +29,7 @@ Vi har en entreprenörskultur. Det innebär att de som är initiativrika och sj�
 Hos Imint finns inga tydliga avdelningar och hårt ritade gränser. Vår uppgift är att omsätta innovativa idéer och forskningsnära kunskap till riktiga funktioner i var mans hand, och på kort tid. Denna roll har fokus på levererbara produkter och kundintegration. Imints mjukvara Vidhance Mobile integreras som mjukvarukomponenter direkt i kundens produkt (som till exempel en smartphone), och som en utökning till operativsystemets abstraktionslager för kamerahårdvara. I dagsläget stöds Android, men andra operativsystem kan komma. För denna roll värdesätts kvalitetsmedvetenhet, bra kommunikationsförmåga, och ett intresse av att stödja ingenjörer hos några av världens mest kända smartphonetillverkare i integrationsarbetet av vår mjukvara i deras telefoner.
 
 # Kvalifikationer:
-## Generella kvalifikationer- ingenjör hos Imint
+## Generella kvalifikationer - ingenjör hos Imint
 
 Förutom specifika krav på enskilda tjänster, så söker vi huvudsakligen de med följande meriter.
 
