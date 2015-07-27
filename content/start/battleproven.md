@@ -4,7 +4,7 @@ date: 2015-07-21
 image : "start/battleproven/battleproven.png"
 weight : 20
 ---
-# Defense technology retargeted
+# Defense Technology Retargeted
 
 [Imint's](http://www.imint.se) Vidhance technology has been used in demanding defense and industrial applications since 2008, and has been continually tuned and improved ever since.
 
