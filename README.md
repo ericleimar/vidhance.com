@@ -1,7 +1,9 @@
 # vidhance.com
 Website for vidhance.com.
 
-The site is built with [Hugo](http://gohugo.io/)
+The site is built with [Hugo](http://gohugo.io/) and deployed to Github Pages.
+
+Changes to the repository will trigger a [Wercker](http://wercker.com/) script that builds and deploys the site automatically.
 
 To run this site on a local computer follow these steps:
 
