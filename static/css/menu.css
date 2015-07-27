@@ -17,14 +17,12 @@
  nav {
   width: 100%;
   background-color: #A73E10;
-  margin-left: auto;
-  margin-right: auto;
 }
  nav > ul {
   padding: 0em 1em;
   margin: 0 auto;
   overflow: hidden;
-  width: 50em;
+  max-width: 50em;
 }
  nav > ul ul,
  nav > ul li
