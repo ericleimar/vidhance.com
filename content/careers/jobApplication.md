@@ -1,9 +1,8 @@
 ---
-title: "Job application"
+title: ""
 date: 2015-07-23
 weight: 10
 ischildpage: "true"
-showtitle: "false"
 form: 1
 menu:
   main:

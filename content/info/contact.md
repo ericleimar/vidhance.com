@@ -1,10 +1,9 @@
 ---
-title: "Contact"
+title: ""
 date: 2015-07-21
 weight: 20
 ischildpage: "true"
 showsummary: "false"
-showtitle: "false"
 form: 3
 menu:
   main:

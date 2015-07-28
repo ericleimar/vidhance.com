@@ -1,12 +1,3 @@
 BaseURL: "http://vidhance.com"
 languageCode: "en-us"
 title: "Vidhance"
-
-menu:
-  footer:
-    - name: "Imint"
-      URL: "http://www.imint.se"
-    - name: "Vidhance"
-      URL: "http://www.vidhance.com"
-    - name: "Vidhance mobile"
-      URL: "http://www.vidhancemobile.com"
