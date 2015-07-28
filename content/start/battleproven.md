@@ -1,7 +1,7 @@
 ---
 title : "Battle-proven"
 date: 2015-07-21
-image : "battleproven.png"
+image : "provenTechnology.png"
 weight : 20
 ---
 # Defense Technology Retargeted
