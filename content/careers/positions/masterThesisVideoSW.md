@@ -6,7 +6,7 @@ ischildpage: "true"
 showsummary: "true"
 menu:
   main:
-    name: "Master thesis Algorithms"
+    name: "Master Thesis: Algorithms"
     parent: "Careers"
     weight: 51
 ---
