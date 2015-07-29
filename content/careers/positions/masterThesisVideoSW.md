@@ -24,13 +24,13 @@ The phone's camera, however, is a good measuring device, with the recorded video
 
 This thesis work will build on Imint's current technologies on motion estimation, and ongoing research on mapping quality metrics to motion patterns. The project will develop an algorithmic model for automatic segmentation of a video clip from a hand-held moving camera. Initial investigation into current research and industry method for the problem domain should be done.
 
-The work will also contain building up a test data set of authentic consumer smartphone video clips, and be used for analysis of which parameters and meta data that is most suited for an algorithmic implementation. We also believe that professional video should be studied with the same model, to identify cinematic rules of thumb in film-making.
+The work will also contain building up a test data set of authentic consumer smartphone video clips, and be used for analysis of which parameters and metadata that is most suited for an algorithmic implementation. We also believe that professional video should be studied with the same model, to identify cinematic rules of thumb in film-making.
 
 The project should be concluded with a prototype implementation, with a video file as input, and suggested edit cut points in the time domain as output.
 
 # Qualifications:
 
-These are requirement for this thesis work:
+These are the requirements for this thesis work:
 
 - Experience in C#, Java or C
 - Good understanding of signal processing and its underlying mathematics
@@ -45,7 +45,7 @@ Imint sometimes offers permanent job positions after successful thesis projects.
 
 The thesis work will be carried out at Imint's facility, during normal business hours.
 
-Thesis workers will need to sign a an agreement with Imint, defining confidentiality and IP ownership terms.
+Thesis workers will need to sign an agreement with Imint, defining confidentiality and IP ownership terms.
 
 The thesis work will not be remunerated as such, but a successful completion bonus of 25,000 SEK (pre-tax) will be paid for a bachelor thesis work.
 
