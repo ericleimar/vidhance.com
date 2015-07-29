@@ -31,7 +31,7 @@ Based on applicants experience and interest, relevant topics can be discussed.
 
 The thesis work will be carried out at Imint's facility, during normal business hours.
 
-Thesis workers will need to sign a an agreement with Imint, defining confidentiality and IP ownership terms.
+Thesis workers will need to sign an agreement with Imint, defining confidentiality and IP ownership terms.
 
 The thesis work will not be remunerated as such, but a successful completion bonus of 25,000 SEK (pre-tax) will be paid for a bachelor thesis work.
 
