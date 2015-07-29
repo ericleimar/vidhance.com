@@ -1,3 +1,5 @@
+[![wercker status](https://app.wercker.com/status/f82582583dfb4c8cff11cf3e407fcaba/m "wercker status")](https://app.wercker.com/project/bykey/f82582583dfb4c8cff11cf3e407fcaba)
+
 # vidhance.com
 Website for vidhance.com.
 
