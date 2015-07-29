@@ -1,14 +1,15 @@
 ---
 title: "Video Processing Software Developer"
 date: 2015-07-21
-weight: 160
+weight: 130
 ischildpage: "true"
 showsummary: "true"
+draft: true
 menu:
   main:
     name: "Junior Engineer"
     parent: "Careers"
-    weight: 60
+    weight: 30
 ---
 
 # Uppsala, Sweden

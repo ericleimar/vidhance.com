@@ -1,14 +1,14 @@
 ---
 title: "Master Thesis within Video Software and Editing Algorithms (20w)"
 date: 2015-07-21
-weight: 151
+weight: 170
 ischildpage: "true"
 showsummary: "true"
 menu:
   main:
     name: "Master Thesis: Algorithms"
     parent: "Careers"
-    weight: 51
+    weight: 70
 ---
 # Uppsala, Sweden
 

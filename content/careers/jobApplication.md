@@ -8,5 +8,5 @@ menu:
   main:
     name: "Apply"
     parent: "Careers"
-    weight: 5
+    weight: 100
 ---

@@ -1,18 +1,18 @@
 ---
 title: "Master Thesis within video processing and analysis"
 date: 2015-07-21
-weight: 150
+weight: 160
 ischildpage: "true"
 showsummary: "true"
 menu:
   main:
     name: "Master Thesis"
     parent: "Careers"
-    weight: 50
+    weight: 60
 ---
 # Uppsala, Sweden
 
-We are looking for skilled and bright master thesis students in software engineering, with prior experience in programming, and preferably also image analysis and algorithm development. We appreciate dynamic, self-propelled and all-round students with good social and communication skills, who would thrive in a start-up entrepreneurial corporate culture.
+We are looking for skilled and bright master thesis students in software engineering, with prior experience in programming, and preferably also image analysis and algorithm development. We appreciate dynamic, self-propelled and all-round students with good social and communication skills, who would thrive in a start-up entrepreneurial corporate culture.<!--more-->
 
 # Job Definition:
 
