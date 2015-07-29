@@ -1,3 +1,6 @@
 BaseURL: "http://vidhance.com"
 languageCode: "en-us"
 title: "Vidhance"
+blackfriday:
+  extensions:
+    - hardLineBreak
