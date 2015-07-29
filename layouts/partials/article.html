@@ -7,21 +7,19 @@
         {{ end }}
       {{ end }}
       {{ if isset .Params "background" }}
-        style="background-image: url(/img/{{ . }})"
+        style="background-image: url({{ .RelPermalink }}{{ .Params.background }})"
       {{ end }}>
-  {{ if not (eq .Params.showtitle "false") }}
-    <header>
-      <h1>{{ .Title }}</h1>
-    </header>
-  {{ end }}
-  {{ with .Params.image }}
+  <header>
+    <h1>{{ .Title }}</h1>
+  </header>
+  {{ if isset .Params "image" }}
     <figure>
-      <img src="{{.}}">
+      <img src="{{ .RelPermalink }}{{ .Params.image }}">
     </figure>
   {{ end }}
-  {{ with .Params.video }}
+  {{ if isset .Params "video" }}
     <video controls="">
-      <source src="{{.}}" type="video/mp4">
+      <source src="{{ .RelPermalink }}{{ .Params.video }}" type="video/mp4">
     </video>
   {{ end }}
   <main>
@@ -34,7 +32,7 @@
       {{ .Content}}
     {{ end}}
     {{ if isset .Params "form" }}
-      <img id="loadinggif" src="/img/ajax-loader.gif">
+      <img id="loadinggif" src="/img/ajaxLoader.gif">
       <div class="cognito">
       </div>
     {{ end }}

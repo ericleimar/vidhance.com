@@ -1,8 +1,7 @@
 ---
-title: "Start"
+title: ""
 date: 2015-07-21
 weight: 5
-showtitle: "false"
 menu:
   main:
     name: "Start"

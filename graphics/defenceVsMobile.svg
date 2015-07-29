@@ -15,8 +15,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="defenceVsMobileVer2.svg"
-   inkscape:export-filename="/home/judd/versioned/vidhance/vidhance.com/static/start/mobileVer2.png"
+   sodipodi:docname="defenceVsMobile.svg"
+   inkscape:export-filename="/home/judd/versioned/vidhance/vidhance.com/static/start/mobile.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -150,9 +150,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0388769"
-     inkscape:cx="11.347545"
-     inkscape:cy="325.98302"
+     inkscape:zoom="0.7525314"
+     inkscape:cx="75.147168"
+     inkscape:cy="198.7752"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -165,9 +165,9 @@
      inkscape:bbox-nodes="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1879"
+     inkscape:window-width="1920"
      inkscape:window-height="1176"
-     inkscape:window-x="41"
+     inkscape:window-x="1920"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:snap-to-guides="true"
@@ -285,13 +285,13 @@
     <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="549.21484"
+       x="519.21484"
        y="394.33591"
        id="text3049"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan4432"
-         x="549.21484"
-         y="394.33591">Photo by Marc Müller</tspan></text>
+         id="tspan3024"
+         x="519.21484"
+         y="394.33591">Photo by Marc Müller / CC BY</tspan></text>
   </g>
 </svg>

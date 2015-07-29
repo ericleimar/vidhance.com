@@ -1,8 +1,7 @@
 ---
-title: "About"
+title: ""
 date: 2015-07-21
 weight: 10
-showtitle: "false"
 menu:
   main:
     name: "About"

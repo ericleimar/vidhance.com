@@ -1,14 +1,14 @@
 ---
 title: "Teknisk marknadsförare (Technical Marketing Engineer)"
 date: 2015-07-21
-weight: 120
+weight: 150
 ischildpage: "true"
 showsummary: "true"
 menu:
   main:
     name: "Teknisk marknadsförare"
     parent: "Careers"
-    weight: 20
+    weight: 50
 ---
 # Uppsala, Sweden
 

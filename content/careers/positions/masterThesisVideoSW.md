@@ -1,14 +1,14 @@
 ---
 title: "Master Thesis within Video Software and Editing Algorithms (20w)"
 date: 2015-07-21
-weight: 151
+weight: 170
 ischildpage: "true"
 showsummary: "true"
 menu:
   main:
-    name: "Master thesis Algorithms"
+    name: "Master Thesis: Algorithms"
     parent: "Careers"
-    weight: 51
+    weight: 70
 ---
 # Uppsala, Sweden
 
@@ -31,6 +31,7 @@ The project should be concluded with a prototype implementation, with a video fi
 # Qualifications:
 
 These are requirement for this thesis work:
+
 - Experience in C#, Java or C
 - Good understanding of signal processing and its underlying mathematics
 - Experience in various algorithmic modeling methods
