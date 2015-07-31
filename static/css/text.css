@@ -57,7 +57,13 @@ em {
 	font-style: italic;
 	font-weight: 400;
 }
-blockquote {
+blockquote > cite {
+	display: block;
+	font-style: normal;
+	width: 100%;
+	text-align: right;
+}
+blockquote > *:not(cite){
 	font-style: italic;
 	font-weight: 400;
 	color: #a73e10;
@@ -66,6 +72,6 @@ blockquote > p:first-child:before {
 	content: "\201c";
 	color: #a73e10;
 }
-blockquote > p:last-child:after {
+blockquote > p:nth-last-child(2):after {
 	content: "\201d";
 }
