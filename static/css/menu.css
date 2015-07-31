@@ -5,7 +5,9 @@
 	(See http://www.boost.org/LICENSE_1_0.txt)
 	(c) copyright 2015 Imint AB
 */
-
+nav {
+	text-transform: lowercase;
+}
 nav a,
 nav a:link,
 nav a:hover,
