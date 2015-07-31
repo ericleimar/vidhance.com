@@ -1,17 +1,17 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:300,400,600);
 body {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 1.0em;
-  font-weight: 300;
-  hyphens: auto;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1.0em;
+	font-weight: 300;
+	hyphens: auto;
 	text-align: justify;
-  color: #2e3436;
+	color: #2e3436;
 }
 a {
-  text-decoration: none;
+	text-decoration: none;
 }
 a:hover {
-  text-decoration: underline;
+	text-decoration: underline;
 }
 h1, h2, h3, h4, h5, h6 {
 	text-align: left;
@@ -22,27 +22,27 @@ h3 a, h3 a:visited, h3 a:active,
 h4 a, h4 a:visited, h4 a:active,
 h5 a, h5 a:visited, h5 a:active,
 h5 a, h6 a:visited, h6 a:active {
-  color: inherit;
+	color: inherit;
 }
 article > header > h1 {
-  font-size: 2.2em;
+	font-size: 2.2em;
 	line-height: 1.2;
-  font-weight: 600;
+	font-weight: 600;
 	text-align: center;
 }
 article > main > h1 {
-  font-size: 1.2em;
-  font-weight: 400
+	font-size: 1.2em;
+	font-weight: 400
 	line-height: 1.2;
 }
 article > main > h2 {
-  font-size: 1.1em;
-  font-weight: 400
+	font-size: 1.1em;
+	font-weight: 400
 	line-height: 1.2;
 }
 article > main > h3 {
-  font-size: 1em;
-  font-weight: 400;
+	font-size: 1em;
+	font-weight: 400;
 	line-height: 1.2;
 }
 a,
@@ -50,7 +50,7 @@ a:link,
 a:visited,
 a:hover,
 a:active{
-  color: #a73e10;
+	color: #a73e10;
 	font-weight: 400;
 }
 em {
@@ -60,11 +60,11 @@ em {
 blockquote {
 	font-style: italic;
 	font-weight: 400;
-  color: #a73e10;
+	color: #a73e10;
 }
 blockquote > p:first-child:before {
 	content: "\201c";
-  color: #a73e10;
+	color: #a73e10;
 }
 blockquote > p:last-child:after {
 	content: "\201d";

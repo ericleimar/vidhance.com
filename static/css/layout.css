@@ -115,15 +115,15 @@ img#loadinggif {
 	body > main > section > article.graphic:nth-child(even) > figure,
 	body > main > section > article.graphic:nth-child(even) > video,
 	body > main > section > article.entrypoints > figure:nth-child(even) {
-		float: left;
+	float: left;
 	}
 	body > main > section > article.graphic:nth-child(even) > *:not(header):not(footer):not(figure):not(video) {
-		margin-left: 27em;
+	margin-left: 27em;
 	}
 	body > main > footer,
 	body > main > section > article > header,
 	body > main > section > article > footer,
 	body > main > section {
-		clear: both;
+	clear: both;
 	}
 }
