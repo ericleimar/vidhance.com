@@ -21,6 +21,7 @@ Whenever time critical decisions are made, based on video sources, Imint has the
 
 # [Contact](/info/contact)
 ### Address
+Imint AB
 S:t Larsgatan 5
 753 11 Uppsala
 Sweden
