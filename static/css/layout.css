@@ -1,9 +1,12 @@
+body {
+	background-color: #eeeeec;
+}
 body > header,
 body > footer {
 	width: 100%;
 	text-align: center;
 	background-color: #062747;
-	color: white;
+	color: #eeeeec;
 	margin: auto;
 }
 body > header > img {
@@ -33,7 +36,7 @@ body > main > section > article[style] {
 	background-size: cover;
 	background-position: center center;
 	background-repeat: no-repeat;
-	color: white;
+	color: #eeeeec;
 	padding-top: 0;
 	padding-bottom: 0;
 }
