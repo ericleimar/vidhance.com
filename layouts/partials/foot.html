@@ -1,14 +1,14 @@
 <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
 <script src="/script/doubleTapToGo.js"></script>
 {{ if isset .Params "form" }}
-  <script src="https://services.cognitoforms.com/s/0UaHaqFaiUmXjjCMvn0-dA"></script>
+	<script src="https://services.cognitoforms.com/s/0UaHaqFaiUmXjjCMvn0-dA"></script>
 {{ end }}
-  <script>
-    $(document).ready(function() {
-      {{ if isset .Params "form" }}
-        Cognito.load("forms", { id: "{{ .Params.form }}" })
-        $("#loadinggif").addClass("hide");
-      {{ end }}
-      $('nav li:has(ul)').doubleTapToGo();
-    })
-  </script>
+<script>
+	$(document).ready(function() {
+		{{ if isset .Params "form" }}
+			Cognito.load("forms", { id: "{{ .Params.form }}" })
+			$("#loadinggif").addClass("hide");
+		{{ end }}
+		$('nav li:has(ul)').doubleTapToGo();
+	})
+</script>
