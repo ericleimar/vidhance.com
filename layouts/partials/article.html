@@ -10,7 +10,11 @@
         style="background-image: url({{ .RelPermalink }}{{ .Params.background }})"
       {{ end }}>
   <header>
-    <h1>{{ .Title }}</h1>
+    {{ if and (isset .Params "ischildpage") (eq (.Scratch.Get "pagetype") "list") }}
+      <h2>{{ .Title }}</h2>
+    {{ else }}
+      <h1>{{ .Title }}</h1>
+    {{ end }}
   </header>
   {{ if isset .Params "image" }}
     <figure>
