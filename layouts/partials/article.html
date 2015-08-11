@@ -22,8 +22,9 @@
 		</figure>
 	{{ end }}
 	{{ if isset .Params "video" }}
-		<video controls="">
+		<video poster="{{ .RelPermalink }}{{ .Params.poster }}" controls="">
 			<source src="{{ .RelPermalink }}{{ .Params.video }}" type="video/mp4">
+				Your browser does not support the video tag.
 		</video>
 	{{ end }}
 	<main>
