@@ -10,23 +10,9 @@ menu:
     parent: "Careers"
     weight: 10
 ---
-# Uppsala, Sweden
+För denna roll värdesätts kvalitetsmedvetenhet, erfarenhet av metoder för systematisk testning och kvalitetskontroll, och principer för effektivt produktunderhåll - i korthet erfarenhet av produktvård och produktledning för mjukvara.<!--more-->
 
-We're looking for candidates with a functional level of Swedish. As a consequence, this position is described in Swedish.<!--more-->
-
-# Om Imint
-
-Imint AB är ett mjukvarubolag med kontor i Uppsala. Företaget har sitt ursprung i forskning vid Centrum för bildanalys vid Uppsala universitet. Från början fokuserade vi på att förbättra video från förarlösa flygplan, för att reducera sådant som stör mänsklig varseblivning, som till exempel vibrationer och dålig sikt. Utvecklingen fortsatte mot andra realtidsvideotillämpningar, som t.ex. fjärrstyrda fordon och maskiner och olika typer av spaningssytem. Idag har vi på Imint utvecklat vår unika och patenterade mjukvara vidare för konsumentelektroni i produktfamiljen Vidhance® Mobile, och vi arbetar med kunder över hela världen som till exempel välkända smartphone-tillverkare. År 2014 såldes mer än en miljard smarta telefoner, och vår ambition är att förbättra användarupplevelsen av videoinspelning för denna enorma marknad. Nu expanderar vi kraftigt, för att möta ett mycket starkt intresse för vår teknik. Webtidningen TechCrunch skrev nyligen om Imint i den [här artikeln](http://techcrunch.com/2015/01/09/imint-wants-to-bring-real-time-video-stabilization-to-android/).
-
-# Att jobba hos oss
-
-Vi är mjukvaruexperter och algoritmutvecklare. Vi bygger innovativ teknik inom videoförbättring och videoanalys för krävande tillämpningar och med hårda realtidskrav. Vi är ett mindre team men i snabb tillväxt, och vi behöver vara både mångkunniga och flexibla. Vi jobbar med korta cykler från idé vidare till koncept och leverans ut till kund, och är inspirerade av Lean Startup-rörelsen. Hur ser morgondagens användande av mobil video ut - och vilka behov kan vår produkt fylla?
-
-Vi har en entreprenörskultur. Det innebär att de som är initiativrika och självgående problemlösare trivs bäst hos oss. Vi uppskattar ärlighet och ansvarstagande, och förmågan att både vara kreativ och kunna planera och genomföra. Det skall vara både krävande och roligt att jobba hos oss, och våra internationella kunder och partner har höga förväntningar. Det är viktigare med vad du tillför i idéer och handlingar, än din bakgrund och dina formella meriter. För att kunna leverera bra resultat krävs balans i livet. Tid måste finnas för annat än jobb för att kreativitet och passion skall få uthålligt utrymme. Vi har en kultur av ömsesidighet, där vi ger bra förutsättningar att få ihop både arbets- och familjeliv. Vi uppskattar olikheter; i bakgrund, erfarenheter och åsikter.
-
-# Arbetsbeskrivning:
-
-Hos Imint finns inga tydliga avdelningar och hårt ritade gränser. Vår uppgift är att omsätta innovativa idéer och forskningsnära kunskap till riktiga funktioner i var mans hand, och på kort tid. Denna roll har dock fokus på levererbara produkter och kundintegration. Imints mjukvara Vidhance Mobile integreras som mjukvarukomponenter direkt i kundens produkt (som till exempel en smartphone), och som en utökning till operativsystemets abstraktionslager för kamerahårdvara. I dagsläget stöds Android, men andra operativsystem kan komma. För denna roll värdesätts kvalitetsmedvetenhet, erfarenhet av metoder för systematisk testning och kvalitetskontroll, och principer för effektivt produktunderhåll - i korthet erfarenhet av produktvård och produktledning för mjukvara.
+Hos Imint finns inga tydliga avdelningar och hårt ritade gränser. Vår uppgift är att omsätta innovativa idéer och forskningsnära kunskap till riktiga funktioner i var mans hand, och på kort tid. Denna roll har dock fokus på levererbara produkter och kundintegration. Imints mjukvara Vidhance Mobile integreras som mjukvarukomponenter direkt i kundens produkt (som till exempel en smartphone), och som en utökning till operativsystemets abstraktionslager för kamerahårdvara. I dagsläget stöds Android, men andra operativsystem kan komma.
 
 # Kvalifikationer:
 ## Generella meriter - ingenjör hos Imint
@@ -38,7 +24,7 @@ Förutom specifika krav på enskilda tjänster, så söker vi huvudsakligen de m
 - Lagspelare som uppskattar att vara involverad i all vår verksamhet.
 - Kundinriktad, uppskattar att kommunicera med kunder och partners, och ibland resa utomlands.
 - Utbildningsnivå civilingenjör eller motsvarande.
--Talar flytande och skriver god engelska. Funktionell nivå på svenska. Ytterligare språkkunskaper är meriterande, till exempel östasiatiska språk.
+- Talar flytande och skriver god engelska. Funktionell nivå på svenska. Ytterligare språkkunskaper är meriterande, till exempel östasiatiska språk.
 
 ## Rollen
 
@@ -64,6 +50,16 @@ I listan nedan anger vi några punkter där sökande kan hitta en "spets", och r
 - Bra förståelse för digital kamerateknik och Image Signal Processesing (ISP).
 - Personligt intresse av fotografi/videografi, datorgrafik, optik/kamerateknik, eller liknande
 - Kvalitetsmedveten och med bra prioriteringsförmåga under stressiga perioder, och som skapar förtroende hos medarbetare och kunder.
+
+# Om Imint
+
+Imint AB är ett mjukvarubolag med kontor i Uppsala. Från början fokuserade vi på att förbättra video från förarlösa flygplan, för att reducera sådant som stör mänsklig varseblivning, som till exempel vibrationer och dålig sikt. Idag har vi på Imint utvecklat vår unika och patenterade mjukvara vidare för konsumentelektroni i produktfamiljen Vidhance® Mobile och vår år ambition är att förbättra användarupplevelsen av videoinspelning för den enorma marknaden inom smarta telefoner. Nu expanderar vi kraftigt, för att möta ett mycket starkt intresse för vår teknik. Webtidningen TechCrunch skrev nyligen om Imint i den [här artikeln](http://techcrunch.com/2015/01/09/imint-wants-to-bring-real-time-video-stabilization-to-android/).
+
+# Att jobba hos oss
+
+Vi är mjukvaruexperter och algoritmutvecklare. Vi bygger innovativ teknik inom videoförbättring och videoanalys för krävande tillämpningar och med hårda realtidskrav. Vi är ett mindre team men i snabb tillväxt, och vi behöver vara både mångkunniga och flexibla. Vi jobbar med korta cykler från idé vidare till koncept och leverans ut till kund, och är inspirerade av Lean Startup-rörelsen. Hur ser morgondagens användande av mobil video ut - och vilka behov kan vår produkt fylla?
+
+Vi har en entreprenörskultur. Det innebär att de som är initiativrika och självgående problemlösare trivs bäst hos oss. Vi uppskattar ärlighet och ansvarstagande, och förmågan att både vara kreativ och kunna planera och genomföra. Det skall vara både krävande och roligt att jobba hos oss, och våra internationella kunder och partner har höga förväntningar. Det är viktigare med vad du tillför i idéer och handlingar, än din bakgrund och dina formella meriter. För att kunna leverera bra resultat krävs balans i livet. Tid måste finnas för annat än jobb för att kreativitet och passion skall få uthålligt utrymme. Vi har en kultur av ömsesidighet, där vi ger bra förutsättningar att få ihop både arbets- och familjeliv. Vi uppskattar olikheter; i bakgrund, erfarenheter och åsikter.
 
 # Villkor:
 

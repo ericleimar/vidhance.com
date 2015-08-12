@@ -31,7 +31,7 @@
 		{{ if and (isset .Params "ischildpage") (eq (.Scratch.Get "pagetype") "list") }}
 			{{ .Summary }}
 			{{ if .Truncated }}
-				<a href="{{ .RelPermalink }}">Read More</a>
+				<a href="{{ .RelPermalink }}">Läs mer</a>
 			{{ end }}
 		{{ else }}
 			{{ .Content}}

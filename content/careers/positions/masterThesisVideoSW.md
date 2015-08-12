@@ -1,58 +1,54 @@
 ---
-title: "Master Thesis within Video Software and Editing Algorithms (20w)"
+title: "Examensarbete inom video mjukvara och redigerings-algoritmer (20v)"
 date: 2015-07-21
 weight: 170
 ischildpage: "true"
 showsummary: "true"
 menu:
   main:
-    name: "Master Thesis: Algorithms"
+    name: "Examensarbete: algoritmer"
     parent: "Careers"
     weight: 70
 ---
-# Uppsala, Sweden
+Vi letar efter examensstudenter inom mjukvaruutveckling med tidigare erfarenhet av programmering och gärna inom bildanalys och algoritmer. Vi uppskattar flexibla, självdrivna och mångkunniga studenter med bra social och kommunikativ förmåga som trivs i ett företag med entreprenörskultur.<!--more-->
 
-Thesis work scheduled to be carried out in the fall of 2015.
+Smartphones används mer än någonsin till att fotografera och spela in video. Men samtidigt som kvaliteten av fotografier ökar med hjälp av mjukvara så händer det inte mycket med förbättring av kvaliteten för video. Telefonens kamera är dock ett bra mätverktyg och med en inspelad video som data kan man utläsa rörelsemönster i kameran och använda dom för att räkna ut användarens syfte med videoklippet. Imint gör just nu forskning inom detta område med hjälp av pågående examensarbeten.
 
-We are looking for a skilled and bright master thesis student in software engineering, with prior experience in programming and signal processing, and with solid math skills. We appreciate dynamic, self-propelled and all-round students with good communication and social skills, who would thrive in a start-up entrepreneurial corporate culture.<!--more-->
+Detta examensarbete kommer att ta denna forskning vidare genom att använda data om rörelsemönster och ta fram heuristiska metoder för att automatiskt föreslå segmentering av ett inspelat videoklipp ett kort ögonblick efter inspelningen är avslutad.
 
-More videos than ever before are recorded by amateurs, thanks to the proliferation of portable devices such as smartphones. However, whereas quality in consumer still photography has increased considerably, the same is not true for video clips. One remaining issue is that video clips from smartphones become too long, and they would benefit from post-production editing. However, consumers find this task too complex and time consuming, especially if done at a small handheld device.
+# Arbetsbeskrivning:
 
-The phone's camera, however, is a good measuring device, with the recorded video as data set. This data can be used to determine camera motion patterns and extrapolate user intent with the video clip. Imint is currently conducting research in this domain, with ongoing master thesis projects. This position will take these findings further, by using such motion data, and finding heuristic methods to automatically suggest segmentation of a recorded video clip, available to the user shortly after recording is completed.
+Examensarbetet ska bygga på Imints nuvarande tekniker för beräkning av rörelse och pågående forskning som handlar om kartläggning av mätvärden för rörelsemönster. Projektet ska resultera i en algoritmisk modell för automatisk segmentering av videoklipp från en handhållen kamera i rörelse. En förundersökning på aktuell forskning och industriella metoder för problemdomänen ska göras.
 
-# Job Definition:
+Arbetet ska också innefatta att bygga ett set av test data av autentiska videoklipp från smartphone-användare. Datasetet ska användas för att analysera vilka parametrar från metadatan som passar bäst för en implementation av en algoritm. Vi tror också att proffessionell video ska studeras med samma model för att identifiera tummregler i filmtillverkning.
 
-This thesis work will build on Imint's current technologies on motion estimation, and ongoing research on mapping quality metrics to motion patterns. The project will develop an algorithmic model for automatic segmentation of a video clip from a hand-held moving camera. Initial investigation into current research and industry method for the problem domain should be done.
+Projektet ska avslutas med en implementation av en prototyp som tar en videofil som in parameter och föreslår tidpunkter för klippning av videon som ut parameter.
 
-The work will also contain building up a test data set of authentic consumer smartphone video clips, and be used for analysis of which parameters and metadata that is most suited for an algorithmic implementation. We also believe that professional video should be studied with the same model, to identify cinematic rules of thumb in film-making.
+# Kvalifikationer:
 
-The project should be concluded with a prototype implementation, with a video file as input, and suggested edit cut points in the time domain as output.
+Detta är kraven för detta examensarbete:
 
-# Qualifications:
+- Erfarenhet av C#, Java eller C
+- God förståelse av signalbehandling och den underliggande matematiken
+- Erfarenhet av modeleringsmetoder för algoritmer
 
-These are the requirements for this thesis work:
+Ibland erbjuder Imint en permanent plats på företaget efter ett lyckat examensarbete. Nedan är områden som är av generellt intresse för Imint:
 
-- Experience in C#, Java or C
-- Good understanding of signal processing and its underlying mathematics
-- Experience in various algorithmic modeling methods
+- Grundläggande kunskap om OpenGL eller DirectX och videobearbetning
+- Gärna erfarenhet inom apputveckling till mobiltelefoner eller utveckling av användargränssnitt
 
-Imint sometimes offers permanent job positions after successful thesis projects. Below are areas of general interest to Imint:
+# Villkor:
 
-- Basic knowledge about OpenGL or DirectX, and video processing software
-- Some experience in mobile phone application development or user interface development
+Examensarbetet ska utföras i Imints lokaler under normal arbetstid.
 
-# Terms:
+Examensstudenterna kommer att skriva på ett avtal med Imint som innefattar sekretess och immaterialrätt. Det kommer också innefatta en fortsatt anställning hos Imint när examensarbetet är avslutat.
 
-The thesis work will be carried out at Imint's facility, during normal business hours.
+Examensarbetet ger ingen ersättning under tiden det utförs men ett lyckat och slutfört examensarbete ger en bonus på 25 000 Kr (innan skatt).
 
-Thesis workers will need to sign an agreement with Imint, defining confidentiality and IP ownership terms.
+# Processen:
 
-The thesis work will not be remunerated as such, but a successful completion bonus of 25,000 SEK (pre-tax) will be paid for a bachelor thesis work.
+Vi förväntar oss att examenarbetet ska vara avslutat våren 2016
 
-# Process:
+Vi ber i första hand kandidater att använda vårt [webformulär](/careers/jobApplication/) vid ansökningar. Vi ber också att frågor om tjänsten eller rekryteringsprocessen i första hand ställs per email till [careers@imint.se](mailto:careers@imint.se), eftersom rekryterande chefer ofta är på resande fot i andra tidszoner.
 
-Please send your application by filling out the [job application form](/careers/jobApplication/).
-
-We anticipate the thesis work to be completed by spring of 2016.
-
-We welcome your application.
+Vi ser fram emot din ansökan.
