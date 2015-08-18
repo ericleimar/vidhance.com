@@ -17,6 +17,7 @@
 	width: 100%;
 	background-color: #a73e10;
 	text-transform: lowercase;
+	display: none; /*Don't display when page is loading, it will be set to display block with the class .js-ready*/
 }
 #nav ul li
 {
@@ -193,6 +194,9 @@ backg	round-image: url("../img/close-btn.png");
 		border-left-width: 0;
 		padding-left: 0;
 	}
+	#nav {
+		display: block;
+	}
 }
 @media screen and (max-width: 51.99em) {
 	#nav ul li > ul {
@@ -245,6 +249,7 @@ backg	round-image: url("../img/close-btn.png");
 	.js-ready #nav {
 		height: 100%;
 		width: 40%;
+		display: block;
 		/*-webkit-box-shadow: inset -1.5em 0 1.5em -0.75em rgba(0, 0, 0, 0.25);
 		-moz-box-shadow: inset -1.5em 0 1.5em -0.75em rgba(0, 0, 0, 0.25);
 		box-shadow: inset -1.5em 0 1.5em -0.75em rgba(0, 0, 0, 0.25);*/
