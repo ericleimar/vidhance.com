@@ -22,15 +22,16 @@
 		</figure>
 	{{ end }}
 	{{ if isset .Params "video" }}
-		<video controls="">
+		<video poster="{{ .RelPermalink }}{{ .Params.poster }}" controls="">
 			<source src="{{ .RelPermalink }}{{ .Params.video }}" type="video/mp4">
+				Your browser does not support the video tag.
 		</video>
 	{{ end }}
 	<main>
 		{{ if and (isset .Params "ischildpage") (eq (.Scratch.Get "pagetype") "list") }}
 			{{ .Summary }}
 			{{ if .Truncated }}
-				<a href="{{ .RelPermalink }}">Read More</a>
+				<a href="{{ .RelPermalink }}">Läs mer</a>
 			{{ end }}
 		{{ else }}
 			{{ .Content}}

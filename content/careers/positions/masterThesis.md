@@ -1,44 +1,38 @@
 ---
-title: "Master Thesis within video processing and analysis"
+title: "Examensarbete inom videobearbetning och bildanalys"
 date: 2015-07-21
 weight: 160
 ischildpage: "true"
 showsummary: "true"
 menu:
   main:
-    name: "Master Thesis"
+    name: "Examensarbete"
     parent: "Careers"
     weight: 60
 ---
-# Uppsala, Sweden
+Vi letar efter examensstudenter inom mjukvaruutveckling med tidigare erfarenhet av programmering och gärna inom bildanalys och algoritmer. Vi uppskattar flexibla, självdrivna och mångkunniga studenter med bra social och kommunikativ förmåga som trivs i ett företag med entreprenörskultur.<!--more-->
 
-We are looking for skilled and bright master thesis students in software engineering, with prior experience in programming, and preferably also image analysis and algorithm development. We appreciate dynamic, self-propelled and all-round students with good social and communication skills, who would thrive in a start-up entrepreneurial corporate culture.<!--more-->
+# Arbetsbeskrivning:
+Beroende på den sökandes erfarenhet och intresse så kan relevanta ämnen diskuteras.
 
-# Job Definition:
+# Kvalifikationer:
+- Erfarenhet inom C# eller C.
+- Grundläggande kunskap om OpenGL eller DirectX och videobearbetning.
+- Gärna erfarenhet inom algoritmutveckling och signalbehandling
+- God kunskap inom datorarkitektur
+- Gärna erfarenhet inom apputveckling till mobiltelefoner
+- Flytande engelska och svenska
 
-Based on applicants experience and interest, relevant topics can be discussed.
+# Villkor:
+Examensarbetet ska utföras i Imints lokaler under normal arbetstid.
 
-# Qualifications:
+Examensstudenterna kommer att skriva på ett avtal med Imint som innefattar sekretess och immaterialrätt. Det kommer också innefatta en fortsatt anställning hos Imint när examensarbetet är avslutat.
 
-- Experience in C# or C.
-- Basic knowledge about OpenGL or DirectX, and video processing.
-- Preferably experience and talent in algorithmic development and signal processing modeling (in MATLAB or similar)
-- Good knowledge in computer architecture
-- Preferably experience in mobile phone application development
-- Fluent in English and Swedish
+Examensarbetet ger ingen ersättning under tiden det utförs men ett lyckat och slutfört examensarbete ger en bonus på 25 000 Kr (brutto).
 
-# Terms:
+# Processen:
+Vi förväntar oss att examenarbetet ska vara avslutat våren 2016
 
-The thesis work will be carried out at Imint's facility, during normal business hours.
+Vi ber i första hand kandidater att använda vårt [webformulär](/careers/jobApplication/) vid ansökningar. Vi ber också att frågor om tjänsten eller rekryteringsprocessen i första hand ställs per email till [careers@imint.se](mailto:careers@imint.se), eftersom rekryterande chefer ofta är på resande fot i andra tidszoner.
 
-Thesis workers will need to sign an agreement with Imint, defining confidentiality and IP ownership terms.
-
-The thesis work will not be remunerated as such, but a successful completion bonus of 25,000 SEK (pre-tax) will be paid for a bachelor thesis work.
-
-# Process:
-
-Please send your application by filling out the [job application form](/careers/jobApplication/).
-
-We anticipate the thesis work to be completed by spring of 2016.
-
-We welcome your application.
+Vi ser fram emot din ansökan!

@@ -31,4 +31,6 @@ Since Imint is an entrepreneurial and fast growing technology company, we apprec
 
 Working at Imint is and shall be challenging. Our international customers and partners put high expectations on us and our capabilities. To thrive with us, you should feel energized by such demands.To be able to excel in a demanding and dynamic environment, balance in life is a key component. To ensure enduring creativity, passion and commitment when working in our team, there must be sufficient time outside of the job. Imint values differences in experience, background, and opinions.
 
-**Apply to any of our positions described below by filling out [this form](/careers/jobApplication/)**
+*Our open positions are described below, and since we're looking for candidates with functional level of Swedish they will be described in Swedish.*
+
+*Apply to any of our positions described below by filling out [this form](/careers/jobApplication/)*
