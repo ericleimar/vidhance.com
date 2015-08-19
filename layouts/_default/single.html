@@ -1,9 +1,14 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
 <head>{{ template "partials/head.html" . }}</head>
-<body>
-	<header>{{ template "partials/header.html" . }}</header>
-	<nav>{{ template "partials/menu.html" .Site.Menus.main }}</nav>
+<body id="inner-wrap">
+	<header id="top">{{ template "partials/header.html" . }}</header>
+	<nav id="nav">
+		<div class="block">
+			{{ template "partials/menu.html" .Site.Menus.main }}
+			<a id="nav-close-btn" class="close-btn" href="#top">Return to Content</a>
+		</div>
+	</nav>
 	<main>
 		<section>
 			{{ .Scratch.Add "pagetype" "single" }}
