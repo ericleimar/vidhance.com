@@ -11,14 +11,12 @@
 	</nav>
 	<main>
 		<section>
-			<article class="entrypoints">
-				<figure><a href="http://www.imint.se"><img src="/start/defense.png"></a></figure>
-				<figure><a href="http://www.vidhancemobile.com" ><img src="/start/mobile.png"></a>
-				</figure>
+			<article>
+				{{ .Content }}
+				<img id="loadinggif" src="/img/ajaxLoader.gif">
+				<div class="cognito">
+				</div>
 			</article>
-			{{ range .Site.Sections.start.Pages.ByWeight }}
-				{{ template "partials/article.html" . }}
-			{{ end }}
 		</section>
 	</main>
 	<footer>{{ template "partials/footer.html" . }}</footer>

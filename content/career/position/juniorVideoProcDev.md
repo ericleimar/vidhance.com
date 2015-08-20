@@ -2,10 +2,9 @@
 title: "Video Processing Software Developer"
 date: 2015-07-21
 weight: 130
-ischildpage: true
-showsummary: true
 draft: true
 type: "position"
+location: "Uppsala, Sweden"
 menu:
   main:
     name: "Junior Engineer"

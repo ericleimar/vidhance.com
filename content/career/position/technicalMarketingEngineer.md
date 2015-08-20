@@ -2,9 +2,8 @@
 title: "Teknisk marknadsförare"
 date: 2015-07-21
 weight: 150
-ischildpage: true
-showsummary: true
 type: "position"
+location: "Uppsala, Sverige"
 menu:
   main:
     name: "Teknisk marknadsförare"

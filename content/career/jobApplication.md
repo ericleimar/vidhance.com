@@ -2,9 +2,8 @@
 title: "Job application"
 date: 2015-07-23
 weight: 100
-hidetitle: true
-ischildpage: true
 form: 1
+type: "form"
 menu:
   main:
     name: "Apply"

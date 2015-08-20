@@ -2,9 +2,8 @@
 title: "Examensarbete inom videomjukvara och redigerings-algoritmer (20v)"
 date: 2015-07-21
 weight: 170
-ischildpage: true
-showsummary: true
 type: "position"
+location: "Uppsala, Sverige"
 menu:
   main:
     name: "Examensarbete: algoritmer"

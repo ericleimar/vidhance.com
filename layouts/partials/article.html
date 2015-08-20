@@ -9,15 +9,7 @@
 			{{ if isset .Params "background" }}
 				style="background-image: url({{ .RelPermalink }}{{ .Params.background }})"
 			{{ end }}>
-	<header>
-		{{ if not (.Params.hidetitle) }}
-			{{ if and (.Params.ischildpage) (eq (.Scratch.Get "pagetype") "list") }}
-				<h2>{{ .Title }}</h2>
-			{{ else }}
-				<h1>{{ .Title }}</h1>
-			{{ end }}
-		{{ end }}
-	</header>
+	<header><h1>{{ .Title }}</h1></header>
 	{{ if isset .Params "image" }}
 		<figure>
 			<img src="{{ .RelPermalink }}{{ .Params.image }}">
@@ -29,20 +21,6 @@
 				Your browser does not support the video tag.
 		</video>
 	{{ end }}
-	<main>
-		{{ if and (.Params.ischildpage) (eq (.Scratch.Get "pagetype") "list") }}
-			{{ .Summary }}
-			{{ if .Truncated }}
-				<a href="{{ .RelPermalink }}">Läs mer</a>
-			{{ end }}
-		{{ else }}
-			{{ .Content}}
-		{{ end}}
-		{{ if isset .Params "form" }}
-			<img id="loadinggif" src="/img/ajaxLoader.gif">
-			<div class="cognito">
-			</div>
-		{{ end }}
-	</main>
+	<main>{{ .Content}}</main>
 	<footer>{{ with .Params.backgroundcopyright }}<p>{{ . }}</p>{{ end }}</footer>
 </article>

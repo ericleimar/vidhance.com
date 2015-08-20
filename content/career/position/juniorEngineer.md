@@ -2,9 +2,7 @@
 title: "Junior mjukvaruutvecklare/ produktintegratör"
 date: 2015-07-21
 weight: 120
-location: "Uppsala, Sweden"
-ischildpage: true
-showsummary: true
+location: "Uppsala, Sverige"
 type: "position"
 menu:
   main:

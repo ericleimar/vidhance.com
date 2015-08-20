@@ -9,18 +9,7 @@
 			<a id="nav-close-btn" class="close-btn" href="#top">Return to Content</a>
 		</div>
 	</nav>
-	<main>
-		<section>
-			<article class="entrypoints">
-				<figure><a href="http://www.imint.se"><img src="/start/defense.png"></a></figure>
-				<figure><a href="http://www.vidhancemobile.com" ><img src="/start/mobile.png"></a>
-				</figure>
-			</article>
-			{{ range .Site.Sections.start.Pages.ByWeight }}
-				{{ template "partials/article.html" . }}
-			{{ end }}
-		</section>
-	</main>
+	<main><section><article><main>{{ .Content }}</main></article></section></main>
 	<footer>{{ template "partials/footer.html" . }}</footer>
 	{{ template "partials/foot.html" . }}
 </body>
