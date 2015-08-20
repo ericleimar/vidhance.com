@@ -4,6 +4,7 @@ date: 2015-07-21
 weight: 170
 ischildpage: true
 showsummary: true
+type: "position"
 menu:
   main:
     name: "Examensarbete: algoritmer"

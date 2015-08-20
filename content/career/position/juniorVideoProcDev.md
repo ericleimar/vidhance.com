@@ -5,6 +5,7 @@ weight: 130
 ischildpage: true
 showsummary: true
 draft: true
+type: "position"
 menu:
   main:
     name: "Junior Engineer"

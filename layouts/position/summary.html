@@ -1,0 +1,9 @@
+<article class="job-position">
+	<main>
+		<h2><a class="no-decoration" href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+		{{ .Summary }}
+		{{ if .Truncated }}
+			<a href="{{ .RelPermalink }}">Läs mer</a>
+		{{ end }}
+	</main>
+</article>

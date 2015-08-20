@@ -5,7 +5,7 @@ weight: 10
 menu:
   main:
     name: "Careers"
-    URL: "/careers"
+    URL: "/career"
     weight: 20
 ---
 # About Imint
