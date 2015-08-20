@@ -21,6 +21,12 @@
 				Your browser does not support the video tag.
 		</video>
 	{{ end }}
-	<main>{{ .Content}}</main>
+	<main>
+		{{ if eq .Type "quote" }}
+			{{ .Render "quote" }}
+		{{ else }}
+			{{ .Content}}
+		{{ end }}
+		</main>
 	<footer>{{ with .Params.backgroundcopyright }}<p>{{ . }}</p>{{ end }}</footer>
 </article>
