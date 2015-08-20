@@ -2,8 +2,8 @@
 title: "Forskningsingenjör inom video och signalanalys"
 date: 2015-07-21
 weight: 140
-ischildpage: "true"
-showsummary: "true"
+ischildpage: true
+showsummary: true
 menu:
   main:
     name: "Forskningsingenjör"

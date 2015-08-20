@@ -2,8 +2,8 @@
 title: "Examensarbete inom videomjukvara och redigerings-algoritmer (20v)"
 date: 2015-07-21
 weight: 170
-ischildpage: "true"
-showsummary: "true"
+ischildpage: true
+showsummary: true
 menu:
   main:
     name: "Examensarbete: algoritmer"

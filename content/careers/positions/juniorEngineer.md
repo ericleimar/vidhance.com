@@ -2,8 +2,8 @@
 title: "Junior mjukvaruutvecklare/ produktintegratör"
 date: 2015-07-21
 weight: 120
-ischildpage: "true"
-showsummary: "true"
+ischildpage: true
+showsummary: true
 menu:
   main:
     name: "Junior utvecklare"
