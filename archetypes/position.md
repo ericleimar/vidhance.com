@@ -1,14 +1,21 @@
 ---
+weight: 999
 location: "Uppsala, Sverige"
 type: "position"
-weight: 999
 menu:
-  main:
-    name: "Menu-name"
-    parent: "Careers"
-    weight: 999
+	main:
+		name: "Menu-name"
+		parent: "Careers"
+		weight: 999
 ---
-Write summary here
+weight		= used for order on the page, low numbers on the top and high on the bottom
+location	= location for the position
+type			= is set to "position" so that the desired template is used to render the page
+menu -> name		= the name to display in the menu for this position
+menu -> parent	= is set to Careers to make it an item in the submenu for Careers
+menu -> weight	= used for order in the menu, low numbers on the top and high on the bottom
+
+The tag below defines where the summary of this content file ends
 <!--more-->
 # Kvalifikationer:
 ## Generella kvalifikationer - ingenjör hos Imint
