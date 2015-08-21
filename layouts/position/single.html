@@ -11,9 +11,13 @@
 	</nav>
 	<main>
 		<section>
-			{{ range .Data.Pages.ByWeight }}
-				{{ template "partials/article.html" . }}
-			{{ end }}
+			<article>
+				<header>
+					<h2>{{ .Title }}</h2>
+					<h3>{{ .Params.location }}</h3>
+				</header>
+				<main>{{ .Content}}</main>
+			</article>
 		</section>
 	</main>
 	<footer>{{ template "partials/footer.html" . }}</footer>

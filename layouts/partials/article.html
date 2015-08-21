@@ -9,13 +9,7 @@
 			{{ if isset .Params "background" }}
 				style="background-image: url({{ .RelPermalink }}{{ .Params.background }})"
 			{{ end }}>
-	<header>
-		{{ if and (isset .Params "ischildpage") (eq (.Scratch.Get "pagetype") "list") }}
-			<h2>{{ .Title }}</h2>
-		{{ else }}
-			<h1>{{ .Title }}</h1>
-		{{ end }}
-	</header>
+	<header><h1>{{ .Title }}</h1></header>
 	{{ if isset .Params "image" }}
 		<figure>
 			<img src="{{ .RelPermalink }}{{ .Params.image }}">
@@ -28,19 +22,11 @@
 		</video>
 	{{ end }}
 	<main>
-		{{ if and (isset .Params "ischildpage") (eq (.Scratch.Get "pagetype") "list") }}
-			{{ .Summary }}
-			{{ if .Truncated }}
-				<a href="{{ .RelPermalink }}">Läs mer</a>
-			{{ end }}
+		{{ if eq .Type "quote" }}
+			{{ .Render "quote" }}
 		{{ else }}
 			{{ .Content}}
-		{{ end}}
-		{{ if isset .Params "form" }}
-			<img id="loadinggif" src="/img/ajaxLoader.gif">
-			<div class="cognito">
-			</div>
 		{{ end }}
-	</main>
+		</main>
 	<footer>{{ with .Params.backgroundcopyright }}<p>{{ . }}</p>{{ end }}</footer>
 </article>

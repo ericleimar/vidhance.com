@@ -116,6 +116,15 @@ img#loadinggif {
 	vertical-align: middle;
 	display: block;
 }
+.job-position {
+	padding: 1em 1em;
+}
+.job-position h2{
+	margin-bottom: 0;
+}
+.job-position h5{
+	margin-top: 0.5em;
+}
 @media only screen and (min-width: 52em) {
 	body > main > section > article.graphic {
 		text-align: center;

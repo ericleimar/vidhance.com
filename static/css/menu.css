@@ -247,7 +247,7 @@ backg	round-image: url("../img/close-btn.png");
 	}
 
 	.js-ready #nav {
-		height: 100%;
+		height: 92%;
 		width: 40%;
 		display: block;
 		/*-webkit-box-shadow: inset -1.5em 0 1.5em -0.75em rgba(0, 0, 0, 0.25);

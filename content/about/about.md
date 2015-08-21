@@ -1,11 +1,12 @@
 ---
-title: ""
+title: "About"
 date: 2015-07-21
 weight: 10
+hidetitle: true
 menu:
   main:
     name: "About"
-    URL: "/info"
+    URL: "/about/about"
     weight: 30
 ---
 

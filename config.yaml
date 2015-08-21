@@ -4,3 +4,4 @@ title: "Vidhance"
 blackfriday:
   extensions:
     - hardLineBreak
+MetaDataFormat: "yaml"

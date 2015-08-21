@@ -10,10 +10,7 @@
 		</div>
 	</nav>
 	<main>
-		<section>
-			{{ .Scratch.Add "pagetype" "single" }}
-			{{ template "partials/article.html" . }}
-		</section>
+		<section>{{ template "partials/article.html" . }}</section>
 	</main>
 	<footer>{{ template "partials/footer.html" . }}</footer>
 	{{ template "partials/foot.html" . }}

@@ -9,13 +9,7 @@
 			<a id="nav-close-btn" class="close-btn" href="#top">Return to Content</a>
 		</div>
 	</nav>
-	<main>
-		<section>
-			{{ range .Data.Pages.ByWeight }}
-				{{ template "partials/article.html" . }}
-			{{ end }}
-		</section>
-	</main>
+	<main><section><article><main>{{ .Content }}</main></article></section></main>
 	<footer>{{ template "partials/footer.html" . }}</footer>
 	{{ template "partials/foot.html" . }}
 </body>

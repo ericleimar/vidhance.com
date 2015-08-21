@@ -11,9 +11,12 @@
 	</nav>
 	<main>
 		<section>
-			{{ range .Data.Pages.ByWeight }}
-				{{ template "partials/article.html" . }}
-			{{ end }}
+			<article>
+				{{ .Content }}
+				<img id="loadinggif" src="/img/ajaxLoader.gif">
+				<div class="cognito">
+				</div>
+			</article>
 		</section>
 	</main>
 	<footer>{{ template "partials/footer.html" . }}</footer>

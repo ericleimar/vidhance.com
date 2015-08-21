@@ -11,8 +11,11 @@
 	</nav>
 	<main>
 		<section>
-			{{ range .Data.Pages.ByWeight }}
+			{{ range first 1 .Data.Pages.ByWeight }}
 				{{ template "partials/article.html" . }}
+			{{ end }}
+			{{ range where .Data.Pages.ByWeight "Type" "position"}}
+					{{ .Render "summary" }}
 			{{ end }}
 		</section>
 	</main>
