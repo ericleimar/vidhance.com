@@ -5,3 +5,8 @@ blackfriday:
   extensions:
     - hardLineBreak
 MetaDataFormat: "yaml"
+menu:
+  main:
+    - name: "News"
+      weight: 40
+      URL: "/newspost/"
