@@ -1,5 +1,8 @@
 <article class="job-position">
-	<header><h2><a class="no-decoration" href="{{ .RelPermalink }}">{{ .Title }}</a></h2></header>
+	<header>
+		<h2><a class="no-decoration" href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+		<h5>{{ .Params.location }}</h5>
+	</header>
 	<main>
 		{{ .Summary }}
 		{{ if .Truncated }}

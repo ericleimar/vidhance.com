@@ -12,10 +12,7 @@
 	<main>
 		<section>
 			{{ range .Data.Pages.ByWeight }}
-				{{ if or (.Params.showsummary) (not (.Params.ischildpage))}}
-					{{ .Scratch.Add "pagetype" "list" }}
-					{{ template "partials/article.html" . }}
-				{{ end }}
+				{{ template "partials/article.html" . }}
 			{{ end }}
 		</section>
 	</main>

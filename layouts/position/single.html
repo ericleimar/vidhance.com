@@ -12,7 +12,10 @@
 	<main>
 		<section>
 			<article>
-				<header><h1>{{ .Title }}</h1></header>
+				<header>
+					<h2>{{ .Title }}</h2>
+					<h3>{{ .Params.location }}</h3>
+				</header>
 				<main>{{ .Content}}</main>
 			</article>
 		</section>
