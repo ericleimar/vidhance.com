@@ -10,6 +10,7 @@ Changes to the repository will trigger a [Wercker](http://wercker.com/) script t
 ## Editing
 #### Markdown
 The main content is placed in the content folder into markdown files.
+There are templates for different content types called archetypes, to use them run "hugo new path/to/file/my-new-file.md --kind="archetype-to-use".
 #### Other Content
 Images and other content is placed in static. Create folders corresponding to the path and the name of the content file they belong to and place the files there.
 
