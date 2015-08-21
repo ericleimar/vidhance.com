@@ -1,12 +1,9 @@
 ---
 weight: 999
-location: "Uppsala, Sverige"
-type: "position"
-menu:
-	main:
-		name: "Menu-name"
-		parent: "Careers"
-		weight: 999
+image: ""
+background: ""
+video: ""
+poster: ""
 ---
 weight			= used for order on the page, low numbers on the top and high on the bottom
 image 			= image floating beside text

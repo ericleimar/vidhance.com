@@ -3,10 +3,10 @@ weight: 999
 location: "Uppsala, Sverige"
 type: "position"
 menu:
-	main:
-		name: "Menu-name"
-		parent: "Careers"
-		weight: 999
+  main:
+    name: "Menu-name"
+    parent: "Careers"
+    weight: 999
 ---
 weight		= used for order on the page, low numbers on the top and high on the bottom
 location	= location for the position
