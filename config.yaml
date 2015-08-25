@@ -8,5 +8,5 @@ MetaDataFormat: "yaml"
 menu:
   main:
     - name: "News"
-      weight: 40
+      weight: 15
       URL: "/newspost/"

@@ -125,6 +125,14 @@ img#loadinggif {
 .job-position h5{
 	margin-top: 0.5em;
 }
+figcaption > h4 {
+	text-align: center;
+	width: 100%;
+	font-weight: normal;
+}
+figure > img {
+	width: 100%;
+}
 @media only screen and (min-width: 52em) {
 	body > main > section > article.graphic {
 		text-align: center;

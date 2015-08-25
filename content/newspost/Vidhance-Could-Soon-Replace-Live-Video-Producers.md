@@ -1,13 +1,12 @@
 ---
-date: 2015-08-21T16:02:02+02:00
+date: 2015-06-25T16:02:02+02:00
 location: Uppsala, Sweden
-title: Vidhance Could Soon Replace Live Video Producers
-weight: 999
+title: Vidhance could soon replace live video producers - TechCrunch covers new roadmap
 ---
 
 
-In an article published on June 22nd, 2015, [TechCrunch](http://www.techcrunch.com) editor Frederic Lardinois digs into the new Vidhance® Mobile roadmap, and make insightful predictions on how this technology could change the media landscape.
+In an article published on June 22nd, 2015, [TechCrunch](techcrunch.com) editor [Frederic Lardinois](http://techcrunch.com/author/frederic-lardinois/) digs into the new Vidhance® Mobile roadmap, and make insightful predictions on how this technology could change the media landscape.
 <!--more-->
-Read the full article here.
+Read the full article [here](http://techcrunch.com/2015/06/22/imints-Vidhance-algorithms-could-soon-replace-live-video-producers/).
 
-The coming functionality of Vidhance Mobile was also covered on Swedish Startup Space.
+The coming functionality of Vidhance Mobile was also covered on [Swedish Startup Space](http://swedishstartupspace.com/2015/07/09/imint-uppsala-auto-zoom/).

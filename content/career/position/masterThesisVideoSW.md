@@ -15,7 +15,7 @@ Vi letar efter exjobbare inom mjukvaruutveckling med tidigare erfarenhet av prog
 # Projektbeskrivning
 Smartphones används mer än någonsin till att fotografera och spela in video. Men samtidigt som kvaliteten på stillbilder ökar så händer det inte mycket med förbättring av kvaliteten för video. Telefonens kamera är dock ett bra mätverktyg och med en inspelad video som data kan man utläsa rörelsemönster i kameran och använda dem för att räkna ut användarens syfte med videoklippet.
 
-<figure><img src="/career/position/masterThesisVideoSW/autocut.svg" style="width:100%;"></img></figure><center>Figur: Exempel på videosekvens med varierande kvalitet</center>
+{{<img src="/career/position/masterThesisVideoSW/autocut.svg" title="Figur: Exempel på videosekvens med varierande kvalitet">}}
 
 Bilden ovan illustrerar hur upplevelsen av en video blir sämre när delar av videon är av dålig kvalitet. Vi siktar på att validera en video helt automatiskt, dela upp den i meningsfulla scener och föreslå en uppdelning av videon där delar med låg kvalitet slängs bort.
 

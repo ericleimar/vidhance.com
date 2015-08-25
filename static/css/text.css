@@ -57,11 +57,12 @@ em {
 	font-style: italic;
 	font-weight: 400;
 }
-blockquote > cite {
+cite {
 	display: block;
 	font-style: normal;
-	width: 100%;
 	text-align: right;
+	float: right;
+	margin-right: 40px;
 }
 blockquote > *:not(cite){
 	font-style: italic;
