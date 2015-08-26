@@ -128,6 +128,12 @@ img#loadinggif {
 .floatright {
 	float:right;
 }
+.floatleft {
+	float:left;
+}
+.clear {
+	clear: both;
+}
 figure.boxedimg {
 	background-color: #F3F3F2;
 	padding: 0.5em;
@@ -151,6 +157,9 @@ figure.floatright {
 .video-container iframe {
 	width: 100%;
 	height: 100%;
+}
+body > main > section > article > header > div > h5 {
+	margin: 0;
 }
 @media only screen and (min-width: 52em) {
 	body > main > section > article.graphic {

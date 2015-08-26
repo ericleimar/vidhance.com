@@ -1,10 +1,12 @@
 <article>
 	<header>
 		<h2><a class="no-decoration" href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-		<h5>{{ .Params.location }}</h5>
-		<h5>{{ .Date.Format "Monday, January 2, 2006" }}</h5>
+		<div>
+			<h5 class="floatleft">{{ .Params.location }}</h5>
+			<h5 class="floatright">{{ .Date.Format "Monday, January 2, 2006" }}</h5>
+		</div>
 	</header>
-	<main>
+	<main class="clear">
 		{{ .Summary }}
 		{{ if .Truncated }}
 			<a href="{{ .RelPermalink }}">Read more</a>
