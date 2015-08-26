@@ -9,14 +9,18 @@
 			<a id="nav-close-btn" class="close-btn" href="#top">Return to Content</a>
 		</div>
 	</nav>
-	<main>
-		<section>
-			{{ range first 5 .Data.Pages.ByDate.Reverse }}
-				{{ .Render "summary" }}
+	<main><section><article>
+		<main>
+			<ul class="news-archive">
+			{{ range .Site.Sections.newspost.Pages.ByDate.Reverse }}
+			<li>
+				<a href="{{ .RelPermalink }}">{{ .Title }}</a>
+				<br>{{ .Params.location }} - {{ .Date.Format "Monday, January 2, 2006" }}
+			</li>
 			{{ end }}
-		</section>
-		<center style="margin-bottom:1em;"><a style="font-weight:bold;"href="/newsarchive/archive">News archive</a><center>
-	</main>
+			</ul>
+		</main>
+	</article></section></main>
 	<footer>{{ template "partials/footer.html" . }}</footer>
 	{{ template "partials/foot.html" . }}
 </body>

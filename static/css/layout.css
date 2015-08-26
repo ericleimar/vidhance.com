@@ -116,13 +116,16 @@ img#loadinggif {
 	vertical-align: middle;
 	display: block;
 }
-.job-position {
+.job-position,
+.news-post {
 	padding: 1em 1em;
 }
-.job-position h2{
+.job-position h2,
+.news-post h2 {
 	margin-bottom: 0;
 }
-.job-position h5{
+.job-position h5,
+.news-post h5 {
 	margin-top: 0.5em;
 }
 .floatright {
@@ -157,6 +160,12 @@ figure.floatright {
 .video-container iframe {
 	width: 100%;
 	height: 100%;
+}
+.news-archive li {
+	margin-bottom: 1em;
+}
+.news-archive {
+	list-style: none;
 }
 body > main > section > article > header > div > h5 {
 	margin: 0;

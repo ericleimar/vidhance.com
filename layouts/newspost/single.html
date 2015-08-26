@@ -11,11 +11,18 @@
 	</nav>
 	<main>
 		<section>
-			{{ range first 5 .Data.Pages.ByDate.Reverse }}
-				{{ .Render "summary" }}
-			{{ end }}
+			<article>
+				<header>
+					<h1>{{ .Title }}</h1>
+					<div>
+						<h5 class="floatleft">{{ .Params.location }}</h5>
+						<h5 class="floatright">{{ .Date.Format "Monday, January 2, 2006" }}</h5>
+					</div>
+				</header>
+				<main class="clear">{{ .Content}}</main>
+				<footer>{{ with .Params.backgroundcopyright }}<p>{{ . }}</p>{{ end }}</footer>
+			</article>
 		</section>
-		<center style="margin-bottom:1em;"><a style="font-weight:bold;"href="/newsarchive/archive">News archive</a><center>
 	</main>
 	<footer>{{ template "partials/footer.html" . }}</footer>
 	{{ template "partials/foot.html" . }}
