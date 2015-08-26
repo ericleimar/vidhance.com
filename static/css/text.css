@@ -73,7 +73,7 @@ blockquote > p:first-child:before {
 	content: "\201c";
 	color: #a73e10;
 }
-blockquote > p:nth-last-child(2):after {
+blockquote > p:first-child:after {
 	content: "\201d";
 }
 .no-decoration,
