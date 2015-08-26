@@ -1,0 +1,6 @@
+<figure class="boxedimg {{ with .Get "class" }}{{.}}{{ end }}">
+	<img src="{{ .Get "src" }}"/>
+	{{ if isset .Params "caption" }}
+		<figcaption>{{ .Get "caption" }}</figcaption>
+	{{ end }}
+</figure>

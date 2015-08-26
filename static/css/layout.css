@@ -116,14 +116,59 @@ img#loadinggif {
 	vertical-align: middle;
 	display: block;
 }
-.job-position {
+.job-position,
+.news-post {
 	padding: 1em 1em;
 }
-.job-position h2{
+.job-position h2,
+.news-post h2 {
 	margin-bottom: 0;
 }
-.job-position h5{
+.job-position h5,
+.news-post h5 {
 	margin-top: 0.5em;
+}
+.floatright {
+	float:right;
+}
+.floatleft {
+	float:left;
+}
+.clear {
+	clear: both;
+}
+figure.boxedimg {
+	background-color: #F3F3F2;
+	padding: 0.5em;
+	border: 1px solid #CCC;
+	margin: 0.5em 0em 0.4em 0.5em
+}
+figure.boxedimg > figcaption,
+figure.boxedimg > img {
+	text-align: center;
+	float: inherit;
+	font-size: 0.8em;
+	width: 100%;
+}
+figure.floatright {
+	width: 220px;
+}
+.video-container {
+	margin: 1em 0em;
+	overflow: hidden;
+}
+.video-container iframe {
+	width: 100%;
+	height: 100%;
+}
+.news-archive li {
+	margin-bottom: 1em;
+}
+.news-archive {
+	list-style: none;
+}
+body > main > section > article > header > div > h5 {
+	margin: 0;
 }
 @media only screen and (min-width: 52em) {
 	body > main > section > article.graphic {

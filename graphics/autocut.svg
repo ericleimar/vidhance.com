@@ -54,9 +54,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1268555"
-     inkscape:cx="490.30969"
-     inkscape:cy="137.26136"
+     inkscape:zoom="1.1543666"
+     inkscape:cx="632.50357"
+     inkscape:cy="9.5951756"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -74,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -84,7 +84,10 @@
      id="layer1"
      transform="translate(0,-762.36218)">
     <g
-       id="g3053">
+       id="g3053"
+       inkscape:export-filename="/home/judd/versioned/vidhance/vidhance.com/static/career/position/masterThesisVideoSW/autocut.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <image
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"

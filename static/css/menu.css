@@ -189,8 +189,8 @@ backg	round-image: url("../img/close-btn.png");
 	#nav li:last-child {
 		border-right: none;
 	}
-	#nav ul > li:nth-child(1),
-	#nav ul > li:nth-child(1) > a {
+	#nav div > ul > li:nth-child(1),
+	#nav div > ul > li:nth-child(1) > a {
 		border-left-width: 0;
 		padding-left: 0;
 	}
