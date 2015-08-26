@@ -125,13 +125,24 @@ img#loadinggif {
 .job-position h5{
 	margin-top: 0.5em;
 }
-figcaption > h4 {
-	text-align: center;
-	width: 100%;
-	font-weight: normal;
+.floatright {
+	float:right;
 }
-figure > img {
+figure.boxedimg {
+	background-color: #F3F3F2;
+	padding: 0.5em;
+	border: 1px solid #CCC;
+	margin: 0.5em 0em 0.4em 0.5em
+}
+figure.boxedimg > figcaption,
+figure.boxedimg > img {
+	text-align: center;
+	float: inherit;
+	font-size: 0.8em;
 	width: 100%;
+}
+figure.floatright {
+	width: 220px;
 }
 @media only screen and (min-width: 52em) {
 	body > main > section > article.graphic {
