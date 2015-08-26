@@ -170,6 +170,10 @@ figure.floatright {
 body > main > section > article > header > div > h5 {
 	margin: 0;
 }
+article.news-post figure.boxedimg {
+	width: 220px;
+	margin: auto;
+}
 @media only screen and (min-width: 52em) {
 	body > main > section > article.graphic {
 		text-align: center;
@@ -211,5 +215,8 @@ body > main > section > article > header > div > h5 {
 	body > main > section > article > footer,
 	body > main > section {
 		clear: both;
+	}
+	article.news-post figure.boxedimg {
+		float: right;
 	}
 }
