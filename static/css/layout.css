@@ -137,6 +137,9 @@ img#loadinggif {
 .clear {
 	clear: both;
 }
+.halfwidth {
+	width: 50%;
+}
 figure.boxedimg {
 	background-color: #F3F3F2;
 	padding: 0.5em;
@@ -149,9 +152,6 @@ figure.boxedimg > img {
 	float: inherit;
 	font-size: 0.8em;
 	width: 100%;
-}
-figure.floatright {
-	width: 220px;
 }
 .video-container {
 	margin: 1em 0em;
