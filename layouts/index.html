@@ -17,7 +17,20 @@
 				</figure>
 			</article>
 			{{ range .Site.Sections.start.Pages.ByWeight }}
-				{{ template "partials/article.html" . }}
+				{{ if .Params.latestnews }}
+					<article>
+						<header><a class="no-decoration" href="/newspost/"><h1>{{ .Title }}</h1></a></header>
+						<main>
+							<ul class="news-archive">
+							{{ range first 5 .Site.Sections.newspost.Pages.ByDate.Reverse }}
+							<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+							{{ end }}
+							</ul>
+						</main>
+					</article>
+				{{ else }}
+					{{ template "partials/article.html" . }}
+				{{ end }}
 			{{ end }}
 		</section>
 	</main>

@@ -24,7 +24,8 @@ h5 a, h5 a:visited, h5 a:active,
 h5 a, h6 a:visited, h6 a:active {
 	color: inherit;
 }
-article > header > h1 {
+article > header > h1,
+article > header > a > h1 {
 	font-size: 2.2em;
 	line-height: 1.2;
 	font-weight: 600;
