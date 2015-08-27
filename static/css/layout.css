@@ -141,7 +141,7 @@ figure.boxedimg {
 	background-color: #F3F3F2;
 	padding: 0.5em;
 	border: 1px solid #CCC;
-	margin: 0.5em 0em 0.4em 0.5em
+	margin: 0.5em 0em 0.5em 0.5em
 }
 figure.boxedimg > figcaption,
 figure.boxedimg > img {
@@ -218,5 +218,6 @@ article.news-post figure.boxedimg {
 	}
 	article.news-post figure.boxedimg {
 		float: right;
+		margin: 0.5em 0em 0.5em 0.5em
 	}
 }
