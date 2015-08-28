@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
-<head>{{ template "partials/head.html" . }}</head>
+<head>{{ partial "head.html" . }}</head>
 <body id="inner-wrap">
-	<header id="top">{{ template "partials/header.html" . }}</header>
+	<header id="top">{{ partial "header.html" . }}</header>
 	<nav id="nav">
 		<div class="block">
-			{{ template "partials/menu.html" .Site.Menus.main }}
+			{{ partial "menu.html" .Site.Menus.main }}
 			<a id="nav-close-btn" class="close-btn" href="#top">Return to Content</a>
 		</div>
 	</nav>
@@ -29,12 +29,12 @@
 						</main>
 					</article>
 				{{ else }}
-					{{ template "partials/article.html" . }}
+					{{ partial "article.html" . }}
 				{{ end }}
 			{{ end }}
 		</section>
 	</main>
-	<footer>{{ template "partials/footer.html" . }}</footer>
-	{{ template "partials/foot.html" . }}
+	<footer>{{ partial "footer.html" . }}</footer>
+	{{ partial "foot.html" . }}
 </body>
 </html>
