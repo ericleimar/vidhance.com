@@ -1,7 +1,7 @@
 ---
 date: 2015-03-26T13:10:30+02:00
 location: "Uppsala, Sweden"
-title: "Imint keeps growing - we welcome Bettina, David and Ziquan"
+title: "Imint Keeps Growing - We Welcome Bettina, David and Ziquan"
 ---
 Imint has brought in more talents to its engineering team; and we welcome Bettina Selig, David Piuva Forsgren and Ziquan Yu, who all recently joined Imint. They all add valuable expertise and knowledge to the accelerating research, development and product building efforts. This is supportive of the goal of taking Imint to a leading position within mobile video and user experience.<!--more-->
 

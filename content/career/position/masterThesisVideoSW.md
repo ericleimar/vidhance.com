@@ -35,7 +35,7 @@ Vi förväntar oss att du som söker har:
 - God förståelse av signalbehandling och den underliggande matematiken
 - Erfarenhet av modelleringsmetoder för algoritmer
 
-Ibland erbjuder Imint en fortsatt anställning på företaget efter ett lyckat examensarbete. Några områden av generellt intresse för Imint är:
+Några områden av generellt intresse för Imint är:
 
 - Grundläggande kunskap om OpenGL eller DirectX och videobearbetning
 - Gärna erfarenhet inom apputveckling för mobiltelefoner eller utveckling av användargränssnitt

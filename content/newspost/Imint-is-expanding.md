@@ -1,7 +1,7 @@
 ---
 date: 2015-02-02T13:33:01+02:00
 location: "Uppsala, Sweden"
-title: "Imint is expanding - new job openings"
+title: "Imint is Expanding - New Job Openings"
 ---
 Imint is in rapid expansion, and has opened up a number of interesting position within the field of image research, product management, software development and technical marketing.
 
