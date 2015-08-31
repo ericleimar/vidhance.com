@@ -16,6 +16,6 @@ Images and other content is placed in static. Create folders corresponding to th
 
 ## To run this site on a local computer follow these steps
 
-1. Clone the repository to your computer.
+1. Clone the repository to your computer. Add the --recursive flag to get the submodule containing the vidhance theme for webpages.
 2. Go to https://github.com/spf13/hugo/releases and download the latest release. (v0.14 was used to build this site)
-3. Stand in the root folder of the cloned repository and run "hugo -w server" to start a local webserver hosting the site and that refreshes the site when a file is edited.
+3. Stand in the root folder of the cloned repository and run "hugo server -w -t hugo-vidhance-theme" to start a local webserver hosting the site and that refreshes the site when a file is edited.
