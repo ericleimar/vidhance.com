@@ -1,7 +1,7 @@
 ---
 date: 2015-06-25T16:02:02+02:00
 location: "Uppsala, Sweden"
-title: "\"Vidhance could soon replace live video producers\" - TechCrunch covers new roadmap"
+title: "\"Vidhance Could Soon Replace Live Video Producers\" - TechCrunch Covers New Roadmap"
 ---
 
 
