@@ -58,4 +58,4 @@ We offer a full time, permanent position (starting with a six-months trial perio
 
 The recruitment is ongoing. We encourage interested candidates to apply before November 30th, 2014.
 
-Please send your application by filling out the [job application form](/careers/jobApplication/).
+Please send your application by filling out the [job application form](/career/apply/).
