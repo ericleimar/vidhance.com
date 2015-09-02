@@ -37,4 +37,4 @@ Working at Imint is and shall be challenging. Our international customers and pa
 
 *Our open positions are described below, and since we're looking for candidates with functional level of Swedish they will be described in Swedish.*
 
-*Apply to any of our positions described below by filling out [this form](/careers/jobApplication/)*
+*Apply to any of our positions described below by filling out [this form](/career/apply/)*
