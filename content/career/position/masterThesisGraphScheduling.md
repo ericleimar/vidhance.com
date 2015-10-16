@@ -9,7 +9,7 @@ menu:
   main:
     name: "Examensarbete inom schedulering med OpenGL"
     parent: "Careers"
-    weight: 60
+    weight: 0
 ---
 Vi letar efter examensstudenter inom mjukvaruutveckling med tidigare erfarenhet av programmering och gärna inom parallellism och bildanalys. Vi uppskattar flexibla, självdrivna och mångkunniga studenter med bra social och kommunikativ förmåga som trivs i ett företag med entreprenörskultur.
 <!--more-->
@@ -32,7 +32,7 @@ Projektet ska avslutas med en rapport som dokumenterar modeller, resultat, utvä
 # Kvalifikationer:
 Vi förväntar oss att du som söker har:
 
-- Erfarenhet inom C# eller C
+- Erfarenhet inom C samt Java eller C#
 - Grundläggande kunskap om OpenGL eller DirectX och videobearbetning
 - Erfarenhet och intresse av parallellprogrammering
 - Flytande kunskaper i engelska och svenska
@@ -45,13 +45,11 @@ Några områden av generellt intresse för Imint är:
 # Villkor:
 Examensarbetet ska utföras i Imints lokaler under normal arbetstid.
 
-Examensstudenterna kommer att skriva på ett avtal med Imint som innefattar sekretess och immaterialrätt. Det kommer också innefatta en fortsatt anställning hos Imint när examensarbetet är avslutat.
+Examensstudenterna kommer att skriva på ett avtal med Imint som innefattar sekretess och immaterialrätt. Det kan också komma att innefatta en fortsatt anställning hos Imint när examensarbetet är avslutat.
 
-Examensarbetet ger ingen ersättning under tiden det utförs men ett lyckat och slutfört examensarbete ger en bonus på 25 000 Kr (brutto).
+Examensarbetet ger ingen ersättning under tiden det utförs men ett planenligt slutfört examensarbete ger en bonus på 25 000 Kr (brutto).
 
 # Processen:
-Vi förväntar oss att examenarbetet ska vara avslutat våren 2016
-
-Vi ber i första hand kandidater att använda vårt [webformulär](/career/apply/) vid ansökningar. Vi ber också att frågor om tjänsten eller rekryteringsprocessen i första hand ställs per email till [careers@imint.se](mailto:careers@imint.se), eftersom rekryterande chefer ofta är på resande fot i andra tidszoner.
+Examenarbetet förväntas vara avslutat våren 2016. Intresserade kandidater kan ansöka via vårt [webformulär](/career/apply/). Frågor om tjänsten eller rekryteringsprocessen bör i första hand ställas per email till [careers@imint.se](mailto:careers@imint.se), eftersom rekryterande chefer ofta är på resande fot i andra tidszoner.
 
 Vi ser fram emot din ansökan!
