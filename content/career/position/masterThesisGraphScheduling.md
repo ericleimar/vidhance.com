@@ -1,5 +1,5 @@
 ---
-title: "Examensarbete inom schedulering med OpenGLES"
+title: "Examensarbete inom schedulering med OpenGL"
 date: 2015-07-21
 weight: 160
 #draft: true
@@ -7,34 +7,27 @@ type: "position"
 location: "Uppsala, Sverige"
 menu:
   main:
-    name: "Examensarbete"
+    name: "Examensarbete inom schedulering med OpenGL"
     parent: "Careers"
     weight: 60
 ---
-Vi letar efter examensstudenter inom mjukvaruutveckling med tidigare erfarenhet av programmering och gärna inom bildanalys och algoritmer. Vi uppskattar flexibla, självdrivna och mångkunniga studenter med bra social och kommunikativ förmåga som trivs i ett företag med entreprenörskultur.
+Vi letar efter examensstudenter inom mjukvaruutveckling med tidigare erfarenhet av programmering och gärna inom parallellism och bildanalys. Vi uppskattar flexibla, självdrivna och mångkunniga studenter med bra social och kommunikativ förmåga som trivs i ett företag med entreprenörskultur.
 <!--more-->
 
 # Projektbeskrivning
-Schedulering på en graf
 
-Tre olika sätt, alla behöver ha en OpenGL context (shared)
+På Imint utvecklar vi mjukvara för att analysera, optimera och förbättra video i realtid. Följande modell visar ett exempel på de många delar som spelar in:
 
-Avvägning mellan energiförsörjning (prop mot kvadraten på frekvens) och hastighet
+{{<img src="/career/position/masterThesisGraphScheduling/stack.png" caption="Exempel på videosekvens med varierande kvalitet" class="fullwidth">}}
 
-implementera ett simplifierat problem av vad vi gör, testa och dokumentera olika modeller
+Energiförbrukningen är som regel proportionell mot kvadraten på klockfrekvensen, vilket gör det attraktivt att dela upp ett stort arbete på flera kärnor. Samtidigt ligger en beräkningskostnad i att planera/schedulera jobben i en parallell arkitektur samt att skapa och synkronisera trådar. Detta gör att hastigheten kan bli lidande. För olika scenarion, exempelvis privat videoinspelning eller liveströmning, förordas olika avvägningar mellan dessa två alternativ.
 
-jämför med hur node.js gör - asynkron i/o
+De beräkningar som utförs här sker med egenutvecklade algoritmer och med OpenGL (eller OpenGL ES för smartphones). Vi är intresserade av att undersöka flera olika modeller för att schedulera jobb för att med hjälp av parallellism effektivisera arbetet i ovanstående graf beroende på fokus mellan energiförbrukning kontra hastighet. Vi är också intresserade av att hitta enkla lösningar att implementera dessa lösningar i våra existerande system.
 
 # Arbetsbeskrivning:
-...
+Examensarbetet ska inledningsvis bygga upp en simplifierad version av det ovanstående komplexa problemet inom videostabilisering. Därefter ska projektet innefatta att testa, utvärdera och dokumentera resultat för olika scheduleringsmetoder. Detta sker i nära samarbete med våra ingenjörer och utvecklare.
 
-<!--
-xamensarbetet ska bygga på Imints nuvarande tekniker för beräkning av rörelse och pågående forskning som handlar om kartläggning av mätvärden för rörelsemönster. Projektet ska resultera i en algoritmisk modell för automatisk segmentering av videoklipp från en handhållen kamera i rörelse. En förundersökning av aktuell forskning inom problemdomänen bör göras.
-
-Arbetet ska också innefatta att bygga upp en databas av autentiska videoklipp från smartphone-användare. Databasen ska användas för att analysera vilka parametrar från metadatan som passar bäst för en implementation av en algoritm. Vi tror också att professionell video ska studeras med samma modell för att identifiera tumregler för filmproduktion.
-
-Projektet ska avslutas med en implementation av en prototyp som tar en videofil som inparameter och föreslår tidpunkter för klippning av videon som utparameter.
--->
+Projektet ska avslutas med en rapport som dokumenterar modeller, resultat, utvärderingar samt idéer inför framtida utveckling.
 
 # Kvalifikationer:
 Vi förväntar oss att du som söker har:
@@ -46,7 +39,7 @@ Vi förväntar oss att du som söker har:
 
 Några områden av generellt intresse för Imint är:
 
-- Gärna erfarenhet inom algoritmutveckling och signalbehandling
+- Erfarenhet inom algoritmutveckling och signalbehandling
 - God kunskap inom datorarkitektur
 
 # Villkor:
