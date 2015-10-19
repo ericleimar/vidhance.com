@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Careers on Vidhance</title>
+    <link>http://vidhance.com/career/</link>
+    <description>Recent content in Careers on Vidhance</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://vidhance.com/career/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://vidhance.com/career/about/</link>
+      <pubDate>Tue, 21 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://vidhance.com/career/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;about-imint:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;About Imint&lt;/h1&gt;
+
+&lt;p&gt;Imint is a small high-tech software startup, located at Uppsala. The company has its roots in the Center for Image Analysis at Uppsala University. Initially, the company focused on enhancing live aerial surveillance video streams by removing obstacles for human perception, caused by vibration, turbulence, bad weather, etc. Today, Imint is serving a broad range of customers in a variety of fields. Whenever time critical decisions, based on video sources are made, Imint&amp;rsquo;s technology can come into play.&lt;/p&gt;
+
+&lt;h1 id=&#34;engineering-candidate-profile:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Engineering Candidate Profile&lt;/h1&gt;
+
+&lt;p&gt;In addition to specific demands for individual positions, we believe a candidate to our engineering team should match these requirements:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Genuine interest in software development; assiduous and with high quality standards&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Unprestigious and willing to discuss, learn and teach&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Enjoying being a team player with involvement in all aspects of our business&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Interest in interacting with customers and partners, including travelling abroad&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Education level MSc or equivalent&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Fluent in English and at least with functional Swedish&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;working-at-imint:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Working at Imint&lt;/h1&gt;
+
+&lt;p&gt;&lt;figure class=&#34;boxedimg floatright halfwidth&#34;&gt;
+	&lt;img src=&#34;http://vidhance.com/career/TeamPhoto1.jpg&#34;/&gt;
+	
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;At Imint, we are software professionals. We develop innovative technology in the areas of video enhancement and video analytics for the most demanding situations. As a small team, we need to be both versatile and agile, with short cycles from idea, to proof-of-concept and further on to mature field deployed solutions.&lt;/p&gt;
+
+&lt;p&gt;&lt;figure class=&#34;boxedimg floatright halfwidth&#34;&gt;
+	&lt;img src=&#34;http://vidhance.com/career/TeamPhoto2.jpg&#34;/&gt;
+	
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Since Imint is an entrepreneurial and fast growing technology company, we appreciate dynamic, self-propelled and all-round talented co-workers with good social and communication skills, who thrive in a start-up corporate culture. We value sincerity and responsibility, and those who can combine creativity with ability to plan and deliver. Working with us should be both challenging and fun, we are driven by vision, and we appreciate a culture where good ideas and ability to execute, rather than titles, count.&lt;/p&gt;
+
+&lt;p&gt;Working at Imint is and shall be challenging. Our international customers and partners put high expectations on us and our capabilities. To thrive with us, you should feel energized by such demands. To be able to excel in a demanding and dynamic environment, balance in life is a key component. To ensure enduring creativity, passion and commitment when working in our team, there must be sufficient time outside of the job. Imint values differences in experience, background, and opinions.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Our open positions are described below, and since we&amp;rsquo;re looking for candidates with functional level of Swedish they will be described in Swedish.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Apply to any of our positions described below by filling out &lt;a href=&#34;http://vidhance.com/career/apply/&#34;&gt;this form&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Apply</title>
+      <link>http://vidhance.com/career/apply/</link>
+      <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://vidhance.com/career/apply/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Senior utvecklare/ produktledare inom video</title>
+      <link>http://vidhance.com/career/position/seniorEngineer/</link>
+      <pubDate>Tue, 21 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://vidhance.com/career/position/seniorEngineer/</guid>
+      <description>
+
+&lt;p&gt;För denna roll värdesätts kvalitetsmedvetenhet, erfarenhet av metoder för systematisk testning och kvalitetskontroll, och principer för effektivt produktunderhåll - i korthet erfarenhet av produktvård och produktledning för mjukvara.&lt;/p&gt;
+
+&lt;p&gt;Hos Imint finns inga tydliga avdelningar och hårt ritade gränser. Vår uppgift är att omsätta innovativa idéer och forskningsnära kunskap till riktiga funktioner i var mans hand, och på kort tid. Denna roll har dock fokus på levererbara produkter och kundintegration. Imints mjukvara Vidhance Mobile integreras som mjukvarukomponenter direkt i kundens produkt (som till exempel en smartphone), och som en utökning till operativsystemets abstraktionslager för kamerahårdvara. I dagsläget stöds Android, men andra operativsystem kan komma.&lt;/p&gt;
+
+&lt;h1 id=&#34;kvalifikationer:7d4aa3e758f48a49792baab6ea6f6ec2&#34;&gt;Kvalifikationer:&lt;/h1&gt;
+
+&lt;h2 id=&#34;generella-meriter-ingenjör-hos-imint:7d4aa3e758f48a49792baab6ea6f6ec2&#34;&gt;Generella meriter - ingenjör hos Imint&lt;/h2&gt;
+
+&lt;p&gt;Förutom specifika krav på enskilda tjänster, så söker vi huvudsakligen de med följande meriter.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Geniunt intresse för mjukvaruutveckling, och med hög ambitionsnivå.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Prestigelös attityd, och öppen för att lära och lära ut.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Lagspelare som uppskattar att vara involverad i all vår verksamhet.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Kundinriktad, uppskattar att kommunicera med kunder och partners, och ibland resa utomlands.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Utbildningsnivå civilingenjör eller motsvarande.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Talar flytande och skriver god engelska. Funktionell nivå på svenska. Ytterligare språkkunskaper är meriterande, till exempel östasiatiska språk.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;rollen:7d4aa3e758f48a49792baab6ea6f6ec2&#34;&gt;Rollen&lt;/h2&gt;
+
+&lt;p&gt;Vi söker en senior mjukvaruutvecklare och/eller produktledare med följande kvalifikationer.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;5+ års arbetserfarenhet, varav flera års erfarenhet av kommersiell mjukvaruutveckling och produkthantering.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Stor skicklighet i att programmera i  C, C# eller Java.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;God erfarenhet av modern test- och utvecklingsmetodik inom mjukvara.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;God erfarenhet av att hantera produktcykeln för mjukvara; från utrullning till produktvård och underhåll och uppdateringar.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Erfarenhet av att förtroendefullt arbeta med kunder i en produkt- eller leveransorganisation.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;ytterligare-meriter:7d4aa3e758f48a49792baab6ea6f6ec2&#34;&gt;Ytterligare meriter&lt;/h2&gt;
+
+&lt;p&gt;I listan nedan anger vi några punkter där sökande kan hitta en &amp;ldquo;spets&amp;rdquo;, och rekommenderas att lyfta fram sådant i en ansökan. Punkterna utgör dock inte hårda krav.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Erfarenhet av mjukvara för videotillämpningar, tex. erfarenhet av DirectShow, GStreamer eller Media Foundation.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Erfarenhet och intresse av bildbehandling eller videoanalys, med erfarenhet av verktyg som till exempel OpenCV.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Erfarenhet av OpenGL och/eller OpenGL-ES och utveckling och optimering av shaders.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Goda kunskaper inom datorvetenskap och datorarkitektur.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Erfarenhet med goda vitsord från att leda projekt eller team i en produktorganisation.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Erfarenhet av att utveckla på Android, på operativsystems- eller drivrutinsnivå, och erfarenhet av att utveckla på inbyggnadsdatorer med hög prestanda, som till exempel ARM.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Erfarenhet av att utveckla algoritmer i mjukvara med hårda realtidskrav, gärna i multitrådade processer.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Bra förståelse för digital kamerateknik och Image Signal Processesing (ISP).&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Personligt intresse av fotografi/videografi, datorgrafik, optik/kamerateknik, eller liknande&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Kvalitetsmedveten och med bra prioriteringsförmåga under stressiga perioder, och som skapar förtroende hos medarbetare och kunder.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;om-imint:7d4aa3e758f48a49792baab6ea6f6ec2&#34;&gt;Om Imint&lt;/h1&gt;
+
+&lt;p&gt;Imint AB är ett mjukvarubolag med kontor i Uppsala. Från början fokuserade vi på att förbättra video från förarlösa flygplan, för att reducera sådant som stör mänsklig varseblivning, som till exempel vibrationer och dålig sikt. Idag har vi på Imint utvecklat vår unika och patenterade mjukvara vidare för konsumentelektroni i produktfamiljen Vidhance® Mobile och vår år ambition är att förbättra användarupplevelsen av videoinspelning för den enorma marknaden inom smarta telefoner. Nu expanderar vi kraftigt, för att möta ett mycket starkt intresse för vår teknik. Webtidningen TechCrunch skrev nyligen om Imint i den &lt;a href=&#34;http://techcrunch.com/2015/06/22/imints-vidhance-algorithms-could-soon-replace-live-video-producers/&#34;&gt;här artikeln&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&#34;att-jobba-hos-oss:7d4aa3e758f48a49792baab6ea6f6ec2&#34;&gt;Att jobba hos oss&lt;/h1&gt;
+
+&lt;p&gt;Vi är mjukvaruexperter och algoritmutvecklare. Vi bygger innovativ teknik inom videoförbättring och videoanalys för krävande tillämpningar och med hårda realtidskrav. Vi är ett mindre team men i snabb tillväxt, och vi behöver vara både mångkunniga och flexibla. Vi jobbar med korta cykler från idé vidare till koncept och leverans ut till kund, och är inspirerade av Lean Startup-rörelsen. Hur ser morgondagens användande av mobil video ut - och vilka behov kan vår produkt fylla?&lt;/p&gt;
+
+&lt;p&gt;Vi har en entreprenörskultur. Det innebär att de som är initiativrika och självgående problemlösare trivs bäst hos oss. Vi uppskattar ärlighet och ansvarstagande, och förmågan att både vara kreativ och kunna planera och genomföra. Det skall vara både krävande och roligt att jobba hos oss, och våra internationella kunder och partner har höga förväntningar. Det är viktigare med vad du tillför i idéer och handlingar, än din bakgrund och dina formella meriter. För att kunna leverera bra resultat krävs balans i livet. Tid måste finnas för annat än jobb för att kreativitet och passion skall få uthålligt utrymme. Vi har en kultur av ömsesidighet, där vi ger bra förutsättningar att få ihop både arbets- och familjeliv. Vi uppskattar olikheter; i bakgrund, erfarenheter och åsikter.&lt;/p&gt;
+
+&lt;h1 id=&#34;villkor:7d4aa3e758f48a49792baab6ea6f6ec2&#34;&gt;Villkor:&lt;/h1&gt;
+
+&lt;p&gt;Imint erbjuder rätt sökande en marknadsmässig lön, med kollektivavtalshärmande villkor. Vi tillämpar flexibel arbetstid inom ramen för kärntid.&lt;/p&gt;
+
+&lt;h1 id=&#34;processen:7d4aa3e758f48a49792baab6ea6f6ec2&#34;&gt;Processen:&lt;/h1&gt;
+
+&lt;p&gt;I den tillväxtfas som Imint är inne i, sker rekrytering löpande. Vi uppmanar dock att söka tjänsten senast den 30 augusti 2015.&lt;/p&gt;
+
+&lt;p&gt;Vi ber i första hand kandidater att använda vårt &lt;a href=&#34;http://vidhance.com/career/apply/&#34;&gt;webformulär&lt;/a&gt; vid ansökningar. Vi ber också att frågor om tjänsten eller rekryteringsprocessen i första hand ställs per email till &lt;a href=&#34;mailto:careers@imint.se&#34;&gt;careers@imint.se&lt;/a&gt;, eftersom rekryterande chefer ofta är på resande fot i andra tidszoner.&lt;/p&gt;
+
+&lt;h1 id=&#34;viktig-info-till-rekryteringsfirmor-important-note-to-firms:7d4aa3e758f48a49792baab6ea6f6ec2&#34;&gt;Viktig info till rekryteringsfirmor : Important note to firms:&lt;/h1&gt;
+
+&lt;p&gt;Vi önskar ej bli kontaktade av rekryterings- eller outplacementföretag, utan enbart av ansökande individer. &lt;em&gt;Note: No firm solicitation&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Junior mjukvaruutvecklare/ produktintegratör</title>
+      <link>http://vidhance.com/career/position/juniorEngineer/</link>
+      <pubDate>Tue, 21 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://vidhance.com/career/position/juniorEngineer/</guid>
+      <description>
+
+&lt;p&gt;För denna roll värdesätts kvalitetsmedvetenhet, bra kommunikationsförmåga, och ett intresse av att stödja ingenjörer hos några av världens mest kända smartphonetillverkare i integrationsarbetet av vår mjukvara i deras telefoner.&lt;/p&gt;
+
+&lt;p&gt;Hos Imint finns inga tydliga avdelningar och hårt ritade gränser. Vår uppgift är att omsätta innovativa idéer och forskningsnära kunskap till riktiga funktioner i var mans hand, och på kort tid. Denna roll har fokus på levererbara produkter och kundintegration. Imints mjukvara Vidhance Mobile integreras som mjukvarukomponenter direkt i kundens produkt (som till exempel en smartphone), och som en utökning till operativsystemets abstraktionslager för kamerahårdvara. I dagsläget stöds Android, men andra operativsystem kan komma.&lt;/p&gt;
+
+&lt;h1 id=&#34;kvalifikationer:56b67ef5fd5d5e783784f457bd5bff4b&#34;&gt;Kvalifikationer:&lt;/h1&gt;
+
+&lt;h2 id=&#34;generella-kvalifikationer-ingenjör-hos-imint:56b67ef5fd5d5e783784f457bd5bff4b&#34;&gt;Generella kvalifikationer - ingenjör hos Imint&lt;/h2&gt;
+
+&lt;p&gt;Förutom specifika krav på enskilda tjänster, så söker vi huvudsakligen de med följande meriter.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Geniunt intresse för mjukvaruutveckling, och med hög ambitionsnivå.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Prestigelös attityd, och öppen för att lära och lära ut.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Lagspelare som uppskattar att vara involverad i all vår verksamhet.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Kundinriktad, uppskattar att kommunicera med kunder och partners, och ibland resa utomlands.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Utbildningsnivå civilingenjör eller motsvarande.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Talar flytande och skriver god engelska. Funktionell nivå på svenska. Ytterligare språkkunskaper är meriterande, till exempel östasiatiska språk.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;rollen:56b67ef5fd5d5e783784f457bd5bff4b&#34;&gt;Rollen&lt;/h2&gt;
+
+&lt;p&gt;Vi söker en en junior mjukvaruutvecklare och produktintegratör med  förmåga att ge tekniskt stöd åt våra internationella kunder, med följande kvalifikationer:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2+ års arbetserfarenhet, inom kommersiell mjukvaruutveckling och produkthantering, eller kvalificerad teknisk support.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Stor skicklighet i att programmera i  C, C# eller Java.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Erfarenhet av modern test- och utvecklingsmetodik inom mjukvara.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Erfarenhet av att förtroendefullt arbeta med kunder i en produkt-, support- eller leveransorganisation.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;ytterligare-meriter:56b67ef5fd5d5e783784f457bd5bff4b&#34;&gt;Ytterligare meriter&lt;/h2&gt;
+
+&lt;p&gt;I listan nedan anger vi några punkter där sökande kan hitta en &amp;ldquo;spets&amp;rdquo;, och rekommenderas att lyfta fram sådant i en ansökan. Punkterna utgör dock inte hårda krav.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Erfarenhet av mjukvara för videotillämpningar, tex. erfarenhet av DirectShow, GStreamer eller Media Foundation.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Erfarenhet och intresse av bildbehandling eller videoanalys, med erfarenhet av verktyg som till exempel OpenCV.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Erfarenhet av OpenGL och/eller OpenGL-ES och utveckling och optimering av shaders.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Goda kunskaper inom datorvetenskap och datorarkitektur.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Erfarenhet av att utveckla på Android, på operativsystems- eller drivrutinsnivå, och erfarenhet av att utveckla på inbyggnadsdatorer med hög prestanda, som till exempel ARM.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Bra förståelse för digital kamerateknik och Image Signal Processesing (ISP).&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Personligt intresse av fotografi/videografi, datorgrafik, optik/kamerateknik, eller liknande&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Kvalitetsmedveten och med bra prioriteringsförmåga under stressiga perioder, och som skapar förtroende hos medarbetare och kunder.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;om-imint:56b67ef5fd5d5e783784f457bd5bff4b&#34;&gt;Om Imint&lt;/h1&gt;
+
+&lt;p&gt;Imint AB är ett mjukvarubolag med kontor i Uppsala. Från början fokuserade vi på att förbättra video från förarlösa flygplan, för att reducera sådant som stör mänsklig varseblivning, som till exempel vibrationer och dålig sikt. Idag har vi på Imint utvecklat vår unika och patenterade mjukvara vidare för konsumentelektroni i produktfamiljen Vidhance® Mobile och vår år ambition är att förbättra användarupplevelsen av videoinspelning för den enorma marknaden inom smarta telefoner. Nu expanderar vi kraftigt, för att möta ett mycket starkt intresse för vår teknik. Webtidningen TechCrunch skrev nyligen om Imint i den &lt;a href=&#34;http://techcrunch.com/2015/06/22/imints-vidhance-algorithms-could-soon-replace-live-video-producers/&#34;&gt;här artikeln&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&#34;att-jobba-hos-oss:56b67ef5fd5d5e783784f457bd5bff4b&#34;&gt;Att jobba hos oss&lt;/h1&gt;
+
+&lt;p&gt;Vi är mjukvaruexperter och algoritmutvecklare. Vi bygger innovativ teknik inom videoförbättring och videoanalys för krävande tillämpningar och med hårda realtidskrav. Vi är ett mindre team men i snabb tillväxt, och vi behöver vara både mångkunniga och flexibla. Vi jobbar med korta cykler från idé vidare till koncept och leverans ut till kund, och är inspirerade av Lean Startup-rörelsen. Hur ser morgondagens användande av mobil video ut - och vilka behov kan vår produkt fylla?&lt;/p&gt;
+
+&lt;p&gt;Vi har en entreprenörskultur. Det innebär att de som är initiativrika och självgående problemlösare trivs bäst hos oss. Vi uppskattar ärlighet och ansvarstagande, och förmågan att både vara kreativ och kunna planera och genomföra. Det skall vara både krävande och roligt att jobba hos oss, och våra internationella kunder och partner har höga förväntningar. Det är viktigare med vad du tillför i idéer och handlingar, än din bakgrund och dina formella meriter. För att kunna leverera bra resultat krävs balans i livet. Tid måste finnas för annat än jobb för att kreativitet och passion skall få uthålligt utrymme. Vi har en kultur av ömsesidighet, där vi ger bra förutsättningar att få ihop både arbets- och familjeliv. Vi uppskattar olikheter; i bakgrund, erfarenheter och åsikter.&lt;/p&gt;
+
+&lt;h1 id=&#34;villkor:56b67ef5fd5d5e783784f457bd5bff4b&#34;&gt;Villkor:&lt;/h1&gt;
+
+&lt;p&gt;Imint erbjuder rätt sökande en marknadsmässig lön, med kollektivavtalshärmande villkor. Vi tillämpar flexibel arbetstid inom ramen för kärntid.&lt;/p&gt;
+
+&lt;p&gt;Den här tjänsten inleds om vi inte kommer överens om annat med en provanställning enligt lagen om anställningsskydd.&lt;/p&gt;
+
+&lt;h1 id=&#34;processen:56b67ef5fd5d5e783784f457bd5bff4b&#34;&gt;Processen:&lt;/h1&gt;
+
+&lt;p&gt;I den tillväxtfas som Imint är inne i, sker rekrytering löpande. Vi uppmanar dock att söka tjänsten senast den 30 augusti 2015.&lt;/p&gt;
+
+&lt;p&gt;Vi ber i första hand kandidater att använda vårt &lt;a href=&#34;http://vidhance.com/career/apply/&#34;&gt;webformulär&lt;/a&gt; vid ansökningar. Vi ber också att frågor om tjänsten eller rekryteringsprocessen i första hand ställs per email till &lt;a href=&#34;mailto:careers@imint.se&#34;&gt;careers@imint.se&lt;/a&gt;, eftersom rekryterande chefer ofta är på resande fot i andra tidszoner.&lt;/p&gt;
+
+&lt;h1 id=&#34;viktig-info-till-rekryteringsfirmor-important-note-to-firms:56b67ef5fd5d5e783784f457bd5bff4b&#34;&gt;Viktig info till rekryteringsfirmor : Important note to firms:&lt;/h1&gt;
+
+&lt;p&gt;Vi önskar ej bli kontaktade av rekryterings- eller outplacementföretag, utan enbart av ansökande individer. &lt;em&gt;Note: No firm solicitation&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Forskningsingenjör inom video och signalanalys</title>
+      <link>http://vidhance.com/career/position/researchEngineer/</link>
+      <pubDate>Tue, 21 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://vidhance.com/career/position/researchEngineer/</guid>
+      <description>
+
+&lt;p&gt;Hos Imint finns inga tydliga avdelningar och hårt ritade gränser. Vår uppgift är att omsätta innovativa idéer och forskningsnära kunskap till riktiga funktioner i var mans hand, och på kort tid. Denna roll har dock fokus på den mer långsiktiga utvecklingen, där tidiga idéer provas ut och undersöks. Erfarenhet av både forskningens innehåll inom bild/videobehandling och forskningens metodik är därför värdefull. Önskade erfarenheter listas nedan.&lt;/p&gt;
+
+&lt;h1 id=&#34;kvalifikationer:6f0d6e412c89f5239bb0c84583a20543&#34;&gt;Kvalifikationer:&lt;/h1&gt;
+
+&lt;h2 id=&#34;generella-meriter-ingenjör-hos-imint:6f0d6e412c89f5239bb0c84583a20543&#34;&gt;Generella meriter - ingenjör hos Imint&lt;/h2&gt;
+
+&lt;p&gt;Förutom specifika krav på enskilda tjänster, så söker vi huvudsakligen de med följande meriter.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Geniunt intresse för mjukvaruutveckling, och med hög ambitionsnivå.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Prestigelös attityd, och öppen för att lära och lära ut.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Lagspelare som uppskattar att vara involverad i all vår verksamhet.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Kundinriktad, uppskattar att kommunicera med kunder och partners, och ibland resa utomlands.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Utbildningsnivå civilingenjör eller motsvarande.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Talar flytande och skriver god engelska. Funktionell nivå på svenska. Ytterligare språkkunskaper är meriterande, till exempel östasiatiska språk.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;rollen:6f0d6e412c89f5239bb0c84583a20543&#34;&gt;Rollen&lt;/h2&gt;
+
+&lt;p&gt;Vi söker en forskningsingenjör inom bild- och videoanalys eller signalanalysinrikting, med följande kvalifikationer:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;3+ års relevant arbetserfarenhet, eller motsvarande erfarenhet efter disputering eller forskning inom relevant område&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Erfarenhet av programutveckling och algoritmutveckling i  C, C++, C# eller Java.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Gedigen kunskap om metoder och metodutveckling inom bild- och videoanalys, med erfarenhet av verktyg som till exempel OpenCV.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Goda inom datorvetenskap och datorarkitektur.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Mycket goda färdigheter i algoritmutveckling, signalanalys och optimeringar inom området.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;ytterligare-meriter:6f0d6e412c89f5239bb0c84583a20543&#34;&gt;Ytterligare meriter&lt;/h2&gt;
+
+&lt;p&gt;I listan nedan anger vi några punkter där sökande kan hitta en &amp;ldquo;spets&amp;rdquo;, och rekommenderas att lyfta fram sådant i en ansökan. Punkterna utgör dock inte hårda krav för tjänsten.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Erfarenhet av mjukvara för videotillämpningar, tex. erfarenhet av DirectShow och GStreamer.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Bra förståelse för digital kamerateknik och Image Signal Processesing (ISP)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Goda kunskaper om matematiska metoder inom optik, linjär algebra, geometri, statistisk analys, transformteori/signalbehandling, mm.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Erfarenhet av att utveckla algoritmer i mjukvara med hårda realtidskrav&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Personligt intesse av fotografi/videografi, datorgrafik, optik/kamerateknik, eller liknande.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;om-imint:6f0d6e412c89f5239bb0c84583a20543&#34;&gt;Om Imint&lt;/h1&gt;
+
+&lt;p&gt;Imint AB är ett mjukvarubolag med kontor i Uppsala. Från början fokuserade vi på att förbättra video från förarlösa flygplan, för att reducera sådant som stör mänsklig varseblivning, som till exempel vibrationer och dålig sikt. Idag har vi på Imint utvecklat vår unika och patenterade mjukvara vidare för konsumentelektroni i produktfamiljen Vidhance® Mobile och vår år ambition är att förbättra användarupplevelsen av videoinspelning för den enorma marknaden inom smarta telefoner. Nu expanderar vi kraftigt, för att möta ett mycket starkt intresse för vår teknik. Webtidningen TechCrunch skrev nyligen om Imint i den &lt;a href=&#34;http://techcrunch.com/2015/06/22/imints-vidhance-algorithms-could-soon-replace-live-video-producers/&#34;&gt;här artikeln&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&#34;att-jobba-hos-oss:6f0d6e412c89f5239bb0c84583a20543&#34;&gt;Att jobba hos oss&lt;/h1&gt;
+
+&lt;p&gt;Vi är mjukvaruexperter och algoritmutvecklare. Vi bygger innovativ teknik inom videoförbättring och videoanalys för krävande tillämpningar och med hårda realtidskrav. Vi är ett mindre team men i snabb tillväxt, och vi behöver vara både mångkunniga och flexibla. Vi jobbar med korta cykler från idé vidare till koncept och leverans ut till kund, och är inspirerade av Lean Startup-rörelsen. Hur ser morgondagens användande av mobil video ut - och vilka behov kan vår produkt fylla?&lt;/p&gt;
+
+&lt;p&gt;Vi har en entreprenörskultur. Det innebär att de som är initiativrika och självgående problemlösare trivs bäst hos oss. Vi uppskattar ärlighet och ansvarstagande, och förmågan att både vara kreativ och kunna planera och genomföra. Det skall vara både krävande och roligt att jobba hos oss, och våra internationella kunder och partner har höga förväntningar. Det är viktigare med vad du tillför i idéer och handlingar, än din bakgrund och dina formella meriter. För att kunna leverera bra resultat krävs balans i livet. Tid måste finnas för annat än jobb för att kreativitet och passion skall få uthålligt utrymme. Vi har en kultur av ömsesidighet, där vi ger bra förutsättningar att få ihop både arbets- och familjeliv. Vi uppskattar olikheter; i bakgrund, erfarenheter och åsikter.&lt;/p&gt;
+
+&lt;h1 id=&#34;villkor:6f0d6e412c89f5239bb0c84583a20543&#34;&gt;Villkor:&lt;/h1&gt;
+
+&lt;p&gt;Imint erbjuder rätt sökande en marknadsmässig lön, med kollektivavtalshärmande villkor. Vi tillämpar flexibel arbetstid inom ramen för kärntid.&lt;/p&gt;
+
+&lt;h1 id=&#34;processen:6f0d6e412c89f5239bb0c84583a20543&#34;&gt;Processen:&lt;/h1&gt;
+
+&lt;p&gt;I den tillväxtfas som Imint är inne i, sker rekrytering löpande. Vi uppmanar dock att söka tjänsten senast den 30 augusti 2015.&lt;/p&gt;
+
+&lt;p&gt;Vi ber i första hand kandidater att använda vårt &lt;a href=&#34;http://vidhance.com/career/apply/&#34;&gt;webformulär&lt;/a&gt; vid ansökningar. Vi ber också att frågor om tjänsten eller rekryteringsprocessen i första hand ställs per email till &lt;a href=&#34;mailto:careers@imint.se&#34;&gt;careers@imint.se&lt;/a&gt;, eftersom rekryterande chefer ofta är på resande fot i andra tidszoner.&lt;/p&gt;
+
+&lt;h1 id=&#34;viktig-info-till-rekryteringsfirmor-important-note-to-firms:6f0d6e412c89f5239bb0c84583a20543&#34;&gt;Viktig info till rekryteringsfirmor : Important note to firms:&lt;/h1&gt;
+
+&lt;p&gt;Vi önskar ej bli kontaktade av rekryterings- eller outplacementföretag, utan enbart av ansökande individer. &lt;em&gt;Note: No firm solicitation&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teknisk marknadsförare</title>
+      <link>http://vidhance.com/career/position/technicalMarketingEngineer/</link>
+      <pubDate>Tue, 21 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://vidhance.com/career/position/technicalMarketingEngineer/</guid>
+      <description>
+
+&lt;p&gt;Denna roll är ny på Imint, och innebär att arbeta i den spännande gränszonen mellan teknik och marknad. Uppgifterna kan därför variera över tid, och även anpassas till speciell kompetens som en bra sökande kan bidra med. Vi tror att en bra kandidat har en utbildning som ingenjör eller inom naturvetenskap som grund, men intresse, viss erfarenhet, och fallenhet för marknadsföring och kommunikation.&lt;/p&gt;
+
+&lt;p&gt;Hos Imint finns inga tydliga avdelningar och hårt ritade gränser. Vår uppgift är att omsätta innovativa idéer och forskningsnära kunskap till riktiga funktioner i var mans hand, och på kort tid.  Exempel på arbetsuppgifter inom tjänsten:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Med hjälp av utvecklingsgruppen ta fram tekniskt marknadsföringsmaterial, till exempel i form av jämförande studier (benchmarks), tekniköversikter/white papers, videoexempel, produktblad, med mera.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Ansvar för tekniskt innehåll på hemsida&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Ansvar för design och struktur för introducerande produktdokumentation (till exempel &amp;ldquo;Getting Started Guides&amp;rdquo;)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Ansvar för att ta fram grafiska element, illustrationer och diagram.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Omvärlds-, kund- och konkurrentbevakning.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;kvalifikationer:139e55f2c1140f5c9bd9849a42dee99b&#34;&gt;Kvalifikationer:&lt;/h1&gt;
+
+&lt;h2 id=&#34;generella-meriter-ingenjör-hos-imint:139e55f2c1140f5c9bd9849a42dee99b&#34;&gt;Generella meriter - ingenjör hos Imint&lt;/h2&gt;
+
+&lt;p&gt;Förutom specifika krav på enskilda tjänster, så söker vi huvudsakligen de med följande meriter.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Geniunt intresse för mjukvaruutveckling, och med hög ambitionsnivå.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Prestigelös attityd, och öppen för att lära och lära ut.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Lagspelare som uppskattar att vara involverad i all vår verksamhet.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Kundinriktad, uppskattar att kommunicera med kunder och partners, och ibland resa utomlands.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Utbildningsnivå civilingenjör eller motsvarande.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Talar flytande och skriver god engelska. Funktionell nivå på svenska. Ytterligare språkkunskaper är meriterande, till exempel östasiatiska språk.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;specifika-meriter-för-tjänsten:139e55f2c1140f5c9bd9849a42dee99b&#34;&gt;Specifika meriter för tjänsten&lt;/h2&gt;
+
+&lt;p&gt;Vi söker en technical marketing engineer med:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1+ års arbetserfarenhet, gärna inom ett mjukvarubolag.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Grundläggande kunskap av programmering i  C, C# eller Java.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Kunskap inom eller stort intresse för marknadsföring av tekniska produkter&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Mycket bra kommunikativ förmåga, både i tal och skrift. Förmåga att i skrift presentera produkt och produktfördelar både tekniskt stringent och tilltalande för en icke-teknisk läsare.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;ytterligare-meriter:139e55f2c1140f5c9bd9849a42dee99b&#34;&gt;Ytterligare meriter&lt;/h2&gt;
+
+&lt;p&gt;I listan nedan anger vi några punkter där sökande kan hitta en &amp;ldquo;spets&amp;rdquo;, och rekommenderas att lyfta fram det i en ansökan. Punkterna utgör dock inte hårda krav.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Erfarenhet av produkter eller mjukvara inom fotografi, video eller kameror.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Erfarenhet av videoproduktion av marknadsföringsmaterial.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Erfarenhet av att bygga och underhålla informationsrika och tilltalande hemsidor.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Erfarenhet av mobiltelefonbranschen.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Kunskap i att självgående genomföra tekniska studier, och presentera resultat i text och bild.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Kunskaper inom kundkommunikation i allmämhet, ochgenom sociala medier och nya kanaler, i synnerhet.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Personligt intresse av fotografi/videografi, datorgrafik, optik/kamerateknik, eller liknande.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;om-imint:139e55f2c1140f5c9bd9849a42dee99b&#34;&gt;Om Imint&lt;/h1&gt;
+
+&lt;p&gt;Imint AB är ett mjukvarubolag med kontor i Uppsala. Från början fokuserade vi på att förbättra video från förarlösa flygplan, för att reducera sådant som stör mänsklig varseblivning, som till exempel vibrationer och dålig sikt. Idag har vi på Imint utvecklat vår unika och patenterade mjukvara vidare för konsumentelektroni i produktfamiljen Vidhance® Mobile och vår år ambition är att förbättra användarupplevelsen av videoinspelning för den enorma marknaden inom smarta telefoner. Nu expanderar vi kraftigt, för att möta ett mycket starkt intresse för vår teknik. Webtidningen TechCrunch skrev nyligen om Imint i den &lt;a href=&#34;http://techcrunch.com/2015/06/22/imints-vidhance-algorithms-could-soon-replace-live-video-producers/&#34;&gt;här artikeln&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&#34;att-jobba-hos-oss:139e55f2c1140f5c9bd9849a42dee99b&#34;&gt;Att jobba hos oss&lt;/h1&gt;
+
+&lt;p&gt;Vi är mjukvaruexperter och algoritmutvecklare. Vi bygger innovativ teknik inom videoförbättring och videoanalys för krävande tillämpningar och med hårda realtidskrav. Vi är ett mindre team men i snabb tillväxt, och vi behöver vara både mångkunniga och flexibla. Vi jobbar med korta cykler från idé vidare till koncept och leverans ut till kund, och är inspirerade av Lean Startup-rörelsen. Hur ser morgondagens användande av mobil video ut - och vilka behov kan vår produkt fylla?&lt;/p&gt;
+
+&lt;p&gt;Vi har en entreprenörskultur. Det innebär att de som är initiativrika och självgående problemlösare trivs bäst hos oss. Vi uppskattar ärlighet och ansvarstagande, och förmågan att både vara kreativ och kunna planera och genomföra. Det skall vara både krävande och roligt att jobba hos oss, och våra internationella kunder och partner har höga förväntningar. Det är viktigare med vad du tillför i idéer och handlingar, än din bakgrund och dina formella meriter. För att kunna leverera bra resultat krävs balans i livet. Tid måste finnas för annat än jobb för att kreativitet och passion skall få uthålligt utrymme. Vi har en kultur av ömsesidighet, där vi ger bra förutsättningar att få ihop både arbets- och familjeliv. Vi uppskattar olikheter; i bakgrund, erfarenheter och åsikter.&lt;/p&gt;
+
+&lt;h1 id=&#34;villkor:139e55f2c1140f5c9bd9849a42dee99b&#34;&gt;Villkor:&lt;/h1&gt;
+
+&lt;p&gt;Imint erbjuder rätt sökande en marknadsmässig lön, med kollektivavtalshärmande villkor. Vi tillämpar flexibel arbetstid inom ramen för kärntid.Den här tjänsten påbörjas som en provanställning enligt lagen om anställningsskydd.&lt;/p&gt;
+
+&lt;h1 id=&#34;processen:139e55f2c1140f5c9bd9849a42dee99b&#34;&gt;Processen:&lt;/h1&gt;
+
+&lt;p&gt;I den tillväxtfas som Imint är inne i, sker rekrytering löpande. Vi uppmanar dock att söka tjänsten senast den 30 augusti 2015. Till den här tjänsten kan vi komma att be om enklare arbetsprover och referensarbeten.&lt;/p&gt;
+
+&lt;p&gt;Vi ber i första hand kandidater att använda vårt &lt;a href=&#34;http://vidhance.com/career/apply/&#34;&gt;webformulär&lt;/a&gt; vid ansökningar. Vi ber också att frågor om tjänsten eller rekryteringsprocessen i första hand ställs per email till &lt;a href=&#34;mailto:careers@imint.se&#34;&gt;careers@imint.se&lt;/a&gt;, eftersom rekryterande chefer ofta är på resande fot i andra tidszoner.&lt;/p&gt;
+
+&lt;h1 id=&#34;viktig-info-till-rekryteringsfirmor-important-note-to-firms:139e55f2c1140f5c9bd9849a42dee99b&#34;&gt;Viktig info till rekryteringsfirmor : Important note to firms:&lt;/h1&gt;
+
+&lt;p&gt;Vi önskar ej bli kontaktade av rekryterings- eller outplacementföretag, utan enbart av ansökande individer. &lt;em&gt;Note: No firm solicitation&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Examensarbete inom schedulering med OpenGL</title>
+      <link>http://vidhance.com/career/position/masterThesisGraphScheduling/</link>
+      <pubDate>Tue, 21 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://vidhance.com/career/position/masterThesisGraphScheduling/</guid>
+      <description>
+
+&lt;p&gt;Vi letar efter examensstudenter inom mjukvaruutveckling med tidigare erfarenhet av programmering och gärna inom parallellism och bildanalys. Vi uppskattar flexibla, självdrivna och mångkunniga studenter med bra social och kommunikativ förmåga som trivs i ett företag med entreprenörskultur.&lt;/p&gt;
+
+&lt;h1 id=&#34;projektbeskrivning:5388dfca2dd314966cd29532a3de37cb&#34;&gt;Projektbeskrivning&lt;/h1&gt;
+
+&lt;p&gt;På Imint utvecklar vi mjukvara för att analysera, optimera och förbättra video i realtid. Följande modell visar ett exempel på de många delar som spelar in:&lt;/p&gt;
+
+&lt;p&gt;&lt;figure class=&#34;boxedimg fullwidth&#34;&gt;
+	&lt;img src=&#34;http://vidhance.com/career/position/masterThesisGraphScheduling/stack.png&#34;/&gt;
+	
+		&lt;figcaption&gt;Exempel på videosekvens med varierande kvalitet&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Energiförbrukningen är som regel proportionell mot kvadraten på klockfrekvensen, vilket gör det attraktivt att dela upp ett stort arbete på flera kärnor. Samtidigt ligger en beräkningskostnad i att planera/schedulera jobben i en parallell arkitektur samt att skapa och synkronisera trådar. Detta gör att hastigheten kan bli lidande. För olika scenarion, exempelvis privat videoinspelning eller liveströmning, förordas olika avvägningar mellan dessa två alternativ.&lt;/p&gt;
+
+&lt;p&gt;De beräkningar som utförs här sker med egenutvecklade algoritmer och med OpenGL (eller OpenGL ES för smartphones). Vi är intresserade av att undersöka flera olika modeller för att schedulera jobb för att med hjälp av parallellism effektivisera arbetet i ovanstående graf beroende på fokus mellan energiförbrukning kontra hastighet. Vi är också intresserade av att hitta enkla lösningar att implementera dessa lösningar i våra existerande system.&lt;/p&gt;
+
+&lt;h1 id=&#34;arbetsbeskrivning:5388dfca2dd314966cd29532a3de37cb&#34;&gt;Arbetsbeskrivning:&lt;/h1&gt;
+
+&lt;p&gt;Examensarbetet ska inledningsvis bygga upp en simplifierad version av det ovanstående komplexa problemet inom videostabilisering. Därefter ska projektet innefatta att testa, utvärdera och dokumentera resultat för olika scheduleringsmetoder. Detta sker i nära samarbete med våra ingenjörer och utvecklare.&lt;/p&gt;
+
+&lt;p&gt;Projektet ska avslutas med en rapport som dokumenterar modeller, resultat, utvärderingar samt idéer inför framtida utveckling.&lt;/p&gt;
+
+&lt;h1 id=&#34;kvalifikationer:5388dfca2dd314966cd29532a3de37cb&#34;&gt;Kvalifikationer:&lt;/h1&gt;
+
+&lt;p&gt;Vi förväntar oss att du som söker har:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Erfarenhet inom C samt Java eller C#&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Grundläggande kunskap om OpenGL eller DirectX och videobearbetning&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Erfarenhet och intresse av parallellprogrammering&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Flytande kunskaper i engelska och svenska&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Några områden av generellt intresse för Imint är:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Erfarenhet inom algoritmutveckling och signalbehandling&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;God kunskap inom datorarkitektur&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;villkor:5388dfca2dd314966cd29532a3de37cb&#34;&gt;Villkor:&lt;/h1&gt;
+
+&lt;p&gt;Examensarbetet ska utföras i Imints lokaler under normal arbetstid.&lt;/p&gt;
+
+&lt;p&gt;Examensstudenterna kommer att skriva på ett avtal med Imint som innefattar sekretess och immaterialrätt. Det kan också komma att innefatta en fortsatt anställning hos Imint när examensarbetet är avslutat.&lt;/p&gt;
+
+&lt;p&gt;Examensarbetet ger ingen ersättning under tiden det utförs men ett planenligt slutfört examensarbete ger en bonus på 25 000 Kr (brutto).&lt;/p&gt;
+
+&lt;h1 id=&#34;processen:5388dfca2dd314966cd29532a3de37cb&#34;&gt;Processen:&lt;/h1&gt;
+
+&lt;p&gt;Examenarbetet förväntas vara avslutat våren 2016. Intresserade kandidater kan ansöka via vårt &lt;a href=&#34;http://vidhance.com/career/apply/&#34;&gt;webformulär&lt;/a&gt;. Frågor om tjänsten eller rekryteringsprocessen bör i första hand ställas per email till &lt;a href=&#34;mailto:careers@imint.se&#34;&gt;careers@imint.se&lt;/a&gt;, eftersom rekryterande chefer ofta är på resande fot i andra tidszoner.&lt;/p&gt;
+
+&lt;p&gt;Vi ser fram emot din ansökan!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Examensarbete inom videomjukvara och -redigeringsalgoritmer (20v)</title>
+      <link>http://vidhance.com/career/position/masterThesisVideoSW/</link>
+      <pubDate>Tue, 21 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://vidhance.com/career/position/masterThesisVideoSW/</guid>
+      <description>
+
+&lt;p&gt;Vi letar efter exjobbare inom mjukvaruutveckling med tidigare erfarenhet av programmering och gärna inom bildanalys och algoritmer. Vi uppskattar flexibla, självdrivna och mångkunniga studenter med bra social och kommunikativ förmåga som trivs i ett företag med entreprenörskultur.&lt;/p&gt;
+
+&lt;h1 id=&#34;projektbeskrivning:81f4796ba250547663661865452e5ae0&#34;&gt;Projektbeskrivning&lt;/h1&gt;
+
+&lt;p&gt;Smartphones används mer än någonsin till att fotografera och spela in video. Men samtidigt som kvaliteten på stillbilder ökar så händer det inte mycket med förbättring av kvaliteten för video. Telefonens kamera är dock ett bra mätverktyg och med en inspelad video som data kan man utläsa rörelsemönster i kameran och använda dem för att räkna ut användarens syfte med videoklippet.&lt;/p&gt;
+
+&lt;p&gt;&lt;figure class=&#34;boxedimg fullwidth&#34;&gt;
+	&lt;img src=&#34;http://vidhance.com/career/position/masterThesisVideoSW/autocut.png&#34;/&gt;
+	
+		&lt;figcaption&gt;Exempel på videosekvens med varierande kvalitet&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Bilden ovan illustrerar hur upplevelsen av en video blir sämre när delar av videon är av dålig kvalitet. Vi siktar på att validera en video helt automatiskt, dela upp den i meningsfulla scener och föreslå en uppdelning av videon där delar med låg kvalitet slängs bort.&lt;/p&gt;
+
+&lt;p&gt;Detta examensarbete kommer att ta vår nuvarande forskning vidare genom att använda data om rörelsemönster och ta fram heuristiska metoder för att automatiskt föreslå segmentering av ett inspelat videoklipp ett kort ögonblick efter att inspelningen är avslutad.&lt;/p&gt;
+
+&lt;h1 id=&#34;arbetsbeskrivning:81f4796ba250547663661865452e5ae0&#34;&gt;Arbetsbeskrivning:&lt;/h1&gt;
+
+&lt;p&gt;Examensarbetet ska bygga på Imints nuvarande tekniker för beräkning av rörelse och pågående forskning som handlar om kartläggning av mätvärden för rörelsemönster. Projektet ska resultera i en algoritmisk modell för automatisk segmentering av videoklipp från en handhållen kamera i rörelse. En förundersökning av aktuell forskning inom problemdomänen bör göras.&lt;/p&gt;
+
+&lt;p&gt;Arbetet ska också innefatta att bygga upp en databas av autentiska videoklipp från smartphone-användare. Databasen ska användas för att analysera vilka parametrar från metadatan som passar bäst för en implementation av en algoritm. Vi tror också att professionell video ska studeras med samma modell för att identifiera tumregler för filmproduktion.&lt;/p&gt;
+
+&lt;p&gt;Projektet ska avslutas med en implementation av en prototyp som tar en videofil som inparameter och föreslår tidpunkter för klippning av videon som utparameter.&lt;/p&gt;
+
+&lt;h1 id=&#34;kvalifikationer:81f4796ba250547663661865452e5ae0&#34;&gt;Kvalifikationer:&lt;/h1&gt;
+
+&lt;p&gt;Vi förväntar oss att du som söker har:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Erfarenhet av C#, Java eller C&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;God förståelse av signalbehandling och den underliggande matematiken&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Erfarenhet av modelleringsmetoder för algoritmer&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Några områden av generellt intresse för Imint är:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Grundläggande kunskap om OpenGL eller DirectX och videobearbetning&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Gärna erfarenhet inom apputveckling för mobiltelefoner eller utveckling av användargränssnitt&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;villkor:81f4796ba250547663661865452e5ae0&#34;&gt;Villkor:&lt;/h1&gt;
+
+&lt;p&gt;Examensarbetet ska utföras i Imints lokaler under normal arbetstid.&lt;/p&gt;
+
+&lt;p&gt;Exjobbare kommer att skriva på ett avtal med Imint som innefattar sekretess och immaterialrätt. Avtalet avser också en fortsatt anställning hos Imint när examensarbetet är avslutat.&lt;/p&gt;
+
+&lt;p&gt;Examensarbetet ger ingen ersättning under tiden det utförs men ett lyckat och slutfört examensarbete ger en bonus på 25 000 Kr (brutto).&lt;/p&gt;
+
+&lt;h1 id=&#34;processen:81f4796ba250547663661865452e5ae0&#34;&gt;Processen:&lt;/h1&gt;
+
+&lt;p&gt;Vi förväntar oss att examenarbetet ska vara avslutat våren 2016.&lt;/p&gt;
+
+&lt;p&gt;Vi ber i första hand kandidater att använda vårt &lt;a href=&#34;http://vidhance.com/career/apply/&#34;&gt;webformulär&lt;/a&gt; vid ansökningar. Vi ber också att frågor om tjänsten eller rekryteringsprocessen i första hand ställs per email till &lt;a href=&#34;mailto:careers@imint.se&#34;&gt;careers@imint.se&lt;/a&gt;, eftersom rekryterande chefer ofta är på resande fot i andra tidszoner.&lt;/p&gt;
+
+&lt;p&gt;Vi ser fram emot din ansökan!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

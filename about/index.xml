@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Vidhance</title>
+    <link>http://vidhance.com/about/</link>
+    <description>Recent content in Abouts on Vidhance</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://vidhance.com/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://vidhance.com/about/about/</link>
+      <pubDate>Tue, 21 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://vidhance.com/about/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;from-eyes-in-the-sky:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;From Eyes in the Sky&lt;/h1&gt;
+
+&lt;p&gt;Imint was founded in 2007, based on research at Uppsala University, Center for Image Analysis. Initially, the company focused on enhancing live aerial surveillance video streams by removing obstacles for human perception;caused by disturbances, such as uncontrollable movements, vibration and turbulence, and caused by low contrast visibility, caused by fog, mist and rain. The resulting core software package is Vidhance®.&lt;/p&gt;
+
+&lt;p&gt;In 2009, Imint introduced the rapid video analysis tool Ihvert® to increase ISR capabilities in unmanned aerial systems (UAS). Since then, the aerial reconnaissance market has continued to be an important arena for Imint.&lt;/p&gt;
+
+&lt;p&gt;Today, Imint is serving a broader range of customers in a variety of fields, with new products. Focus has remained on Vidhance, which is constantly improved and expanded in functionality.&lt;/p&gt;
+
+&lt;p&gt;Whenever time critical decisions are made, based on video sources, Imint has the software technology fit for the purpose.&lt;/p&gt;
+
+&lt;h1 id=&#34;contact-info-contact:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;&lt;a href=&#34;http://vidhance.com/info/contact&#34;&gt;Contact&lt;/a&gt;&lt;/h1&gt;
+
+&lt;h3 id=&#34;address:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Address&lt;/h3&gt;
+
+&lt;p&gt;Imint AB&lt;br /&gt;
+S:t Larsgatan 5&lt;br /&gt;
+753 11 Uppsala&lt;br /&gt;
+Sweden&lt;/p&gt;
+
+&lt;h3 id=&#34;phone:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Phone&lt;/h3&gt;
+
+&lt;p&gt;+46 18 4749990&lt;/p&gt;
+
+&lt;h3 id=&#34;e-mail:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;E-Mail&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:info@imint.se&#34;&gt;info@imint.se&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://vidhance.com/about/contact/</link>
+      <pubDate>Tue, 21 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://vidhance.com/about/contact/</guid>
+      <description>&lt;p&gt;The easiest way to contact us is to fill out the form below.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
