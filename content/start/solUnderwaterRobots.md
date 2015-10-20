@@ -2,7 +2,7 @@
 title: ""
 date: 2015-07-28
 weight: 80
-image: "uwROV.png"
+image: "uwROV.jpg"
 ---
 
 # Underwater and Sub-Surface Video
