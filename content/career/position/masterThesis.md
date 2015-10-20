@@ -27,7 +27,7 @@ Beroende på den sökandes erfarenhet och intresse så kan relevanta ämnen disk
 # Villkor:
 Examensarbetet ska utföras i Imints lokaler under normal arbetstid.
 
-Examensstudenterna kommer att skriva på ett avtal med Imint som innefattar sekretess och immaterialrätt. Det kommer också innefatta en fortsatt anställning hos Imint när examensarbetet är avslutat.
+Examensstudenterna kommer att skriva på ett avtal med Imint som innefattar sekretess och immaterialrätt. Det kan också komma att innefatta en fortsatt anställning hos Imint när examensarbetet är avslutat.
 
 Examensarbetet ger ingen ersättning under tiden det utförs men ett lyckat och slutfört examensarbete ger en bonus på 25 000 Kr (brutto).
 
