@@ -11,7 +11,7 @@ menu:
     parent: "Careers"
     weight: 60
 ---
-Vi letar efter examensstudenter inom mjukvaruutveckling med tidigare erfarenhet av programmering och gärna inom bildanalys och algoritmer. Vi uppskattar flexibla, självdrivna och mångkunniga studenter med bra social och kommunikativ förmåga som trivs i ett företag med entreprenörskultur.<!--more-->
+Vi letar efter sistaårsstudenter inom mjukvaruutveckling med tidigare erfarenhet av programmering och gärna inom bildanalys och algoritmer. Vi uppskattar flexibla, självdrivna och mångkunniga studenter med bra social och kommunikativ förmåga som trivs i ett företag med entreprenörskultur.<!--more-->
 
 # Arbetsbeskrivning:
 Beroende på den sökandes erfarenhet och intresse så kan relevanta ämnen diskuteras.

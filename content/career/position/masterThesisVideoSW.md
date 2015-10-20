@@ -10,7 +10,7 @@ menu:
     parent: "Careers"
     weight: 70
 ---
-Vi letar efter exjobbare inom mjukvaruutveckling med tidigare erfarenhet av programmering och gärna inom bildanalys och algoritmer. Vi uppskattar flexibla, självdrivna och mångkunniga studenter med bra social och kommunikativ förmåga som trivs i ett företag med entreprenörskultur.<!--more-->
+Vi letar efter sistaårsstudenter inom mjukvaruutveckling med tidigare erfarenhet av programmering och gärna inom bildanalys och algoritmer. Vi uppskattar flexibla, självdrivna och mångkunniga studenter med bra social och kommunikativ förmåga som trivs i ett företag med entreprenörskultur.<!--more-->
 
 # Projektbeskrivning
 Smartphones används mer än någonsin till att fotografera och spela in video. Men samtidigt som kvaliteten på stillbilder ökar så händer det inte mycket med förbättring av kvaliteten för video. Telefonens kamera är dock ett bra mätverktyg och med en inspelad video som data kan man utläsa rörelsemönster i kameran och använda dem för att räkna ut användarens syfte med videoklippet.

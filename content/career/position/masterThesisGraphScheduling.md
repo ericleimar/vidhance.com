@@ -11,7 +11,7 @@ menu:
     parent: "Careers"
     weight: 0
 ---
-Vi letar efter examensstudenter inom mjukvaruutveckling med tidigare erfarenhet av programmering och gärna inom parallellism och bildanalys. Vi uppskattar flexibla, självdrivna och mångkunniga studenter med bra social och kommunikativ förmåga som trivs i ett företag med entreprenörskultur.
+Vi letar efter sistaårsstudenter inom mjukvaruutveckling med tidigare erfarenhet av programmering och gärna inom parallellism och bildanalys. Vi uppskattar flexibla, självdrivna och mångkunniga studenter med bra social och kommunikativ förmåga som trivs i ett företag med entreprenörskultur.
 <!--more-->
 
 # Projektbeskrivning
