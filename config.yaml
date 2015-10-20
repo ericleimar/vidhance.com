@@ -4,6 +4,7 @@ title: "Vidhance"
 blackfriday:
   extensions:
     - hardLineBreak
+theme: hugo-vidhance-theme
 MetaDataFormat: "yaml"
 menu:
   main:
