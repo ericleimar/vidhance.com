@@ -9,7 +9,7 @@ name = "Apps and Social Media"
 +++
 Today a huge number of apps and social media allow the user to save, process and share photos and video, but only a few can provide the user with automated suggestions on how to improve that content.
 
-At the same time, consumers wish to be able to save, process, share their experiences in the form of photos and videos with the world. Preferably, this is done as efficiently and quickly as possible.
+At the same time, consumers wish to be able to both edit and share their experiences in the form of photos and videos with the world. Preferably, this is done as efficiently and quickly as possible.
 
 Vidhance® offers stabilized video with professional quality in real time, and can also provide the user with automated suggestions on how to enhance the recorded material.
 
