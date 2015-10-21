@@ -10,7 +10,7 @@ menu:
     parent: "Careers"
     weight: 70
 ---
-Vi letar efter exjobbare inom mjukvaruutveckling med tidigare erfarenhet av programmering och gärna inom bildanalys och algoritmer. Vi uppskattar flexibla, självdrivna och mångkunniga studenter med bra social och kommunikativ förmåga som trivs i ett företag med entreprenörskultur.<!--more-->
+Vi letar efter sistaårsstudenter inom mjukvaruutveckling med tidigare erfarenhet av programmering och gärna inom bildanalys och algoritmer. Vi uppskattar flexibla, självdrivna och mångkunniga studenter med bra social och kommunikativ förmåga som trivs i ett företag med entreprenörskultur.<!--more-->
 
 # Projektbeskrivning
 Smartphones används mer än någonsin till att fotografera och spela in video. Men samtidigt som kvaliteten på stillbilder ökar så händer det inte mycket med förbättring av kvaliteten för video. Telefonens kamera är dock ett bra mätverktyg och med en inspelad video som data kan man utläsa rörelsemönster i kameran och använda dem för att räkna ut användarens syfte med videoklippet.
@@ -43,7 +43,7 @@ Några områden av generellt intresse för Imint är:
 # Villkor:
 Examensarbetet ska utföras i Imints lokaler under normal arbetstid.
 
-Exjobbare kommer att skriva på ett avtal med Imint som innefattar sekretess och immaterialrätt. Avtalet avser också en fortsatt anställning hos Imint när examensarbetet är avslutat.
+Exjobbare kommer att skriva på ett avtal med Imint som innefattar sekretess och immaterialrätt. Projektet kan också komma att leda till en fortsatt anställning hos Imint när examensarbetet är avslutat.
 
 Examensarbetet ger ingen ersättning under tiden det utförs men ett lyckat och slutfört examensarbete ger en bonus på 25 000 Kr (brutto).
 

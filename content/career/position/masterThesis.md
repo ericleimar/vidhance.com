@@ -11,7 +11,7 @@ menu:
     parent: "Careers"
     weight: 60
 ---
-Vi letar efter examensstudenter inom mjukvaruutveckling med tidigare erfarenhet av programmering och gärna inom bildanalys och algoritmer. Vi uppskattar flexibla, självdrivna och mångkunniga studenter med bra social och kommunikativ förmåga som trivs i ett företag med entreprenörskultur.<!--more-->
+Vi letar efter sistaårsstudenter inom mjukvaruutveckling med tidigare erfarenhet av programmering och gärna inom bildanalys och algoritmer. Vi uppskattar flexibla, självdrivna och mångkunniga studenter med bra social och kommunikativ förmåga som trivs i ett företag med entreprenörskultur.<!--more-->
 
 # Arbetsbeskrivning:
 Beroende på den sökandes erfarenhet och intresse så kan relevanta ämnen diskuteras.
@@ -27,12 +27,12 @@ Beroende på den sökandes erfarenhet och intresse så kan relevanta ämnen disk
 # Villkor:
 Examensarbetet ska utföras i Imints lokaler under normal arbetstid.
 
-Examensstudenterna kommer att skriva på ett avtal med Imint som innefattar sekretess och immaterialrätt. Det kommer också innefatta en fortsatt anställning hos Imint när examensarbetet är avslutat.
+Exjobbare kommer att skriva på ett avtal med Imint som innefattar sekretess och immaterialrätt. Det kan också komma att innefatta en fortsatt anställning hos Imint när examensarbetet är avslutat.
 
 Examensarbetet ger ingen ersättning under tiden det utförs men ett lyckat och slutfört examensarbete ger en bonus på 25 000 Kr (brutto).
 
 # Processen:
-Vi förväntar oss att examenarbetet ska vara avslutat våren 2016
+Vi förväntar oss att examenarbetet ska vara avslutat våren 2016.
 
 Vi ber i första hand kandidater att använda vårt [webformulär](/career/apply/) vid ansökningar. Vi ber också att frågor om tjänsten eller rekryteringsprocessen i första hand ställs per email till [careers@imint.se](mailto:careers@imint.se), eftersom rekryterande chefer ofta är på resande fot i andra tidszoner.
 
