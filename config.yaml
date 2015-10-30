@@ -10,3 +10,6 @@ menu:
     - name: "News"
       weight: 15
       URL: "/newspost/"
+    - name: "Solutions"
+      weight: 20
+      URL: "/solutions/"
