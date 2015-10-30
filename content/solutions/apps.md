@@ -15,4 +15,4 @@ Vidhance® offers stabilized video with professional quality in real time, and c
 
 This is of use not just in live streams from different events, but for example also in marketing at auction sites and e-commerce companies, or for sharing video material on social media.
 
-[Read more about Vidhance Mobile] (http://vidhancemobile.com)
+Read even more about Vidhance Mobile at [vidhancemobile.com](http://vidhancemobile.com).
