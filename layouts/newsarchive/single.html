@@ -2,14 +2,14 @@
 <html lang="{{ .Site.LanguageCode }}">
 <head>{{ partial "head.html" . }}</head>
 <body id="inner-wrap">
-	<header id="top">{{ partial "header.html" . }}</header>
-	<nav id="nav">
+	{{ partial "header.html" . }}
+	<nav id="head-nav" class="no-animation">
 		<div class="block">
 			{{ partial "menu.html" .Site.Menus.main }}
 			<a id="nav-close-btn" class="close-btn" href="#top">Return to Content</a>
 		</div>
 	</nav>
-	<main><section><article>
+	<main class="no-animation"><section><article>
 		<main>
 			<ul class="news-archive">
 			{{ range .Site.Sections.newspost.Pages.ByDate.Reverse }}
@@ -21,7 +21,7 @@
 			</ul>
 		</main>
 	</article></section></main>
-	<footer>{{ partial "footer.html" . }}</footer>
+	{{ partial "footer.html" . }}
 	{{ partial "foot.html" . }}
 </body>
 </html>
