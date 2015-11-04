@@ -6,17 +6,15 @@
 	{{ partial "navigation.html" . }}
 	<main class="no-animation">
 		<section>
-			{{ range .Site.Sections.start.Pages.ByWeight }}
-				{{ if .Params.latestnews }}
-					<article class="latestnews">
-						{{ range first 2 .Site.Sections.newspost.Pages.ByDate.Reverse }}
-							{{ .Render "summary" }}
-						{{ end }}
-					</article>
-				{{ else }}
-					{{ partial "article.html" . }}
+			<article class="">
+				<header><h1>{{ .Title }}</h1></header>
+				{{ if isset .Params "image" }}
+					<figure style="float:right;margin:1em;max-width:50%;">
+						<img src="{{ .RelPermalink }}{{ .Params.image }}">
+					</figure>
 				{{ end }}
-			{{ end }}
+				<main>{{ .Content }}</main>
+			</article>
 		</section>
 	</main>
 	{{ partial "footer.html" . }}
