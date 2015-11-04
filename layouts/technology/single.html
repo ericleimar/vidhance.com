@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>{{ partial "head.html" . }}</head>
+<body id="inner-wrap">
+	{{ partial "header.html" . }}
+	{{ partial "navigation.html" . }}
+	<main class="no-animation">
+		<section>
+			<article class="">
+				<header><h1>{{ .Title }}</h1></header>
+				{{ if isset .Params "image" }}
+					<figure style="float:right;margin:1em;max-width:50%;">
+						<img src="{{ .RelPermalink }}{{ .Params.image }}">
+					</figure>
+				{{ end }}
+				<main>{{ .Content }}</main>
+			</article>
+		</section>
+	</main>
+	{{ partial "footer.html" . }}
+	{{ partial "foot.html" . }}
+</body>
+</html>
