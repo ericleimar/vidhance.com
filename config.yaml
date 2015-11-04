@@ -14,3 +14,6 @@ menu:
     - name: "Solutions"
       weight: 20
       URL: "/solutions/"
+    - name: "Technology"
+      weight: 50
+      URL: "/technology/"
