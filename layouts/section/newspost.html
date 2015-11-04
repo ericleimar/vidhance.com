@@ -3,19 +3,16 @@
 <head>{{ partial "head.html" . }}</head>
 <body id="inner-wrap">
 	{{ partial "header.html" . }}
-	<nav id="head-nav" class="no-animation">
-		<div class="block">
-			{{ partial "menu.html" .Site.Menus.main }}
-			<a id="nav-close-btn" class="close-btn" href="#top">Return to Content</a>
-		</div>
-	</nav>
+	{{ partial "navigation.html" . }}
 	<main class="no-animation">
 		<section>
-			{{ range first 5 .Data.Pages.ByDate.Reverse }}
+			{{ $paginator := .Paginate (.Data.Pages.ByDate.Reverse) 5}}
+			{{ partial "pagination.html" $paginator }}
+			{{ range $index, $page := .Paginator.Pages }}
 				{{ .Render "summary" }}
 			{{ end }}
+			{{ partial "pagination.html" $paginator }}
 		</section>
-		<center style="margin-bottom:1em;"><a style="font-weight:bold;"href="/newsarchive/archive">News archive</a><center>
 	</main>
 	{{ partial "footer.html" . }}
 	{{ partial "foot.html" . }}
