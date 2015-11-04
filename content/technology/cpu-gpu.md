@@ -9,8 +9,6 @@ menu:
     parent: "Technology"
     weight: 0
 ---
-
-# Transferring data between CPU and GPU
 In all real-time video analysis, especially in Vidhance, all operations are time critical. Video frames arrive at a steady rate and need to be processed in real time before the next frame arrives. Every millisecond counts.
 
 Complex real-time video enhancement algorithms require work to be done on both the CPU (Central Processing Unit) and the GPU (Graphics Processing Unit) to achieve the highest performance. This is due to the fact that these algorithms depend on both sequential and parallel operations. A CPU handles the former better than a GPU, and vice versa. As these have separate memory, data must be transferred back and forth between them.

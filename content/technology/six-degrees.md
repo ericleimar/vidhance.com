@@ -9,8 +9,6 @@ menu:
     parent: "Technology"
     weight: 0
 ---
-
-# Six degrees of freedom
 Our world consists of three dimensions - breadth, width, and height - and the word **freedom** refers to free movement in these three dimensions. In mathematics and engineering, we usually denote these three dimensions by *x*, *y*, and *z*.
 
 By the word **move**, we mean both changing location by moving along an axis through space - known as translation, but also rotating about an axis while still remaining at the same coordinates. Consider how you would say you are *moving* when you are turning around, even though you're standing on the same spot. A smartphone and its camera has six degrees of freedom. Moving forward/backward, up/down, or left/right is called translation. Rotation around an axis is often termed pitch, yaw, and roll, depending on the axis of rotation.

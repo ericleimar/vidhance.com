@@ -9,8 +9,6 @@ menu:
     parent: "Technology"
     weight: 0
 ---
-# Compression
-
 We generally say that a video is a series of images, around 30 or so for each second of video. Each image is called a **frame**. This means that storing or transmitting a video file really involves storing or transmitting a potentially very large set of images. Naturally, we want to minimize the time and cost of this action, which is why we *compress* videos.
 
 Images can themselves be compressed, for example storing them in like JPEG and PNG. However, video compression usually works by computing and compressing **deltas** between frames, the difference between one frame and the next, rather than storing each individual frame as a compressed image. If a frame is more similar to the previous one, less data is required in order to describe the delta. As a digital image consists of pixels, the delta is an accumulation of differences in corresponding pixels.
