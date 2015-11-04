@@ -6,11 +6,13 @@
 	{{ partial "navigation.html" . }}
 	<main class="no-animation">
 		<section>
-			{{ range first 5 .Data.Pages.ByDate.Reverse }}
+			{{ $paginator := .Paginate (.Data.Pages.ByDate.Reverse) 5}}
+			{{ partial "pagination.html" $paginator }}
+			{{ range $index, $page := .Paginator.Pages }}
 				{{ .Render "summary" }}
 			{{ end }}
+			{{ partial "pagination.html" $paginator }}
 		</section>
-		<center style="margin-bottom:1em;"><a style="font-weight:bold;"href="/newsarchive/archive">News archive</a><center>
 	</main>
 	{{ partial "footer.html" . }}
 	{{ partial "foot.html" . }}
