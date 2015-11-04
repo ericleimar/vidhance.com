@@ -11,7 +11,7 @@ menu:
 ---
 In all real-time video analysis, especially in Vidhance, all operations are time critical. Video frames arrive at a steady rate and need to be processed in real time before the next frame arrives. Every millisecond counts.
 
-Complex real-time video enhancement algorithms require work to be done on both the CPU (Central Processing Unit) and the GPU (Graphics Processing Unit) to achieve the highest performance. This is due to the fact that these algorithms depend on both sequential and parallel operations. A CPU handles the former better than a GPU, and vice versa. As these have separate memory, data must be transferred back and forth between them.
+Complex real-time video enhancement algorithms require work to be done on both the CPU (Central Processing Unit) and the GPU (Graphics Processing Unit) to achieve the highest performance. This is due to the fact that these algorithms depend on both sequential and parallel operations. <!--more-->A CPU handles the former better than a GPU, and vice versa. As these have separate memory, data must be transferred back and forth between them.
 
 Transfer time involves two concepts: latency and throughput. The throughput is the the rate at which the data is transferred during the actual data transfer. Latency is the time it takes for the whole transfer to occur, including time for initialization and waiting. The latency of the transfer becomes important when working with real-time analysis. Although the data throughput may be high, there can be a high latency which increases the overall transfer time. Transfer speed and latency are therefore very important.
 
