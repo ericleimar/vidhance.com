@@ -11,17 +11,9 @@
 	</nav>
 	<main class="no-animation">
 		<section>
-			<article class="news-post">
-				<header>
-					<h1>{{ .Title }}</h1>
-					<div>
-						<h5 class="float-left">{{ .Params.location }}</h5>
-						<h5 class="float-right">{{ .Date.Format "Monday, January 2, 2006" }}</h5>
-					</div>
-				</header>
-				<main class="clear">{{ .Content}}</main>
-				<footer>{{ with .Params.backgroundcopyright }}<p>{{ . }}</p>{{ end }}</footer>
-			</article>
+			{{ range .Data.Pages.ByWeight }}
+				{{ .Render "summary" }}
+			{{ end }}
 		</section>
 	</main>
 	{{ partial "footer.html" . }}

@@ -11,7 +11,7 @@ menu:
     parent: "Careers"
     weight: 0
 ---
-Vi letar efter examensstudenter inom mjukvaruutveckling med tidigare erfarenhet av programmering och gärna inom parallellism och bildanalys. Vi uppskattar flexibla, självdrivna och mångkunniga studenter med bra social och kommunikativ förmåga som trivs i ett företag med entreprenörskultur.
+Vi letar efter sistaårsstudenter inom mjukvaruutveckling med tidigare erfarenhet av programmering och gärna inom parallellism och bildanalys. Vi uppskattar flexibla, självdrivna och mångkunniga studenter med bra social och kommunikativ förmåga som trivs i ett företag med entreprenörskultur.
 <!--more-->
 
 # Projektbeskrivning
@@ -45,7 +45,7 @@ Några områden av generellt intresse för Imint är:
 # Villkor:
 Examensarbetet ska utföras i Imints lokaler under normal arbetstid.
 
-Examensstudenterna kommer att skriva på ett avtal med Imint som innefattar sekretess och immaterialrätt. Det kan också komma att innefatta en fortsatt anställning hos Imint när examensarbetet är avslutat.
+Exjobbare kommer att skriva på ett avtal med Imint som innefattar sekretess och immaterialrätt. Det kan också komma att innefatta en fortsatt anställning hos Imint när examensarbetet är avslutat.
 
 Examensarbetet ger ingen ersättning under tiden det utförs men ett planenligt slutfört examensarbete ger en bonus på 25 000 Kr (brutto).
 

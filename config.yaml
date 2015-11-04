@@ -4,9 +4,13 @@ title: "Vidhance"
 blackfriday:
   extensions:
     - hardLineBreak
+theme: hugo-vidhance-theme
 MetaDataFormat: "yaml"
 menu:
   main:
     - name: "News"
       weight: 15
       URL: "/newspost/"
+    - name: "Solutions"
+      weight: 20
+      URL: "/solutions/"
