@@ -1,7 +1,7 @@
 ---
 title: "Compression"
 date: 2015-11-03
-weight: 10
+weight: 1
 image: "compression.png"
 menu:
   main:

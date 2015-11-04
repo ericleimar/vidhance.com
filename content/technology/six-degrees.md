@@ -1,7 +1,7 @@
 ---
 title: "Six Degrees of Freedom"
 date: 2015-11-03
-weight: 10
+weight: 1
 image: "degrees.png"
 menu:
   main:

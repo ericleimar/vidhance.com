@@ -1,7 +1,8 @@
 ---
 title: "Transferring data between CPU and GPU"
 date: 2015-11-03
-weight: 10
+weight: 1
+image: "circuitboard.jpg"
 menu:
   main:
     name: "CPU-GPU Data Transfer"
