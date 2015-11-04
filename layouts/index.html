@@ -3,12 +3,7 @@
 <head>{{ partial "head.html" . }}</head>
 <body id="inner-wrap">
 	{{ partial "header.html" . }}
-	<nav id="head-nav" class="no-animation">
-		<div class="block">
-			{{ partial "menu.html" .Site.Menus.main }}
-			<a id="nav-close-btn" class="close-btn" href="#top">Return to Content</a>
-		</div>
-	</nav>
+	{{ partial "navigation.html" . }}
 	<main class="no-animation">
 		<section>
 			{{ range .Site.Sections.start.Pages.ByWeight }}
