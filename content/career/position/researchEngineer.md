@@ -7,7 +7,7 @@ location: "Uppsala, Sverige"
 menu:
   main:
     name: "Forskningsingenjör"
-    parent: "Careers"
+    parent: "Career"
     weight: 40
 ---
 Hos Imint finns inga tydliga avdelningar och hårt ritade gränser. Vår uppgift är att omsätta innovativa idéer och forskningsnära kunskap till riktiga funktioner i var mans hand, och på kort tid. Denna roll har dock fokus på den mer långsiktiga utvecklingen, där tidiga idéer provas ut och undersöks. Erfarenhet av både forskningens innehåll inom bild/videobehandling och forskningens metodik är därför värdefull.<!--more--> Önskade erfarenheter listas nedan.

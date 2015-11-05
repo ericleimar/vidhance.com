@@ -7,7 +7,7 @@ location: "Uppsala, Sverige"
 menu:
   main:
     name: "Examensarbete: algoritmer"
-    parent: "Careers"
+    parent: "Career"
     weight: 70
 ---
 Vi letar efter sistaårsstudenter inom mjukvaruutveckling med tidigare erfarenhet av programmering och gärna inom bildanalys och algoritmer. Vi uppskattar flexibla, självdrivna och mångkunniga studenter med bra social och kommunikativ förmåga som trivs i ett företag med entreprenörskultur.<!--more-->

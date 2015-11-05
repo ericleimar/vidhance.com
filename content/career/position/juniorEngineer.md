@@ -7,7 +7,7 @@ type: "position"
 menu:
   main:
     name: "Junior utvecklare"
-    parent: "Careers"
+    parent: "Career"
     weight: 20
 ---
 För denna roll värdesätts kvalitetsmedvetenhet, bra kommunikationsförmåga, och ett intresse av att stödja ingenjörer hos några av världens mest kända smartphonetillverkare i integrationsarbetet av vår mjukvara i deras telefoner.<!--more-->

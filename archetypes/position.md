@@ -5,14 +5,14 @@ type: "position"
 menu:
   main:
     name: "Menu-name"
-    parent: "Careers"
+    parent: "Career"
     weight: 999
 ---
 weight		= used for order on the page, low numbers on the top and high on the bottom
 location	= location for the position
 type			= is set to "position" so that the desired template is used to render the page
 menu -> name		= the name to display in the menu for this position
-menu -> parent	= is set to Careers to make it an item in the submenu for Careers
+menu -> parent	= is set to Career to make it an item in the submenu for Career
 menu -> weight	= used for order in the menu, low numbers on the top and high on the bottom
 
 The tag below defines where the summary of this content file ends

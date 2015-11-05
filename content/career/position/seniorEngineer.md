@@ -7,7 +7,7 @@ location: "Uppsala, Sverige"
 menu:
   main:
     name: "Senior utvecklare"
-    parent: "Careers"
+    parent: "Career"
     weight: 10
 ---
 För denna roll värdesätts kvalitetsmedvetenhet, erfarenhet av metoder för systematisk testning och kvalitetskontroll, och principer för effektivt produktunderhåll - i korthet erfarenhet av produktvård och produktledning för mjukvara.<!--more-->

@@ -8,7 +8,7 @@ location: "Uppsala, Sweden"
 menu:
   main:
     name: "Junior Engineer"
-    parent: "Careers"
+    parent: "Career"
     weight: 30
 ---
 
