@@ -8,7 +8,7 @@ type: "position"
 menu:
   main:
     name: "Senior Field Engineer"
-    parent: "Careers"
+    parent: "Career"
     weight: 10
 ---
 # Background

@@ -7,7 +7,7 @@ location: "Uppsala, Sverige"
 menu:
   main:
     name: "Teknisk marknadsförare"
-    parent: "Careers"
+    parent: "Career"
     weight: 50
 ---
 Denna roll är ny på Imint, och innebär att arbeta i den spännande gränszonen mellan teknik och marknad. Uppgifterna kan därför variera över tid, och även anpassas till speciell kompetens som en bra sökande kan bidra med. Vi tror att en bra kandidat har en utbildning som ingenjör eller inom naturvetenskap som grund, men intresse, viss erfarenhet, och fallenhet för marknadsföring och kommunikation.<!--more-->

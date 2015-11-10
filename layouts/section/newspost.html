@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
 <head>{{ partial "head.html" . }}</head>
-<body id="inner-wrap">
+<body>
 	{{ partial "header.html" . }}
 	{{ partial "navigation.html" . }}
 	<main class="no-animation">
 		<section>
 			{{ $paginator := .Paginate (.Data.Pages.ByDate.Reverse) 5}}
-			{{ partial "pagination.html" $paginator }}
-			{{ range $index, $page := .Paginator.Pages }}
+			{{ partial "pagination.html" . }}
+			{{ range .Paginator.Pages }}
 				{{ .Render "summary" }}
 			{{ end }}
-			{{ partial "pagination.html" $paginator }}
+			{{ partial "pagination.html" . }}
 		</section>
 	</main>
 	{{ partial "footer.html" . }}

@@ -4,8 +4,8 @@ date: 2015-07-21
 weight: 10
 menu:
   main:
-    name: "Careers"
-    URL: "/career"
+    name: "Career"
+    URL: "/career/"
     weight: 20
 ---
 # About Imint

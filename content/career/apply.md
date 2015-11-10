@@ -7,6 +7,6 @@ type: "form"
 menu:
   main:
     name: "Apply"
-    parent: "Careers"
+    parent: "Career"
     weight: 100
 ---
