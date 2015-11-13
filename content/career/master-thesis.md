@@ -1,7 +1,7 @@
 ---
 title: "Examensarbete inom videobearbetning och bildanalys"
 date: 2015-07-21
-weight: 160
+weight: 190
 draft: true
 type: "position"
 location: "Uppsala, Sverige"

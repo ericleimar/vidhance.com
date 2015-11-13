@@ -1,7 +1,7 @@
 ---
 title: "Examensarbete inom schedulering med OpenGL"
 date: 2015-07-21
-weight: 160
+weight: 120
 #draft: true
 type: "position"
 location: "Uppsala, Sverige"
@@ -9,7 +9,7 @@ menu:
   main:
     name: "Examensarbete inom schedulering med OpenGL"
     parent: "Career"
-    weight: 0
+    weight: 15
 ---
 Vi letar efter sistaårsstudenter inom mjukvaruutveckling med tidigare erfarenhet av programmering och gärna inom parallellism och bildanalys. Vi uppskattar flexibla, självdrivna och mångkunniga studenter med bra social och kommunikativ förmåga som trivs i ett företag med entreprenörskultur.
 <!--more-->
@@ -18,7 +18,7 @@ Vi letar efter sistaårsstudenter inom mjukvaruutveckling med tidigare erfarenhe
 
 På Imint utvecklar vi mjukvara för att analysera, optimera och förbättra video i realtid. Följande modell visar ett exempel på de många delar som spelar in:
 
-{{<img src="/career/position/masterThesisGraphScheduling/stack.png" caption="Exempel på videosekvens med varierande kvalitet" class="fullwidth">}}
+{{<img src="stack.png" caption="Exempel på videosekvens med varierande kvalitet" class="fullwidth">}}
 
 Energiförbrukningen är som regel proportionell mot kvadraten på klockfrekvensen, vilket gör det attraktivt att dela upp ett stort arbete på flera kärnor. Samtidigt ligger en beräkningskostnad i att planera/schedulera jobben i en parallell arkitektur samt att skapa och synkronisera trådar. Detta gör att hastigheten kan bli lidande. För olika scenarion, exempelvis privat videoinspelning eller liveströmning, förordas olika avvägningar mellan dessa två alternativ.
 
