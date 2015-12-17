@@ -34,6 +34,6 @@ Examensarbetet ger ingen ersättning under tiden det utförs men ett lyckat och 
 # Processen:
 Vi förväntar oss att examenarbetet ska vara avslutat våren 2016.
 
-Vi ber i första hand kandidater att använda vårt [webformulär](/career/apply/) vid ansökningar. Vi ber också att frågor om tjänsten eller rekryteringsprocessen i första hand ställs per email till [careers@imint.se](mailto:careers@imint.se), eftersom rekryterande chefer ofta är på resande fot i andra tidszoner.
+Vi ber i första hand kandidater att använda vårt [webformulär](/career/apply/) vid ansökningar. Vi ber också att frågor om tjänsten eller rekryteringsprocessen i första hand ställs per email till [career@vidhance.com](mailto:career@vidhance.com), eftersom rekryterande chefer ofta är på resande fot i andra tidszoner.
 
 Vi ser fram emot din ansökan!

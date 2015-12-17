@@ -50,6 +50,6 @@ Exjobbare kommer att skriva på ett avtal med Imint som innefattar sekretess och
 Examensarbetet ger ingen ersättning under tiden det utförs men ett planenligt slutfört examensarbete ger en bonus på 25 000 Kr (brutto).
 
 # Processen:
-Examenarbetet förväntas vara avslutat våren 2016. Intresserade kandidater kan ansöka via vårt [webformulär](/career/apply/). Frågor om tjänsten eller rekryteringsprocessen bör i första hand ställas per email till [careers@imint.se](mailto:careers@imint.se), eftersom rekryterande chefer ofta är på resande fot i andra tidszoner.
+Examenarbetet förväntas vara avslutat våren 2016. Intresserade kandidater kan ansöka via vårt [webformulär](/career/apply/). Frågor om tjänsten eller rekryteringsprocessen bör i första hand ställas per email till [career@vidhance.com](mailto:career@vidhance.com), eftersom rekryterande chefer ofta är på resande fot i andra tidszoner.
 
 Vi ser fram emot din ansökan!
