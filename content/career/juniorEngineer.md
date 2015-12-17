@@ -1,14 +1,14 @@
 ---
 title: "Junior mjukvaruutvecklare/ produktintegratör"
 date: 2015-07-21
-weight: 120
+weight: 150
 location: "Uppsala, Sverige"
 type: "position"
 menu:
   main:
     name: "Junior utvecklare"
     parent: "Career"
-    weight: 20
+    weight: 30
 ---
 För denna roll värdesätts kvalitetsmedvetenhet, bra kommunikationsförmåga, och ett intresse av att stödja ingenjörer hos några av världens mest kända smartphonetillverkare i integrationsarbetet av vår mjukvara i deras telefoner.<!--more-->
 

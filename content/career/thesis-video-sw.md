@@ -1,21 +1,21 @@
 ---
-title: "Examensarbete inom videomjukvara och -redigeringsalgoritmer (20v)"
+title: "Examensarbete inom videomjukvara och redigeringsalgoritmer (20v)"
 date: 2015-07-21
-weight: 170
+weight: 130
 type: "position"
 location: "Uppsala, Sverige"
 menu:
   main:
     name: "Examensarbete: algoritmer"
     parent: "Career"
-    weight: 70
+    weight: 15
 ---
 Vi letar efter sistaårsstudenter inom mjukvaruutveckling med tidigare erfarenhet av programmering och gärna inom bildanalys och algoritmer. Vi uppskattar flexibla, självdrivna och mångkunniga studenter med bra social och kommunikativ förmåga som trivs i ett företag med entreprenörskultur.<!--more-->
 
 # Projektbeskrivning
 Smartphones används mer än någonsin till att fotografera och spela in video. Men samtidigt som kvaliteten på stillbilder ökar så händer det inte mycket med förbättring av kvaliteten för video. Telefonens kamera är dock ett bra mätverktyg och med en inspelad video som data kan man utläsa rörelsemönster i kameran och använda dem för att räkna ut användarens syfte med videoklippet.
 
-{{<img src="/career/position/masterThesisVideoSW/autocut.png" caption="Exempel på videosekvens med varierande kvalitet" class="fullwidth">}}
+{{<img src="autocut.png" caption="Exempel på videosekvens med varierande kvalitet" class="fullwidth">}}
 
 Bilden ovan illustrerar hur upplevelsen av en video blir sämre när delar av videon är av dålig kvalitet. Vi siktar på att validera en video helt automatiskt, dela upp den i meningsfulla scener och föreslå en uppdelning av videon där delar med låg kvalitet slängs bort.
 

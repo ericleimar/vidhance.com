@@ -9,7 +9,7 @@ Bettina Selig has PhD in Computerized Image Analysis from the Center for Image A
 
 David Forsgren Piuva has a Master's degree in Computer Science from Uppsala University. David has been devoted to computer games and graphics for almost two decades, and has developed both his own graphics's engine and programming language. David received the best in class award from Lundellska skolan gymnasium, and was nominated to Swedish Game Awards for best execution in 2008. With this background, and his strong interest in both audio- and imaging algorithms, he has already contributed substantially to Imint's development on contrast optimization technologies.
 
-{{<img src="/newspost/We-welcome-Bettina-David-and-Ziquan/bettina_dominic_david_final.jpg" caption="Ziquan Yu, Bettina Selig and David Forsgren Piuva">}}
+{{<img src="bettina_dominic_david_final.jpg" caption="Ziquan Yu, Bettina Selig and David Forsgren Piuva">}}
 
 Ziquan "Dominic" Yu holds a Bachelor's degree in Electronic and Information Engineering from Northwestern Polytechnical University, Xi'an, China, a Master's degree in Electrical Engineering from Dalarna University, Sweden, and a Master's degree in Computational Science from Uppsala University. Ziquan's experience in object identification and tracking methods and algorithms, honed in his as research assistant at the Center for Image Analysis, is adding to Imint's further tuning of its core video motion algorithms. During his work as research assistant, Ziquan developed algorithms to identify and track individual bees in a beehive, in a project under the Swedish University of Agricultural Sciences. Outside his academic work, he has devoted his time to computer vision projects, including novel ways to use the Kinect technology.
 
