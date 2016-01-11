@@ -7,7 +7,7 @@ weight = 3
 parent = "Solutions"
 name = "Compression"
 +++
-High-quality video files still consume a relatively large amount of storage space. With stabilized and enhanced video, the small unneccessary changes from frame to frame that otherwise occur in recorded video are minimized.
+High-quality video files still consume a relatively large amount of storage space. With stabilized and enhanced video, the small unnecessary changes from frame to frame that otherwise occur in recorded video are minimized.
 
 This allows video compression algorithms to more easily minimize the file size and bandwidth required to store or transfer video files.
 <!--more-->
