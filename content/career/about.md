@@ -29,7 +29,7 @@ In addition to specific demands for individual positions, we believe a candidate
 
 At Imint, we are software professionals. We develop innovative technology in the areas of video enhancement and video analytics for the most demanding situations. As a small team, we need to be both versatile and agile, with short cycles from idea, to proof-of-concept and further on to mature field deployed solutions.
 
-{{<img src="/career/TeamPhoto2.jpg" class="float-right half-width">}}
+{{<img src="/career/working.jpg" class="float-right half-width">}}
 
 Since Imint is an entrepreneurial and fast growing technology company, we appreciate dynamic, self-propelled and all-round talented co-workers with good social and communication skills, who thrive in a start-up corporate culture. We value sincerity and responsibility, and those who can combine creativity with ability to plan and deliver. Working with us should be both challenging and fun, we are driven by vision, and we appreciate a culture where good ideas and ability to execute, rather than titles, count.
 
