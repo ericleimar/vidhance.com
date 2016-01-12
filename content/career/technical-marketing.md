@@ -62,7 +62,7 @@ Vi har en entreprenörskultur. Det innebär att de som är initiativrika och sj�
 Imint erbjuder rätt sökande en marknadsmässig lön, med kollektivavtalshärmande villkor. Vi tillämpar flexibel arbetstid inom ramen för kärntid.Den här tjänsten påbörjas som en provanställning enligt lagen om anställningsskydd.
 
 # Processen:
-I den tillväxtfas som Imint är inne i, sker rekrytering löpande. Vi uppmanar dock att söka tjänsten senast den 30 augusti 2015. Till den här tjänsten kan vi komma att be om enklare arbetsprover och referensarbeten.
+I den tillväxtfas som Imint är inne i sker rekrytering löpande. Till den här tjänsten kan vi komma att be om enklare arbetsprover och referensarbeten.
 
 Vi ber i första hand kandidater att använda vårt [webformulär](/career/apply/) vid ansökningar. Vi ber också att frågor om tjänsten eller rekryteringsprocessen i första hand ställs per email till [career@vidhance.com](mailto:career@vidhance.com), eftersom rekryterande chefer ofta är på resande fot i andra tidszoner.
 
