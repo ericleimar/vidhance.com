@@ -5,6 +5,7 @@ weight: 120
 #draft: true
 type: "position"
 location: "Uppsala, Sverige"
+draft: true
 menu:
   main:
     name: "Examensarbete inom schedulering med OpenGL"
