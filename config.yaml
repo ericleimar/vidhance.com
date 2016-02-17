@@ -17,3 +17,6 @@ menu:
     - name: "Technology"
       weight: 21
       URL: "/technology/"
+    - name: "Vidhancemobile.com →"
+      weight: 50
+      URL: "http://vidhancemobile.com"

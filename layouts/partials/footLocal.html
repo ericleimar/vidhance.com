@@ -8,4 +8,29 @@ if (document.URL.search("localhost") == -1) {
   ga('create', 'UA-69497927-1', 'auto');
   ga('send', 'pageview');
 }
+
+if($(window).width() > 831) {
+    $(window).scroll(function(e) {
+        $('body > header').removeClass('no-animation');
+        $('body > nav').removeClass('no-animation');
+        $('body > main').removeClass('no-animation');
+        $('body > header > a > img').removeClass('no-animation');
+        $('#overlayVideoContainer').removeClass('no-animation');
+        $('#overlayShadow').removeClass('no-animation');
+        if($(document).scrollTop() > 0) {
+            $('body > header').addClass('scrolledDown');
+            $('body > nav').addClass('scrolledDown');
+            $('body > main').addClass('scrolledDown');
+            $('#overlayVideoContainer').addClass('scrolledDown');
+            $('#overlayShadow').addClass('scrolledDown');
+        }
+        else {
+            $('body > header').removeClass('scrolledDown');
+            $('body > nav').removeClass('scrolledDown');
+            $('body > main').removeClass('scrolledDown');
+            $('#overlayVideoContainer').removeClass('scrolledDown');
+            $('#overlayShadow').removeClass('scrolledDown');
+        }
+    });
+}
 </script>

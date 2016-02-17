@@ -1,0 +1,100 @@
+#overlayVideoContainer {
+    position:fixed;
+    top:139px;
+    background-color: white;
+    border:1px solid black;
+    z-index:300;
+    width:90%;
+    margin-left:5%;
+    margin-right:5%;
+}
+#overlayVideoContainer > a:first-of-type {
+    display:block;
+    position:relative;
+    bottom:-40px;
+    margin-top:-40px;
+    float:right;
+    background-color:black;
+    opacity:0.8;
+    width:60px;
+    z-index:400;
+}
+#overlayVideoContainer > a:first-of-type > p {
+    margin-top:4px;
+    margin-bottom:7px;
+    margin-left:5px;
+    display:inline-block;
+    color:white;
+    float:left;
+    font-size: 0.7em;
+}
+#overlayVideoContainer > a:first-of-type > img {
+    display:inline-block;
+    float:right;
+    margin-top:5px;
+    margin-right:5px;
+    width: 15px;
+}
+#overlayVideo {
+    width:100%;
+    display:block;
+}
+#overlayVideoContainer > a > h1 {
+    font-size: 1em;
+    text-align:center;
+    background-color: ghostwhite;
+    margin: 0;
+    padding: 0.67em 0;
+    opacity: 0.80;
+}
+#overlayShadow {
+    position:fixed;
+    top:139px;
+    background-color:black;
+    opacity:0.80;
+    width:100%;
+    height:100%;
+    z-index:200;
+}
+
+@keyframes reduceTopOverlay {
+	from {top: 192px;}
+	to {top: 132px;}
+}
+@keyframes increaseTopOverlay {
+	from {top: 132px;}
+	to {top: 192px;}
+}
+
+@media screen and (min-width: 52em) {
+    #overlayVideoContainer > a > h1 {
+        text-align:center;
+        font-size: 2em;
+        background-color: #ccccce;
+    }
+    #overlayVideoContainer {
+        width:80%;
+        margin-left:10%;
+        margin-right:10%;
+    }
+    #overlayVideoContainer,
+    #overlayShadow {
+        top:192px;
+        animation-name: increaseTopOverlay;
+        animation-duration: 1s;
+    }
+}
+@media screen and (min-width: 100em) {
+    #overlayVideoContainer {
+        width:50%;
+        left:25%;
+        margin: 0;
+    }
+}
+
+#overlayVideoContainer.scrolledDown,
+#overlayShadow.scrolledDown {
+    top:132px;
+    animation-name: reduceTopOverlay;
+    animation-duration: 1s;
+}
