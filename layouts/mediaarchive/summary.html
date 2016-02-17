@@ -1,0 +1,18 @@
+<article>
+	<header><h1>{{ .Title }}</h1></header>
+	<main>
+    {{ if isset .Params "image" }}
+		<figure class="boxed-img" style="float:right;{{ if .Content }}width:50%;margin-top:2.54em;{{ end }}">
+			<img src="/mediaarchive/{{ .Params.image }}">
+            {{ if isset .Params "imagecaption" }} <figcaption> {{ .Params.imagecaption }} </figcaption> {{ end }}
+		</figure>
+	{{ end }}
+	{{ if isset .Params "video" }}
+		<video poster="{{ .RelPermalink }}{{ .Params.poster }}"  {{ if isset .Params "controls" }} controls {{ else }} autoplay loop muted {{ end }}>
+			<source src="{{ .RelPermalink }}{{ .Params.video }}" type="video/mp4">
+				Your browser does not support the video tag.
+		</video>
+	{{ end }}
+	{{ .Content }}
+    </main>
+</article>
