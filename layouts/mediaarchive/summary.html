@@ -2,8 +2,8 @@
 	<header><h1>{{ .Title }}</h1></header>
 	<main>
     {{ if isset .Params "image" }}
-		<figure class="boxed-img" style="float:right;{{ if .Content }}width:50%;margin-top:2.54em;{{ end }}">
-			<img src="/mediaarchive/{{ .Params.image }}">
+		<figure class="boxed-img" style="float:right;max-width:40%;">
+			<img src="/mediaarchive/{{ .Params.image }}" style="width:auto;height:auto;max-width:100%;">
             {{ if isset .Params "imagecaption" }} <figcaption> {{ .Params.imagecaption }} </figcaption> {{ end }}
 		</figure>
 	{{ end }}

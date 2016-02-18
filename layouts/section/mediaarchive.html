@@ -6,12 +6,12 @@
 	{{ partial "navigation.html" . }}
 	<main class="no-animation">
 		<section>
-			{{ $paginator := .Paginate (.Data.Pages.ByDate.Reverse) 3}}
-			{{ partial "pagination.html" . }}
+			{{ $paginator := .Paginate (.Data.Pages.ByWeight.Reverse) 5}}
+			{{ partial "mediaarchivePagination.html" . }}
 			{{ range .Paginator.Pages }}
 				{{ .Render "summary" }}
 			{{ end }}
-			{{ partial "pagination.html" . }}
+			{{ partial "mediaarchivePagination.html" . }}
 		</section>
 	</main>
 	{{ partial "footer.html" . }}
