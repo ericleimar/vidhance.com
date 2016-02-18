@@ -1,0 +1,11 @@
+<nav class="pagination" role="navigation">
+	<main {{ if not .Paginator.HasPrev }}style="text-align:right;"{{ end }}>
+	{{ if .Paginator.HasPrev }}
+	    <a class="newer-posts" href="{{ .Paginator.Prev.URL }}">&larr; Prev</a>
+	{{ end }}
+	<span class="page-number">{{ ( index $.Site.Data.translations $.Site.LanguageCode ).Page }} {{ .Paginator.PageNumber }} {{ ( index $.Site.Data.translations $.Site.LanguageCode ).of }} {{ .Paginator.TotalPages }}</span>
+	{{ if .Paginator.HasNext }}
+	    <a class="older-posts" href="{{ .Paginator.Next.URL }}">Next &rarr;</a>
+	{{ end }}
+	</main>
+</nav>

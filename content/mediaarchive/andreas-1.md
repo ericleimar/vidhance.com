@@ -1,5 +1,5 @@
 ---
-date: 2016-02-17T12:17:00+02:00
-image: "andreas_1.jpg"
+weight: 90
+image: "Andreas Lifvendahl CEO Imint Vidhance.jpg"
 imagecaption: "Andreas, CEO Imint"
 ---
