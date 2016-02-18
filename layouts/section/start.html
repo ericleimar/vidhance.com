@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>{{ partial "head.html" . }}</head>
+<body>
+	{{ partial "header.html" . }}
+	{{ partial "navigation.html" . }}
+	<main class="no-animation">
+		<section>
+			{{ range .Site.Sections.start.Pages.ByWeight }}
+				{{ if .Params.latestnews }}
+					<article class="latestnews">
+						{{ range first 2 .Site.Sections.newspost.Pages.ByDate.Reverse }}
+							{{ .Render "summary" }}
+						{{ end }}
+					</article>
+				{{ else }}
+					{{ partial "article.html" . }}
+				{{ end }}
+			{{ end }}
+		</section>
+	</main>
+	{{ partial "footer.html" . }}
+	{{ partial "foot.html" . }}
+</body>
+</html>

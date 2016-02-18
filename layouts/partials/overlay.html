@@ -1,0 +1,23 @@
+<div id="overlayVideoContainer" class="no-animation">
+    <a href="#" onclick="hideOverlay(event);">
+        <p>Close</p>
+        <img src="/img/close-btn.png">
+    </a>
+    <video id="overlayVideo" autoplay controls muted poster="/start/Presentation-mwc.001.png">
+        <source type="video/mp4" src="/start/banner_web.mp4"></source>
+        Your browser does not support the video tag.
+    </video>
+    <a href="http://vidhancemobile.com"><h1>Are you interested in Vidhance on mobile platforms? Click here.</h1></a>
+</div>
+<div id="overlayShadow" class="no-animation"></div>
+
+<link rel="stylesheet" href="/css/overlay.css">
+
+<script>
+    function hideOverlay(event) {
+        event.preventDefault();
+        document.getElementById("overlayVideo").pause();
+        document.getElementById("overlayVideoContainer").style.display = "none";
+        document.getElementById("overlayShadow").style.display = "none";
+    }
+</script>

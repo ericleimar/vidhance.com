@@ -4,6 +4,7 @@
 <body>
 	{{ partial "header.html" . }}
 	{{ partial "navigation.html" . }}
+    {{ partial "overlay.html" . }}
 	<main class="no-animation">
 		<section>
 			{{ range .Site.Sections.start.Pages.ByWeight }}
