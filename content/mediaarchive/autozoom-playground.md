@@ -1,5 +1,7 @@
 ---
-weight: 60
+weight: 90
 image: "autozoom_playground.png"
-draft: true
 ---
+# Autozoom
+
+Instantly create engaging videos where panning and zooming happens smoothly and automatically.
