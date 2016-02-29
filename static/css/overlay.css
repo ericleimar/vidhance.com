@@ -81,7 +81,7 @@
     #overlayShadow {
         top:192px;
         animation-name: increaseTopOverlay;
-        animation-duration: 1s;
+        animation-duration: 0.5s;
     }
 }
 @media screen and (min-width: 100em) {
@@ -96,5 +96,5 @@
 #overlayShadow.scrolledDown {
     top:132px;
     animation-name: reduceTopOverlay;
-    animation-duration: 1s;
+    animation-duration: 0.5s;
 }
