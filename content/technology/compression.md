@@ -9,9 +9,13 @@ menu:
     parent: "Technology"
     weight: 0
 ---
+High-quality video files still consume a relatively large amount of storage space. With stabilized and enhanced video, the small unnecessary changes from frame to frame that otherwise occur in recorded video are minimized. This allows video compression algorithms to more easily minimize the file size and bandwidth required to store or transfer video files.
+
+In turn, this improves communication with, and storage of, video in small devices with limited storage space - such as smartphones. At the same time, video quality is dramatically improved in live scenarios such as video conferencing tools, and all private video recordings.
+<!--more-->
 We generally say that a video is a series of images, around 30 or so for each second of video. Each image is called a **frame**. This means that storing or transmitting a video file really involves storing or transmitting a potentially very large set of images. Naturally, we want to minimize the time and cost of this action, which is why we *compress* videos.
 
-Images can themselves be compressed, for example by storing them in like JPEG and PNG. However, video compression usually works by computing and compressing **deltas** between frames, the difference between one frame and the next. <!--more--> This is preferable over storing each individual frame as a compressed image, because if a frame is more similar to the previous one, less data is required in order to describe the delta. As a digital image consists of pixels, the delta is an accumulation of differences in corresponding pixels.
+Images can themselves be compressed, for example by storing them in like JPEG and PNG. However, video compression usually works by computing and compressing **deltas** between frames, the difference between one frame and the next. This is preferable over storing each individual frame as a compressed image, because if a frame is more similar to the previous one, less data is required in order to describe the delta. As a digital image consists of pixels, the delta is an accumulation of differences in corresponding pixels.
 
 The difference, or **diff** for short, between two pixels can be computed by taking the absolute value of the difference between the colors of those pixels. An image diff can be created by computing the pixel diff for every pixel in two different images. If a pixel has the exact same color in both images, that pixel will be black in the diff, since the color black is (0,0,0) in the RGB color space. The larger the difference between corresponding pixels in two frames, the brighter the pixel will be in the diff. Thus the diff between two frames can itself be viewed as an image, as seen below. The more similar the images are, the darker the total diff will be.
 
