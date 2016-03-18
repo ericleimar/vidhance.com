@@ -19,12 +19,16 @@ Vidhance Live Video stabilization is the first feature within the Vidhance platf
 
 Below you can watch videos shot with iPhone 6s and Nexus 6P compared with videos stabilized with Vidhance:
 
+<iframe src="https://player.vimeo.com/video/159463810?title=0&byline=0&portrait=0" width="700" height="394" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/159463810">Vidhance Premium Video Stabilization</a> from <a href="https://vimeo.com/user49017225">Vidhance</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<!--
 <video poster="film_stabilization.png" controls>
 	<source src="film_stabilization_720.mp4" type="video/mp4">
 	<source src="web_orig_iphone_vidh_720.mp4" type="video/webm">
 	Your browser does not support the video tag.
 </video>
-
+-->
 <!-- {{<img src="Unintended motion.png" class="float-right half-width">}}
 -->
 

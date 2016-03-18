@@ -13,11 +13,16 @@ With Vidhance Autozoom enabled in your phone, zooming and panning will happen au
 
 # You will instantly get engaging videos for immediate sharing on social media.
 
+<iframe src="https://player.vimeo.com/video/159426475?title=0&byline=0&portrait=0" width="700" height="394" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/159426475">Vidhance Live Autozoom</a> from <a href="https://vimeo.com/user49017225">Vidhance</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<!--
 <video poster="autozoom.png" controls>
 	<source src="film_autozoom.mp4" type="video/mp4">
 	<source src="video/iPhone Mixtape.webm" type="video/webm">
 	Your browser does not support the video tag.
 </video>
+-->
 
 # The complete solution of Live Autozoom is built up of advanced real-time algorithms and includes modules such as:
 

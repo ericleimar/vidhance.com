@@ -22,10 +22,15 @@ Vidhance Adaptive Regional Contrast Optimization could be a good alternative to 
 # Vidhance Adaptive Regional Contrast Optimization is an all-software solution, that does not require any specific camera interface – it will process frame by frame as delivered from the camera. 
 
 Below you can watch some examples of how Vidhance Contrast Optimization works:
+
+<iframe src="https://player.vimeo.com/video/159425347?title=0&byline=0&portrait=0" width="700" height="394" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/159425347">Adaptive Contrast Optimization</a> from <a href="https://vimeo.com/user49017225">Vidhance</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<!--
 <video poster="film_contrast.png" controls>
 	<source src="film_contrast_720.mp4" type="video/mp4">
 	<source src="video/iPhone Mixtape.webm" type="video/webm">
 	Your browser does not support the video tag.
 </video>
-
+-->
 

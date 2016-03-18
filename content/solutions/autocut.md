@@ -21,8 +21,13 @@ This feature is not yet implemented and we are looking for lead partners to crea
 Since people want to share videos with each other more and more this has the potential to become a feature highly sought-after by users all over the world.
 
 Below you can watch a video showing how Vidhance Auto Curate could work in the future:
+
+<iframe src="https://player.vimeo.com/video/159424015?title=0&byline=0&portrait=0" width="700" height="394" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/159424015">Vidhance Auto Curate and Auto Cut</a> from <a href="https://vimeo.com/user49017225">Vidhance</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<!--
 <video poster="film_autocut.png" controls>
 	<source src="film_autocut_720.mp4" type="video/mp4">
 	<source src="video/iPhone Mixtape.webm" type="video/webm">
 	Your browser does not support the video tag.
 </video>
+-->
