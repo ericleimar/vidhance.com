@@ -22,5 +22,5 @@ Since people want to share videos with each other more and more this has the pot
 
 Below you can watch a video showing how Vidhance Auto Curate could work in the future:
 
-<iframe src="https://player.vimeo.com/video/159424015?title=0&byline=0&portrait=0" width="700" height="394" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/159424015' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 <p><a href="https://vimeo.com/159424015">Vidhance Auto Curate and Auto Cut</a> from <a href="https://vimeo.com/user49017225">Vidhance</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

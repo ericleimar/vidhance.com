@@ -26,5 +26,6 @@ Read more about some of our features:
 - [Live Auto Curate and Auto Cut](/solutions/autocut)
 - [Adaptive Regional Contrast Optimization ("HDR for video")](/solutions/contrast)
 
-<iframe src="https://player.vimeo.com/video/159464616?title=0&byline=0&portrait=0" width="700" height="394" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/159464616">Vidhance Premium Video Stabilization - compared to iPhone 6s and Nexus 6P</a> from <a href="https://vimeo.com/user49017225">Vidhance</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/159464616' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+<a href="https://vimeo.com/159464616">Vidhance Premium Video Stabilization</a> from <a href="https://vimeo.com/user49017225">Vidhance</a> on <a href="https://vimeo.com">Vimeo</a>.
+
