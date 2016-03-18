@@ -5,5 +5,5 @@ weight: 10
 video: "web_orig_iphone_vidh_720.mp4"
 poster: "web_vidhancemobile.png"
 controls: true
-draft = true
+draft: true
 ---

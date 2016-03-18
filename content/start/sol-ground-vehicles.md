@@ -3,7 +3,7 @@ title: ""
 date: 2015-07-28
 weight: 70
 image: "robotExplosiveDisposal.png"
-draft = true
+draft: true
 ---
 
 # Ground Vehicles, UGVs and Robots
