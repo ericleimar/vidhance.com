@@ -1,7 +1,7 @@
 +++
 title = "Auto Curate and Auto Cut"
 image = "ui.png"
-weight = 2
+weight = 7
 [menu.main]
 parent = "smartphones"
 name = "autocut"

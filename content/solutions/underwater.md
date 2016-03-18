@@ -3,10 +3,10 @@ title = "Underwater and Sub-Surface Video"
 date = 2015-10-14T00:00:00Z
 image = "uwROV.png"
 weight = 6
+draft = true
 [menu.main]
 parent = "Solutions"
 name = "Underwater"
-draft = true
 +++
 Remote-controlled underwater robots have become an essential tool in various deep sea operations. Safe control of these types of systems with high accuracy requires stabilized video streams of good quality.
 

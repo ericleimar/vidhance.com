@@ -3,10 +3,10 @@ title = "Aerial Surveillance and UAS"
 date = 2015-10-14T00:00:00Z
 image = "uavLaunch.png"
 weight = 5
+draft = true
 [menu.main]
 parent = "Solutions"
 name = "Aerial Surveillance and UAS"
-draft = true
 +++
 Video from unmanned aerial systems can often be affected by disturbances such as uncontrollable movements, vibration, weather conditions, and more. Despite this, video streams of high quality are needed, where stabilization can be play a major part.
 

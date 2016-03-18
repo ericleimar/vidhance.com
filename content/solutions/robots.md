@@ -3,10 +3,10 @@ title = "Ground Vehicles, UGVs, and Robots"
 date = 2015-10-14T00:00:00Z
 image = "robotExplosiveDisposal.png"
 weight = 7
+draft = true
 [menu.main]
 parent = "Solutions"
 name = "Ground Vehicles, UGVs, and Robots"
-draft = true
 +++
 Remote controlled robots, or unmanned ground vehicles, used on missions such as bomb defusal or search and rescue can suffer problems with visual disturbances affecting the video feed.
 

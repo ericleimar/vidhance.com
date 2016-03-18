@@ -3,10 +3,10 @@ title = "Air Traffic Management"
 date = 2015-10-14T00:00:00Z
 image = "foggyRunway.png"
 weight = 4
+draft = true
 [menu.main]
 parent = "Solutions"
 name = "Air Traffic Management"
-draft = true
 +++
 Today, civilian air traffic is monitored by air traffic controllers performing visual observations from towers. However, air traffic control is becoming more and more reliant on video feeds. Airports see more and more cameras being installed not only for traffic control, but also for security and perimeter protection purposes.
 

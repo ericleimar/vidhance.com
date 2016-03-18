@@ -1,6 +1,6 @@
 +++
 title = "Live Autozoom"
-weight = 2
+weight = 6
 image = "autozoom_playground.png"
 [menu.main]
 parent = "smartphones"

@@ -2,6 +2,7 @@
 title = "Defense and Industry solutions provided by Vidhance"
 weight = 3
 [menu.main]
+image = "uavLaunch.png"
 parent = "Solutions"
 name = "Defense and Industry"
 +++

@@ -3,10 +3,10 @@ title = "Compression"
 date = 2015-10-14T00:00:00Z
 image = "video-compression.jpg"
 weight = 3
+draft = true
 [menu.main]
 parent = "Solutions"
 name = "Compression"
-draft = true
 +++
 High-quality video files still consume a relatively large amount of storage space. With stabilized and enhanced video, the small unnecessary changes from frame to frame that otherwise occur in recorded video are minimized.
 

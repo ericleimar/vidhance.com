@@ -1,6 +1,7 @@
 +++
 title = "Vidhance Premium Video Stabilization"
-weight = 2
+weight = 5
+image = "web_vidhancemobile.png"
 [menu.main]
 parent = "smartphones"
 name = "stabilization"
@@ -11,7 +12,7 @@ name = "stabilization"
 {{<cite "Caitlin Dewey, Washington Post August 2014">}} 
 <br>
 
-Vidhance Live Video stabilization is the first feature within the Vidhance platform brought to market. Tests with leading smartphones demonstrate that low-frequency wobbling motion is still a challenge, resulting in unstable, low-quality videos. By utilizing both data from gyro sensors, as well as performing optical analysis, users can now reach new, professional levels
+Vidhance Live Video stabilization is the first feature within the Vidhance platform brought to market. Tests with leading smartphones demonstrate that low-frequency wobbling motion is still a challenge, resulting in unstable, low-quality videos. By utilizing both data from gyro sensors, as well as performing optical analysis, users can now reach new, professional levels.
 
 >I thought that all smartphones already had image stabilization.
  

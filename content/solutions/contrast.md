@@ -1,7 +1,7 @@
 +++
 title = "Adaptive Regional Contrast Optimization (“Video HDR”)"
 image = "contrast.png"
-weight = 2
+weight = 8
 [menu.main]
 parent = "smartphones"
 name = "contrast"
