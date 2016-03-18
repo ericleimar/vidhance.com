@@ -1,8 +1,8 @@
 +++
 title = "Vidhance Premium Video Stabilization"
 weight = 5
-[menu.main]
 image = "web_vidhancemobile.png"
+[menu.main]
 parent = "smartphones"
 name = "stabilization"
 +++
