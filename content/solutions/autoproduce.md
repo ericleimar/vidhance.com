@@ -1,4 +1,3 @@
-<!--
 +++
 title = "Collaborative Auto Production"
 image = "collaborativeConcept.png"
@@ -6,6 +5,7 @@ weight = 2
 [menu.main]
 parent = "smartphones"
 name = "autoproduce"
+draft = true
 +++
 
 # Automatic Production into one Single Stream
@@ -24,4 +24,3 @@ With Vidhance in your phone this might be one of the future features you will ge
 * Contrast Optimization
 * Auto curate
 * Smart camera selection
--->
