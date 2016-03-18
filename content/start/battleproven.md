@@ -1,12 +1,14 @@
 ---
-title : "Battle-proven"
-date: 2015-07-21
+title : "Battle proven"
 image : "provenTechnology.png"
-weight : 20
-draft: true
+weight : 60
 ---
-# Defense Technology Retargeted
+# Battle-proven technology
 
-[Imint's](http://www.imint.se) Vidhance technology has been used in demanding defense and industrial applications since 2008, and has been continually tuned and improved ever since.
+• Imint AB is a Swedish software company founded in 2007 out of research at Center for Image Analysis, Uppsala university.
+• The Vidhance technology has for many years been used in demanding applications of leading international companies within the industrial and defense industry.
+• When time-critical decisions based on live video feeds must be made, Vidhance has brought clarity and context to operators and commanders in the field.
+• Core methods are protected under US patents and additional patents are pending.
 
-When time-critical decisions need to be made, based on live video feeds, Vidhance brings clarity and context to operators and commanders in the field.
+[Read more about Imint AB](/about/about)
+

@@ -3,6 +3,7 @@ title: ""
 date: 2015-07-28
 weight: 50
 image: "uavLaunch.png"
+draft: true
 ---
 
 # Aerial Surveillance and UAS

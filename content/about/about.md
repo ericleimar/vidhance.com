@@ -12,10 +12,8 @@ menu:
 
 # From Eyes in the Sky
 
-Imint was founded in 2007, based on research at Uppsala University, Center for Image Analysis. Initially, the company focused on enhancing live aerial surveillance video streams by removing obstacles for human perception;caused by disturbances, such as uncontrollable movements, vibration and turbulence, and caused by low contrast visibility, caused by fog, mist and rain. The resulting core software package is Vidhance®.
+Vidhance is developed by Imint AB, a Swedish video software company based on research at Uppsala University, Center for Image Analysis. Imint’s patented video technology has ever since 2007 been sold to several leading international defense and industrial companies. Whenever time critical decisions are made, based on video sources, Imint has the software technology fit for the purpose.
 
-In 2009, Imint introduced the rapid video analysis tool Ihvert® to increase ISR capabilities in unmanned aerial systems (UAS). Since then, the aerial reconnaissance market has continued to be an important arena for Imint.
+We now bring these benefits to smartphone users. Vidhance extends the capabilities of today’s smartphones and lets the users get professional video results with their phones. Vidhance will – in real time – bring premium video stabilization, auto zoom, auto curate and auto curate, adaptive regional contrast optimization, and many more features to users of smartphones and digital social media.
 
-Today, Imint is serving a broader range of customers in a variety of fields, with new products. Focus has remained on Vidhance, which is constantly improved and expanded in functionality.
-
-Whenever time critical decisions are made, based on video sources, Imint has the software technology fit for the purpose.
+We are now increasing our focus on Asia with Chinese speaking staff in Sweden as well as an office in Shanghai.
